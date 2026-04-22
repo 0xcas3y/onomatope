@@ -190,11 +190,23 @@ html, body {
   margin-bottom: 6px;
   opacity: 0.98;
 }
-.front-cn {
-  font-size: 13px;
-  line-height: 1.5;
-  opacity: 0.85;
-  font-weight: 400;
+.ik-link-wrap {
+  margin-top: 18px;
+  text-align: center;
+}
+.ik-link {
+  display: inline-block;
+  padding: 6px 14px;
+  font-size: 12.5px;
+  color: rgba(255,255,255,0.9);
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.25);
+  border-radius: 999px;
+  text-decoration: none;
+  transition: background 0.15s;
+}
+.ik-link:hover {
+  background: rgba(255,255,255,0.2);
 }
 .audio-badge {
   display: inline-block;

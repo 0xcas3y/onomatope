@@ -153,11 +153,15 @@ async function main() {
       }
 
       fs.writeFileSync(CARDS_JSON, JSON.stringify(data, null, 2));
-      await new Promise(r => setTimeout(r, 700));
+      await new Promise(r => setTimeout(r, 1500));
 
     } catch (err) {
       console.log(`  [${card.id}] ${card.word}  ❌ ${err.message}`);
       fail++;
+      // 如果 API error，可能被限流，加长等待
+      if (err.message && err.message.includes('Failed to fetch')) {
+        await new Promise(r => setTimeout(r, 4000));
+      }
     }
   }
 

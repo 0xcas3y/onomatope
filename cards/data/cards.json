@@ -474,7 +474,20 @@
       ],
       "mnemonic": "典型的小孩哭声。多用于委屈、失望、撒娇地哭。拉长音「え～ん」是漫画里最常见的写法。\n\n🔍 近义区别：えーんえーん=小孩放声 ｜ しくしく=抽泣 ｜ おいおい=号啕（书面） ｜ わんわん=嚎啕（口语） ｜ めそめそ=碎碎哭",
       "collocations": "〜と泣く／〜泣き出す",
-      "examples": []
+      "examples": [
+        {
+          "jp": "あいえ 懸念にすぎませんが",
+          "cn": "No, I'm just a little concerned, that's all."
+        },
+        {
+          "jp": "うえーん 今日の神様 嫌い！",
+          "cn": "Kami-sama, I really don't like you today!"
+        },
+        {
+          "jp": "うえーん 怖かったのですよ！",
+          "cn": "I was so scared!"
+        }
+      ]
     },
     {
       "id": 17,
@@ -517,7 +530,24 @@
       ],
       "mnemonic": "大人也用的号啕大哭，声音大且持续。文学/书面色彩强，日常口语少见。\n\n🔍 近义区别：おいおい=号啕（文学） ｜ わんわん=嚎啕（口语） ｜ えーんえーん=小孩放声 ｜ しくしく=抽噎 ｜ おんおん=嗚嗚",
       "collocations": "〜と泣く／〜と声を上げる",
-      "examples": []
+      "examples": [
+        {
+          "jp": "(男性１ )おい！",
+          "cn": "Hey!",
+          "image": "media/18/0.jpg",
+          "image_source": "A-LittleWitchAcademia25_1_0.01.51.612.jpg",
+          "audio": "media/18/0.mp3",
+          "audio_source": "A-LittleWitchAcademia25_1_0.01.50.694-0.01.52.529.mp3"
+        },
+        {
+          "jp": "≪海！ 旗をあげるよ おいで！≫",
+          "cn": "Umi, I'm hoisting the flags. Come give me a hand."
+        },
+        {
+          "jp": "《おい！》",
+          "cn": "Come on..."
+        }
+      ]
     },
     {
       "id": 19,
@@ -1081,7 +1111,22 @@
       ],
       "mnemonic": "无湿气、无粘腻。物理上→酥脆/干爽；精神上→爽快豁达。\n\n🔍 近义区别：からっと=酥脆/干爽/爽朗 ｜ かりかり=咬脆 ｜ さっぱり=清爽 ｜ さらっと=不拖泥 ｜ すっきり=明快",
       "collocations": "〜揚がる／〜晴れる／〜した性格",
-      "examples": []
+      "examples": [
+        {
+          "jp": "…どこから？",
+          "cn": "From where?",
+          "image": "media/36/0.jpg",
+          "image_source": "Hyouka_12_0.01.07.500-0.01.11.600.jpg"
+        },
+        {
+          "jp": "あなたは どこから来たの？",
+          "cn": "Where did you come from?"
+        },
+        {
+          "jp": "あの性格からすると あいつは",
+          "cn": "Judging from her personality, she..."
+        }
+      ]
     },
     {
       "id": 37,
@@ -1156,7 +1201,22 @@
       ],
       "mnemonic": "比 かりかり 更硬、更单次。冰块、坚果被一下咬开/刮擦的\"重击式\"脆响。\n\n🔍 近义区别：がりっと=硬脆一下 ｜ かりっと=轻脆一下 ｜ ぼりっと=厚咬 ｜ ぼきっと=长物断 ｜ ばりっと=薄破",
       "collocations": "〜食べる／〜噛む／〜削る",
-      "examples": []
+      "examples": [
+        {
+          "jp": "《自己主張し 名前などというものを欲しがり→ 種のために競うように 功を成そうとする反面→ かたくなに 個を重んじる》",
+          "cn": "They speak their minds and  request to use these names. While bettering the race, they compete for glory, leading to a stronger sense of individuality.",
+          "image": "media/39/0.jpg",
+          "image_source": "Toradora_03_0.04.15.229.jpg"
+        },
+        {
+          "jp": "あの男はどこだ 私に撃たせろ 召使いは存外 恥ずかしがり屋だったようです",
+          "cn": "Contrary to her appearance, this servant appears to be quite bashful!<br>Where the hell is that guy?"
+        },
+        {
+          "jp": "というか こいつの 怖がりそうなものがあったら ぜひ俺までご連絡いただきたい",
+          "cn": "Actually, if there is something that would scare Haruhi, please let me know."
+        }
+      ]
     },
     {
       "id": 40,
@@ -1169,7 +1229,20 @@
       ],
       "mnemonic": "比 がりっと 多一个「り」，带稍长的持续摩擦感。刮擦、磨蹭、慢慢咬碎。\n\n🔍 近义区别：がりっと=瞬间脆响 ｜ がりりと=带延长感的脆响（实际使用频率低）",
       "collocations": "〜削る／〜する／〜音",
-      "examples": []
+      "examples": [
+        {
+          "jp": "父がリゼさんのお父さんに よろしくと言ってました",
+          "cn": "My father said to give your father his regards."
+        },
+        {
+          "jp": "どちらがリゼさんにふさわしい服を コーディネートできるか",
+          "cn": "We'll have a contest to see who can coordinate the best outfit for Rize-san!"
+        },
+        {
+          "jp": "マチルダがリアムと手を結んだ。ケンカに時間を費やすのをやめて、大量のワインを作り始めた。供給が増えれば、必然的に価格は下がる",
+          "cn": "Matilda and Liam have made peace. They no longer waste time fighting, produce barrels of wine instead. Supply's up, so the price is down."
+        }
+      ]
     },
     {
       "id": 41,
@@ -1742,7 +1815,20 @@
       ],
       "mnemonic": "ぐいっと 的书面/文言版。現代口语 ぐいっと > ぐいと。小说、描写性文章偶见 ぐいと。\n\n🔍 近义区别：ぐいと ≈ ぐいっと（更文艺）",
       "collocations": "〜引く／〜寄せる／〜持ち上げる",
-      "examples": []
+      "examples": [
+        {
+          "jp": "ぐいっと上見て 突き進め！",
+          "cn": "Hold your head up high and plunge forward!"
+        },
+        {
+          "jp": "まぁ ぐいっと！",
+          "cn": "There you go."
+        },
+        {
+          "jp": "整腸作用がありますから ぐいっと。ありがとう。",
+          "cn": "It should be quickly effective as an internal disorder medication."
+        }
+      ]
     },
     {
       "id": 60,
@@ -2318,7 +2404,20 @@
       ],
       "mnemonic": "比 ごくごく 更\"一口一口分明\"（有停顿感）。常用于描写紧张时咽口水、满足地一口一口喝。\n\n🔍 近义区别：ごくりごくり=一口一口咕咚（分明）",
       "collocations": "〜と飲む／〜と唾を飲み込む",
-      "examples": []
+      "examples": [
+        {
+          "jp": "「ゴクリ くんかくんか」",
+          "cn": "&quot;This is Onii-chan's underwear... Gulp.&quot;<br>Sniff sniff!"
+        },
+        {
+          "jp": "ごくり",
+          "cn": "Gulp."
+        },
+        {
+          "jp": "クリーミーな甘みと カブの歯ごたえを味わいながら ゴクリといける 食感もいい",
+          "cn": "It's sweet and creamy, complementing the turnip's crunchiness, making it easy to swallow."
+        }
+      ]
     },
     {
       "id": 80,
@@ -2354,7 +2453,24 @@
       ],
       "mnemonic": "反复 + 有力的擦洗动作。洗脸、刷背、刷锅、擦鞋都用。\n\n🔍 近义区别：ごしごし=用力反复擦 ｜ ごりごり=硬物擦/啃 ｜ ぐいぐい=推进 ｜ すりすり=轻蹭 ｜ ぎゅっと=一下用力",
       "collocations": "〜洗う／〜こする／〜拭く",
-      "examples": []
+      "examples": [
+        {
+          "jp": "ごしごし",
+          "cn": "Scrub, scrub.",
+          "image": "media/81/0.jpg",
+          "image_source": "Anime_Your_lie_in_april_E14_1_0.11.42.770.jpg",
+          "audio": "media/81/0.mp3",
+          "audio_source": "Anime_Your_lie_in_april_E14_1_0.11.41.580-0.11.43.960.mp3"
+        },
+        {
+          "jp": "ごしごし―",
+          "cn": "Scrub, scrub."
+        },
+        {
+          "jp": "ごしごし ごしごし",
+          "cn": "Scrub, scrub, scrub, scrub."
+        }
+      ]
     },
     {
       "id": 82,
@@ -2775,7 +2891,16 @@
       ],
       "mnemonic": "单次性的倒/滚。常用于「ごろりと横になる」(一下子躺下)。\n\n🔍 近义区别：ごろり=一下躺下/滚下（单次）",
       "collocations": "〜と横になる／〜と寝転ぶ／〜と転がる",
-      "examples": []
+      "examples": [
+        {
+          "jp": "ごろりごろりごろり…",
+          "cn": "Roll... roll... roll...",
+          "image": "media/96/0.jpg",
+          "image_source": "A_KOn_S01E04_1_0.14.30.710.jpg",
+          "audio": "media/96/0.mp3",
+          "audio_source": "A_KOn_S01E04_1_0.14.28.945-0.14.32.475.mp3"
+        }
+      ]
     },
     {
       "id": 97,
@@ -3113,7 +3238,20 @@
       ],
       "mnemonic": "反复是共同意象。原义\"频繁\"，延伸到\"仔细看\"（眼睛反复扫过）。\n\n🔍 近义区别：しげしげ=反复打量 ｜ まじまじ=目不转睛 ｜ じっと=不动凝视 ｜ じろじろ=不客气打量 ｜ ちらちら=时瞟",
       "collocations": "〜と通う／〜と眺める／〜と見る",
-      "examples": []
+      "examples": [
+        {
+          "jp": "東京を歩く人間を しげしげとさ",
+          "cn": "Don't take your eyes off the people walking in Tokyo.",
+          "image": "media/110/0.jpg",
+          "image_source": "fermat_kitchen_005_0.13.27.370.jpg",
+          "audio": "media/110/0.mp3",
+          "audio_source": "fermat_kitchen_005_0.13.26.098-0.13.28.642.mp3"
+        },
+        {
+          "jp": "東京を歩く人間を しげしげとさ",
+          "cn": "Don't take your eyes off the people walking in Tokyo."
+        }
+      ]
     },
     {
       "id": 111,
@@ -3259,7 +3397,24 @@
       ],
       "mnemonic": "水龙头大开的流水声。比 ざあざあ 更偏\"从容器/水龙头出来\"的画面。\n\n🔍 近义区别：じゃあじゃあ=水龙头哗 ｜ ざあざあ=大雨哗 ｜ ぴしゃぴしゃ=小溅 ｜ ばしゃばしゃ=飞溅 ｜ ちょろちょろ=细流",
       "collocations": "〜出る／〜流れる／〜と",
-      "examples": []
+      "examples": [
+        {
+          "jp": "じゃあ じゃあ私は お母さんに会うために 生まれてきたのですよ",
+          "cn": "Then... Then, I was born to meet you, Mom!",
+          "image": "media/116/0.jpg",
+          "image_source": "Nisekoi_-_09_0.09.03.790-0.09.05.610.jpg",
+          "audio": "media/116/0.mp3",
+          "audio_source": "Nisekoi_-_09_0.09.03.790-0.09.05.610.mp3"
+        },
+        {
+          "jp": "じゃあじゃあ 今日の下着のい…",
+          "cn": "Okay then, the color of her panties—"
+        },
+        {
+          "jp": "（生徒）ノート見せたら おごりだからね （生徒） マジで？ えっ じゃあ じゃあ じゃあ 逆に俺もノート見せる",
+          "cn": "If you show them to Mika... Really? Then I'll show her my notes."
+        }
+      ]
     },
     {
       "id": 117,
@@ -3374,7 +3529,24 @@
       ],
       "mnemonic": "安静 + 深沉的意象。诗意感强。\n\n🔍 近义区别：しんしん=安静深沉 ｜ しとしと=细雨淅沥 ｜ ひっそり=静悄悄 ｜ 静かに=安静 ｜ ぴんと=刺骨",
       "collocations": "〜と降る／〜と更ける／〜と冷える",
-      "examples": []
+      "examples": [
+        {
+          "jp": "しんしんと…",
+          "cn": "Drip, drip, drop...",
+          "image": "media/120/0.jpg",
+          "image_source": "Fairy_Tail_025_0.02.29.484.jpg",
+          "audio": "media/120/0.mp3",
+          "audio_source": "Fairy_Tail_025_0.02.28.629-0.02.30.339.mp3"
+        },
+        {
+          "jp": "そう しんしんと…",
+          "cn": "Yes... Drip, drip, drop..."
+        },
+        {
+          "jp": "しんしんと… はぁ？",
+          "cn": "Drip, drip, drop."
+        }
+      ]
     },
     {
       "id": 121,
@@ -3464,7 +3636,12 @@
       ],
       "mnemonic": "快步、直接、不顾周围——不打招呼、不停下、径直前进。\n\n🔍 近义区别：すたすた=快走不顾 ｜ ずんずん=阔步气势 ｜ とぼとぼ=蔫慢 ｜ のしのし=大步踏实 ｜ ふらふら=摇晃",
       "collocations": "〜歩く／〜と／〜行く",
-      "examples": []
+      "examples": [
+        {
+          "jp": "ウルフリックがトリグを殺害したのさ。ソリチュードの宮殿にスタスタ入っていって殺したんだ。“シャウト”で殺したらしいぜ、信じるかどうかは分からんが",
+          "cn": "Ulfric murdered Torygg, you know. Walked right into his palace in Solitude and killed him. Shouted him to death, if you believe the stories."
+        }
+      ]
     },
     {
       "id": 125,
@@ -3818,7 +3995,16 @@
       ],
       "mnemonic": "气势 + 速度——有点不顾周围，直奔目标。\n\n🔍 近义区别：ずんずん=阔步有气势",
       "collocations": "〜歩く／〜進む／〜と足を踏み入れる",
-      "examples": []
+      "examples": [
+        {
+          "jp": "止まらずに その分野の闇に ずんずんと足を踏み入れていく",
+          "cn": "They just keep heading towards the darkness of their own fields,",
+          "image": "media/136/0.jpg",
+          "image_source": "fermat_kitchen_010_0.17.23.601.jpg",
+          "audio": "media/136/0.mp3",
+          "audio_source": "fermat_kitchen_010_0.17.21.287-0.17.25.917.mp3"
+        }
+      ]
     },
     {
       "id": 137,
@@ -4051,7 +4237,24 @@
       ],
       "mnemonic": "满满、富余——数量上绰绰有余的感觉。褒义色彩强。\n\n🔍 近义区别：たっぷり=充足饱满 ｜ どっさり=一大堆 ｜ ぎっしり=塞满 ｜ いっぱい=满 ｜ こってり=浓郁",
       "collocations": "〜ある／〜入れる／〜と／〜の時間",
-      "examples": []
+      "examples": [
+        {
+          "jp": "(マルクル) お湯をたっぷりね。 うん。",
+          "cn": "Get that hot water running, Markl.",
+          "image": "media/145/0.jpg",
+          "image_source": "A_Kill_la_Kill_23_0.21.06.056.jpg",
+          "audio": "media/145/0.mp3",
+          "audio_source": "A_Kill_la_Kill_23_0.21.04.554-0.21.07.557.mp3"
+        },
+        {
+          "jp": "お前らには たっぷり縄をくれてやるわい",
+          "cn": "I'll give you plenty of rope."
+        },
+        {
+          "jp": "お前らには北でのお礼をたっぷり…",
+          "cn": "I still need to repay the debt you guys gave me up north-"
+        }
+      ]
     },
     {
       "id": 146,
@@ -4359,7 +4562,12 @@
       ],
       "mnemonic": "单次剪断。与 ちょきちょき 的区别：单次 vs 连续。\n\n🔍 近义区别：ちょきん=一下剪断（单次）",
       "collocations": "〜と切る／〜と",
-      "examples": []
+      "examples": [
+        {
+          "jp": "チョッキン チョキン… チョキンな",
+          "cn": "Snip, snip... Snip."
+        }
+      ]
     },
     {
       "id": 158,
@@ -4821,7 +5029,24 @@
       ],
       "mnemonic": "人、事、感情一下子集中涌出。\n\n🔍 近义区别：どっと=一下涌 | ぱっと=一下展开 | ばっと=猛然 | わっと=哇的一声 | さっと=一下迅速",
       "collocations": "〜笑う／〜押し寄せる",
-      "examples": []
+      "examples": [
+        {
+          "jp": "けど なんか 疲れがドッと…",
+          "cn": "But I suddenly feel very tired...",
+          "image": "media/174/0.jpg",
+          "image_source": "A_Noragami_E04_1_0.06.54.710.jpg",
+          "audio": "media/174/0.mp3",
+          "audio_source": "A_Noragami_E04_1_0.06.53.470-0.06.55.950.mp3"
+        },
+        {
+          "jp": "こっちはドット柄",
+          "cn": "This one has polka dots!"
+        },
+        {
+          "jp": "っしゃあ パチンコでどっと稼ぐぜ",
+          "cn": "All right! Time to hit the casino!"
+        }
+      ]
     },
     {
       "id": 175,
@@ -4834,7 +5059,24 @@
       ],
       "mnemonic": "比 さっさと 更口语、带粗俗感的催促。\n\n🔍 近义区别：とっとと=赶紧（粗口） | さっさと=赶紧 | 早く=快 | てきぱき=麻利 | すたすた=快走",
       "collocations": "〜帰れ／〜する",
-      "examples": []
+      "examples": [
+        {
+          "jp": "「負け犬はとっとと消えろ」",
+          "cn": "&quot;Go away, losers!&quot;",
+          "image": "media/175/0.jpg",
+          "image_source": "girls_band_cry_013_0.05.37.544.jpg",
+          "audio": "media/175/0.mp3",
+          "audio_source": "girls_band_cry_013_0.05.36.630-0.05.38.460.mp3"
+        },
+        {
+          "jp": "うるせえ 竹林 とっとと入れ",
+          "cn": "Hey, Takebayashi, shut up and get in!"
+        },
+        {
+          "jp": "おあいそっつったら とっとと来いよ",
+          "cn": "We asked for the check ages ago."
+        }
+      ]
     },
     {
       "id": 176,
@@ -4861,7 +5103,24 @@
       ],
       "mnemonic": "液体浓稠、表面光滑；或动作缓慢。\n\n🔍 近义区别：とろとろ=黏滑/慢 | どろどろ=浑浊黏稠 | ねっとり=黏稠粘 | ぐずぐず=磨蹭 | のろのろ=慢",
       "collocations": "〜のスープ／〜する",
-      "examples": []
+      "examples": [
+        {
+          "jp": "あいつ さっきの競技で トロトロ走ってたヤツじゃ ねえのかよ？",
+          "cn": "Ain't that the one who staggered to the  finish line in the last competition?!",
+          "image": "media/177/0.jpg",
+          "image_source": "Anime_Your_lie_in_april_E16_1_0.14.43.215.jpg",
+          "audio": "media/177/0.mp3",
+          "audio_source": "Anime_Your_lie_in_april_E16_1_0.14.40.170-0.14.46.260.mp3"
+        },
+        {
+          "jp": "芋で懐柔されるか！ おいしそうだよ とろとろだよ 紅あずまだよ",
+          "cn": "It's so good and it'll melt in your mouth. Not to mention, it's a Beniazuma!"
+        },
+        {
+          "jp": "（流子）これはちょっと 危ないんじゃ… （薔薇蔵）トロトロに 溶けてまった （流子）これはちょっと 危ないんじゃ…",
+          "cn": "I think those might be a bit dangerous."
+        }
+      ]
     },
     {
       "id": 178,
@@ -4875,7 +5134,24 @@
       ],
       "mnemonic": "物理的浑黏或人际关系的复杂纠缠。\n\n🔍 近义区别：どろどろ=浑黏/复杂 | とろとろ=顺滑黏 | ぐちゃぐちゃ=混乱烂 | ぬるぬる=滑腻 | ねばねば=黏糊",
       "collocations": "〜のスープ／〜した関係",
-      "examples": []
+      "examples": [
+        {
+          "jp": "《さなぎの中身は ドロドロで→ 生物の体を成していないはず》",
+          "cn": "Within the cocoon should be nothing but a goopy mess. He shouldn't be a completely formed creature yet.",
+          "image": "media/178/0.jpg",
+          "image_source": "A_Kanon_E06_1_0.18.13.155.jpg",
+          "audio": "media/178/0.mp3",
+          "audio_source": "A_Kanon_E06_1_0.18.11.790-0.18.14.520.mp3"
+        },
+        {
+          "jp": "あっ 駆け魂 （駆け魂センサー） ドロドロドロドロ…",
+          "cn": "A-A Runaway Spirit?"
+        },
+        {
+          "jp": "あのドロドロに触ると死ぬぞ",
+          "cn": "Touch that muck and you're dead!"
+        }
+      ]
     },
     {
       "id": 179,
@@ -4888,7 +5164,12 @@
       ],
       "mnemonic": "瞬间融化或变黏的样子。常形容眼神迷蒙、液体变浓稠。\n\n🔍 近义区别：とろり=一下黏/迷蒙 | とろとろ=持续黏 | ふわり=轻飘 | ぐにゃり=一下弯 | ぽたり=一滴下",
       "collocations": "〜とした目／〜と溶ける",
-      "examples": []
+      "examples": [
+        {
+          "jp": "屋敷にいるエミリアとロリに 説明しに行く",
+          "cn": "I'm going to explain things to Emilia  and the loli in the mansion."
+        }
+      ]
     },
     {
       "id": 180,
@@ -4903,7 +5184,20 @@
       ],
       "mnemonic": "敲击的节奏声、进展顺利、账目持平等多义。\n\n🔍 近义区别：とんとん=轻敲/顺利 | どんどん=大响/稳步推 | こつこつ=持之以恒 | ぽんぽん=轻弹 | ぱちぱち=拍手",
       "collocations": "〜と叩く／〜拍子／〜で",
-      "examples": []
+      "examples": [
+        {
+          "jp": "いかがなものか とんとんとんとん",
+          "cn": "And you!",
+          "image": "media/180/0.jpg",
+          "image_source": "A_SteinsGateS01_E10_1_0.14.35.197.jpg",
+          "audio": "media/180/0.mp3",
+          "audio_source": "A_SteinsGateS01_E10_1_0.14.34.321-0.14.36.073.mp3"
+        },
+        {
+          "jp": "やってみたら案の定上手くいった。そこからはとんとん拍子",
+          "cn": "So I tried, and I did. And then it just snowballed from there."
+        }
+      ]
     },
     {
       "id": 181,
@@ -4917,7 +5211,24 @@
       ],
       "mnemonic": "持续增长/前进；或大声的咚咚响。\n\n🔍 近义区别：どんどん=稳步推 | ぐんぐん=强劲长 | みるみる=眼看变 | とんとん=顺利/轻敲 | がんがん=大响/冲",
       "collocations": "〜進む／〜増える",
-      "examples": []
+      "examples": [
+        {
+          "jp": "“ドンドンガバチョ ドンガバチョ”",
+          "cn": "There's always a tomorrow",
+          "image": "media/181/0.jpg",
+          "image_source": "A_FruitsBasket_S01E13_1_0.18.06.044.jpg",
+          "audio": "media/181/0.mp3",
+          "audio_source": "A_FruitsBasket_S01E13_1_0.18.04.876-0.18.07.212.mp3"
+        },
+        {
+          "jp": "“羊は さくをとびこえて どんどんにげていってしまいます”",
+          "cn": "The sheep jump over the fences, and keep running further away."
+        },
+        {
+          "jp": "ああ どんどん出口が遠く",
+          "cn": "Ah! The exit's getting farther and farther away!"
+        }
+      ]
     },
     {
       "id": 182,
@@ -4930,7 +5241,20 @@
       ],
       "mnemonic": "说话/动作拖得很长，带厌倦感。\n\n🔍 近义区别：ながなが=冗长 | だらだら=拖松 | くどくど=啰嗦 | ねちねち=黏糊 | えんえん=没完没了",
       "collocations": "〜と話す／〜と続く",
-      "examples": []
+      "examples": [
+        {
+          "jp": "そんなところから 長々と話されても困りますよ",
+          "cn": "Please spare me the long, rambly backstory."
+        },
+        {
+          "jp": "バカげた体勢のまま くだらない話を長々と…",
+          "cn": "and forcing them to stay that way while they listen to you."
+        },
+        {
+          "jp": "長々と入院しているが",
+          "cn": "He's been in the hospital for quite some time."
+        }
+      ]
     },
     {
       "id": 183,
@@ -4943,7 +5267,20 @@
       ],
       "mnemonic": "喜悦挂在脸上、温和的笑。正面语感强。\n\n🔍 近义区别：にこにこ=笑眯眯 | にやにや=阴笑 | にんまり=满足笑 | にやり=坏笑一下 | げらげら=放声笑",
       "collocations": "〜する／〜顔",
-      "examples": []
+      "examples": [
+        {
+          "jp": "いやいや ローンでなくて 一括ニコニコ現金払いじゃった",
+          "cn": "No, it wasn't a mortgage. They paid upfront with cold, hard cash."
+        },
+        {
+          "jp": "でも なんか 今でも ひょっこり 現れそうな気がするんだよな “悪い 悪い”とか言って ニコニコ笑って…",
+          "cn": "That said, it seems like she could still pop out of nowhere, grinning and saying, \"Whoops, sorry about that.\""
+        },
+        {
+          "jp": "でもさ あの桐生くんがずっとニコニコしてるのを想像してみて",
+          "cn": "Yeah, but just try to imagine Kiryuu-kun smiling all the time."
+        }
+      ]
     },
     {
       "id": 184,
@@ -4956,7 +5293,24 @@
       ],
       "mnemonic": "典型的猫叫拟声词。\n\n🔍 近义区别：ニャーニャー=猫 | ワンワン=狗 | モーモー=牛 | メーメー=羊 | ヒヒン=马",
       "collocations": "猫が〜と鳴く",
-      "examples": []
+      "examples": [
+        {
+          "jp": "あんたも ニャーニャー言わないじゃない",
+          "cn": "It's not like you meow, either.",
+          "image": "media/184/0.jpg",
+          "image_source": "Fairy_Tail_007_0.12.50.511.jpg",
+          "audio": "media/184/0.mp3",
+          "audio_source": "Fairy_Tail_007_0.12.48.738-0.12.52.283.mp3"
+        },
+        {
+          "jp": "うるさい！ 猫は 黙ってニャーニャー言ってなさい",
+          "cn": "Shut up, you! Little kitties should sit there quietly and meow!"
+        },
+        {
+          "jp": "にゃーにゃー",
+          "cn": "Meow meow?"
+        }
+      ]
     },
     {
       "id": 185,
@@ -4969,7 +5323,24 @@
       ],
       "mnemonic": "意味深长、带笑又不出声的样子。常负面。\n\n🔍 近义区别：にやにや=阴笑 | にこにこ=笑容 | にんまり=满足 | にやり=坏笑一下 | へらへら=傻笑",
       "collocations": "〜する／〜した",
-      "examples": []
+      "examples": [
+        {
+          "jp": "いや… ニヤニヤが止まんない",
+          "cn": "Sorry, I can't stop smiling.",
+          "image": "media/185/0.jpg",
+          "image_source": "Legal_High_05_0.18.45.240.jpg",
+          "audio": "media/185/0.mp3",
+          "audio_source": "Legal_High_05_0.18.44.060-0.18.46.420.mp3"
+        },
+        {
+          "jp": "え？ 何でニヤニヤしてんだ 小野寺",
+          "cn": "Why are you smirking, Onodera?"
+        },
+        {
+          "jp": "うん？どうしたんだよ ニヤニヤして",
+          "cn": "Why are you smiling?"
+        }
+      ]
     },
     {
       "id": 186,
@@ -4982,7 +5353,22 @@
       ],
       "mnemonic": "瞬间流露出坏主意或得意的笑。一次性。\n\n🔍 近义区别：にやり=坏笑一下 | にやにや=持续阴笑 | にっこり=一下微笑 | ふふっ=轻笑一下 | くすっ=噗嗤一声",
       "collocations": "〜と笑う",
-      "examples": []
+      "examples": [
+        {
+          "jp": "ああ シヴィでも 内政は 一気にやりたいタイプなんでな クイズゲーム用に―",
+          "cn": "Yeah, I'm the type who does all the  domestic stuff at once when I play Civ.",
+          "image": "media/186/0.jpg",
+          "image_source": "A_Erased_07_0.11.02.555.jpg"
+        },
+        {
+          "jp": "あれぇ～ どうしたの？ やっぱり一緒にやりたくなったあ？",
+          "cn": "What? Come again? You decided you want to join in?"
+        },
+        {
+          "jp": "お前みたいに やりたいことがさ。",
+          "cn": "I don't really have anything  I want to do like you do."
+        }
+      ]
     },
     {
       "id": 187,
@@ -5008,7 +5394,24 @@
       ],
       "mnemonic": "粘液感强、湿润+光滑的触感。负面为主。\n\n🔍 近义区别：ぬるぬる=湿滑腻 | ねばねば=黏糊 | べたべた=黏腻 | とろとろ=顺滑 | すべすべ=细腻光",
       "collocations": "〜する／〜した",
-      "examples": []
+      "examples": [
+        {
+          "jp": "「ぬるぬる団長さん」と「いけない艦長さん」ですね",
+          "cn": "Nurunuru Brigade Chief and Naughty Captain, correct?",
+          "image": "media/188/0.jpg",
+          "image_source": "Oreimo_S01E08_0.08.13.860-0.08.17.500.jpg",
+          "audio": "media/188/0.mp3",
+          "audio_source": "Oreimo_S01E08_0.08.13.860-0.08.17.500.mp3"
+        },
+        {
+          "jp": "しかも なんかヌルヌルする",
+          "cn": "It's slimy..."
+        },
+        {
+          "jp": "ほら、真白、太くてぬるぬるした所で",
+          "cn": "Go on, Mashiron. Take this fat, dripping shaft in your mouth."
+        }
+      ]
     },
     {
       "id": 189,
@@ -5021,7 +5424,24 @@
       ],
       "mnemonic": "粘性强、会拉丝的感觉。纳豆、山药等。\n\n🔍 近义区别：ねばねば=黏糊拉丝 | ぬるぬる=湿滑 | べたべた=黏腻 | ねちねち=黏缠（态度） | ねっとり=厚黏",
       "collocations": "〜した／〜する",
-      "examples": []
+      "examples": [
+        {
+          "jp": "このネバネバ炎… ウワッ…",
+          "cn": "...but first do somethin' about...",
+          "image": "media/189/0.jpg",
+          "image_source": "A_Assassination_classroom_E03_1_0.19.32.305.jpg",
+          "audio": "media/189/0.mp3",
+          "audio_source": "A_Assassination_classroom_E03_1_0.19.30.640-0.19.33.970.mp3"
+        },
+        {
+          "jp": "この野郎… ネバネバと うぜえんだよ",
+          "cn": "Bastard! I've had it up to  here with your gooey crap!"
+        },
+        {
+          "jp": "いつまでも ネバネバしてんじゃねえ！",
+          "cn": "I'm sick an' tired of your slimy ass!"
+        }
+      ]
     },
     {
       "id": 190,
@@ -5060,7 +5480,20 @@
       ],
       "mnemonic": "纯粹的动作慢、效率低。\n\n🔍 近义区别：のろのろ=慢 | もたもた=笨慢 | ぐずぐず=磨蹭 | だらだら=拖 | のっそり=慢而大",
       "collocations": "〜運転／〜する",
-      "examples": []
+      "examples": [
+        {
+          "jp": "なめくじ のろのろ ナニヌネノ （演劇部員） ナニヌネノ～！",
+          "cn": "-The slug slithers along, na-ni-nu-ne-no. -The slug slithers along, na-ni-nu-ne-no.",
+          "image": "media/192/0.jpg",
+          "image_source": "Z.SUZUMIYA_20_0.12.25.328.jpg",
+          "audio": "media/192/0.mp3",
+          "audio_source": "Z.SUZUMIYA_20_0.12.22.336-0.12.28.439.mp3"
+        },
+        {
+          "jp": "のろのろするな！",
+          "cn": "Stop dragging your feet!"
+        }
+      ]
     },
     {
       "id": 193,
@@ -5073,7 +5506,24 @@
       ],
       "mnemonic": "不紧不慢、没有压力的惬意状态。褒义。\n\n🔍 近义区别：のんびり=悠闲 | ゆっくり=慢慢 | ゆったり=宽松 | まったり=慵懒 | だらだら=松垮（负）",
       "collocations": "〜過ごす／〜した",
-      "examples": []
+      "examples": [
+        {
+          "jp": "あんたが のんびりしている間に 何が起きたのか １から聞かせてやるから そこに直れっていうの！",
+          "cn": "I'll fill you in on everything that happened  while you were busy taking your sweet time, so stay put and listen!",
+          "image": "media/193/0.jpg",
+          "image_source": "Shinsekai_Yori_01_0.08.18.645.jpg",
+          "audio": "media/193/0.mp3",
+          "audio_source": "Shinsekai_Yori_01_0.08.17.090-0.08.20.200.mp3"
+        },
+        {
+          "jp": "あんまりのんびり構えてはいられないぞ",
+          "cn": "You can't languish about too long, you know."
+        },
+        {
+          "jp": "いくら何でも のんびりしすぎ",
+          "cn": "Say what you want, but you sure took your time."
+        }
+      ]
     },
     {
       "id": 194,
@@ -5086,7 +5536,24 @@
       ],
       "mnemonic": "呼吸急促大声的样子。运动、紧张、生气时。\n\n🔍 近义区别：はあはあ=气喘 | ふうふう=吹气/累 | ぜいぜい=喘鸣 | ひいひい=痛苦 | あえぐ=喘息",
       "collocations": "〜と息を切らす",
-      "examples": []
+      "examples": [
+        {
+          "jp": "あははー 昨日ぶつかった人ですね",
+          "cn": "Ahaha~ You're the person we bumped into yesterday, right?",
+          "image": "media/194/0.jpg",
+          "image_source": "A_Code_GeassS01_12_0.07.48.590.jpg",
+          "audio": "media/194/0.mp3",
+          "audio_source": "A_Code_GeassS01_12_0.07.45.590-0.07.51.590.mp3"
+        },
+        {
+          "jp": "いやいや 見つかってよかった ハァ ハァ…",
+          "cn": "I'm so relieved to find you."
+        },
+        {
+          "jp": "うう… うっ ハア ハア… （神原）解呪の儀式とは かなり時間が かかるものだな",
+          "cn": "This removal ceremony sure takes a while..."
+        }
+      ]
     },
     {
       "id": 195,
@@ -5112,7 +5579,24 @@
       ],
       "mnemonic": "打喷嚏的拟声词。\n\n🔍 近义区别：はくしょん=喷嚏 | ハクション=同上（片假名） | くしゃみ=喷嚏（动词） | ごほごほ=深咳 | こんこん=小咳",
       "collocations": "〜とくしゃみ",
-      "examples": []
+      "examples": [
+        {
+          "jp": "絵にかいたように “はくしょん”っていうヤツ始めて見たわよー くしゅん",
+          "cn": "This is the first time I've heard someone actually \"a-choo\" when they sneeze.",
+          "image": "media/196/0.jpg",
+          "image_source": "luckystar-nodup_23_0.16.07.250.jpg",
+          "audio": "media/196/0.mp3",
+          "audio_source": "luckystar-nodup_23_0.16.04.700-0.16.09.800.mp3"
+        },
+        {
+          "jp": "ハクション",
+          "cn": "Achoo!"
+        },
+        {
+          "jp": "ハクション！",
+          "cn": "Achoo!"
+        }
+      ]
     },
     {
       "id": 197,
@@ -5125,7 +5609,20 @@
       ],
       "mnemonic": "嘴大张大合地吃东西的样子。\n\n🔍 近义区别：ぱくぱく=大口开合吃 | もぐもぐ=慢嚼 | がつがつ=狼吞虎咽 | むしゃむしゃ=大口嚼 | ちびちび=小口",
       "collocations": "〜食べる",
-      "examples": []
+      "examples": [
+        {
+          "jp": "さきぱくぱく飯食ってたろ！",
+          "cn": "You were chowing down on all that food!",
+          "image": "media/197/0.jpg",
+          "image_source": "A_Kanon_E03_1_0.09.16.925.jpg",
+          "audio": "media/197/0.mp3",
+          "audio_source": "A_Kanon_E03_1_0.09.16.030-0.09.17.820.mp3"
+        },
+        {
+          "jp": "とか言って、かがみもパクパク食べていたじゃない",
+          "cn": "So you say, but weren't you stuffing yourself earlier?"
+        }
+      ]
     },
     {
       "id": 198,
@@ -5139,7 +5636,24 @@
       ],
       "mnemonic": "忙碌发出连续声响，或小动物扑扇翅膀。\n\n🔍 近义区别：ばたばた=忙响/扑腾 | あたふた=动作慌 | そそくさ=想逃 | どたばた=闹腾 | わたわた=手忙脚乱",
       "collocations": "〜する／〜走る",
-      "examples": []
+      "examples": [
+        {
+          "jp": "いえ バタバタしていましたから まだ半ばです",
+          "cn": "No, I'm only halfway done, with all the activities we've done.",
+          "image": "media/198/0.jpg",
+          "image_source": "Sakurasou_no_Pet_na_Kanojo_06_0.14.15.425.jpg",
+          "audio": "media/198/0.mp3",
+          "audio_source": "Sakurasou_no_Pet_na_Kanojo_06_0.14.13.590-0.14.17.260.mp3"
+        },
+        {
+          "jp": "ごめん ばたばたして今日だってすっかり忘れてた",
+          "cn": "I'm so sorry. I was so distracted that I totally forgot it comes out today!"
+        },
+        {
+          "jp": "ご挨拶に伺おうと思っている うちにバタバタしちゃって…。",
+          "cn": "I was thinking of coming over to greet you, but things got all hectic before I could."
+        }
+      ]
     },
     {
       "id": 199,
@@ -5154,7 +5668,20 @@
       ],
       "mnemonic": "短促反复的清脆声，也指眨眼。\n\n🔍 近义区别：ぱちぱち=拍/火花/眨 | ぱちん=一下 | ぽんぽん=轻拍 | ぴかぴか=闪亮 | ぎらぎら=刺眼",
       "collocations": "拍手〜／目を〜／火が〜",
-      "examples": []
+      "examples": [
+        {
+          "jp": "やった！ 見事にレシピどおりです パチパチパチパチ！",
+          "cn": "I'm just a little demon, one hell of a little sister. Clap! Clap! Clap!"
+        },
+        {
+          "jp": "スバルの判断は大正解だったよ パチパチパチ",
+          "cn": "Your judgment was right on the mark! Clap, clap, clap."
+        },
+        {
+          "jp": "パチパチパチ♪",
+          "cn": "*clap clap clap*"
+        }
+      ]
     },
     {
       "id": 200,
@@ -5167,7 +5694,24 @@
       ],
       "mnemonic": "事物轮廓/意思清楚无模糊。\n\n🔍 近义区别：はっきり=清楚 | きっぱり=斩钉截铁 | くっきり=轮廓清 | しっかり=踏实 | ずばり=一针见血",
       "collocations": "〜見える／〜言う",
-      "examples": []
+      "examples": [
+        {
+          "jp": "あのなあ はっきりしない男が一番ダメなんだよ",
+          "cn": "Being ambivalent is the worst thing for a man.",
+          "image": "media/200/0.jpg",
+          "image_source": "Tenki_no_Ko_1_0.50.58.130.jpg",
+          "audio": "media/200/0.mp3",
+          "audio_source": "Tenki_no_Ko_1_0.50.56.340-0.50.59.920.mp3"
+        },
+        {
+          "jp": "あのね あいつ はっきり言うと…",
+          "cn": "To tell you the truth..."
+        },
+        {
+          "jp": "あの話の出所さえはっきりすれば",
+          "cn": "But if we can figure out the source for that story..."
+        }
+      ]
     },
     {
       "id": 201,
@@ -5180,7 +5724,24 @@
       ],
       "mnemonic": "瞬间意识到或吓一跳的反应。\n\n🔍 近义区别：はっと=猛然察觉 | ぎょっと=吃惊冻住 | どきっと=心跳一惊 | ぞっと=毛骨悚然 | ふっと=忽然一下",
       "collocations": "〜する／〜気づく",
-      "examples": []
+      "examples": [
+        {
+          "jp": "“はっと心が動いたり―”",
+          "cn": "Perhaps your heart was suddenly moved...",
+          "image": "media/201/0.jpg",
+          "image_source": "A_Anohana_E03_1_0.06.24.280.jpg",
+          "audio": "media/201/0.mp3",
+          "audio_source": "A_Anohana_E03_1_0.06.22.610-0.06.25.950.mp3"
+        },
+        {
+          "jp": "えーっと こっちのお部屋はっと…",
+          "cn": "Hm, this room is..."
+        },
+        {
+          "jp": "こんなとき頼りになるのはっと…",
+          "cn": "Anyone good to rely on at a time like this..."
+        }
+      ]
     },
     {
       "id": 202,
@@ -5194,7 +5755,24 @@
       ],
       "mnemonic": "担心对方的安危而心跳加速；或薄物一片片落下。\n\n🔍 近义区别：はらはら=捏汗/飘落 | どきどき=心跳 | ひやひや=担忧 | ぱらぱら=零星 | ひらひら=轻飘",
       "collocations": "〜する／花が〜と",
-      "examples": []
+      "examples": [
+        {
+          "jp": "お前につられて眠っちまうんじゃ ないかって ハラハラしたよ",
+          "cn": "I was worried sick that he would fall asleep just like you did!",
+          "image": "media/202/0.jpg",
+          "image_source": "A_UsagiDrop_10_0.08.01.440.jpg",
+          "audio": "media/202/0.mp3",
+          "audio_source": "A_UsagiDrop_10_0.07.59.940-0.08.02.940.mp3"
+        },
+        {
+          "jp": "もう がちがちで こっちが はらはら",
+          "cn": "He was such a bundle of nerves."
+        },
+        {
+          "jp": "ああ… もう がちがちで こっちが はらはら",
+          "cn": "My heart started pounding."
+        }
+      ]
     },
     {
       "id": 203,
@@ -5207,7 +5785,24 @@
       ],
       "mnemonic": "没有统一、散落的状态。\n\n🔍 近义区别：ばらばら=散乱 | ぱらぱら=零星 | ごちゃごちゃ=杂乱 | ちりぢり=分散 | めちゃくちゃ=乱",
       "collocations": "〜になる／〜の",
-      "examples": []
+      "examples": [
+        {
+          "jp": "うおっ！ 鮮血ちゃんが バラバラになってる",
+          "cn": "Senketsu's all chopped to bits!",
+          "image": "media/203/0.jpg",
+          "image_source": "A_Shirokuma_Cafe_14_0.13.30.970.jpg",
+          "audio": "media/203/0.mp3",
+          "audio_source": "A_Shirokuma_Cafe_14_0.13.29.930-0.13.32.010.mp3"
+        },
+        {
+          "jp": "お兄さん 心配性だから― ぶっ殺したあと 最後にもう一度― ドカーンってバラバラにして バラバラ！",
+          "cn": "And since this guy is such a worrywart, we blasted him to bits with one more  \"kaboom\" after we killed him!"
+        },
+        {
+          "jp": "かやくを バラバラにしてから いっこに まとめる」",
+          "cn": "Then, take all the gunpowder from them and put it in one big pile!"
+        }
+      ]
     },
     {
       "id": 204,
@@ -5220,7 +5815,20 @@
       ],
       "mnemonic": "小量持续落下或翻书的轻响。\n\n🔍 近义区别：ぱらぱら=零星 | ぽつぽつ=开始下 | ざあざあ=大雨 | しとしと=细雨 | はらはら=飘落",
       "collocations": "〜降る／〜めくる",
-      "examples": []
+      "examples": [
+        {
+          "jp": "アアッ… 今こそ 俺の見せ場エビ！ パラパ パラパラ パラッパ！ キャンサー",
+          "cn": "Now this is my moment to shine-ebi!"
+        },
+        {
+          "jp": "名前事典をパラパラめくって適当に名付けてしまったのだ",
+          "cn": "Consulting a name dictionary, he picked one completely at random for me.<br>Seishirou!"
+        },
+        {
+          "jp": "未来から来たあたしは この時代の時間平面上では パラパラマンガの途中に描かれた 余計な絵みたいなもの",
+          "cn": "I'm from the future, so for this time plane, I'm like an extra picture drawn in the middle of a flip-book."
+        }
+      ]
     },
     {
       "id": 205,
@@ -5234,7 +5842,20 @@
       ],
       "mnemonic": "单次酥脆响或衣着整洁挺括。\n\n🔍 近义区别：ぱりっと=酥脆一声/笔挺 | かりっと=轻脆 | ぱりぱり=连续酥脆 | ばりっと=薄硬破 | きっちり=整齐",
       "collocations": "〜した服／〜揚げる",
-      "examples": []
+      "examples": [
+        {
+          "jp": "あのさ 透くん 温泉だからね？ パリに行こうとか 言ってるんじゃないんだから",
+          "cn": "Whoa, Tohru-kun. It's just a hot spring, okay? It's not Paris or anything."
+        },
+        {
+          "jp": "どこで会った？ パリか ロンドンか…",
+          "cn": "Where did we meet? Paris? London?"
+        },
+        {
+          "jp": "（パリストン） フッ え～と…。",
+          "cn": "Uh..."
+        }
+      ]
     },
     {
       "id": 206,
@@ -5248,7 +5869,16 @@
       ],
       "mnemonic": "持续的酥脆响或硬挺的样子。\n\n🔍 近义区别：ぱりぱり=连续酥脆 | ぱりっと=一下酥脆 | さくさく=轻脆 | かりかり=脆/焦躁 | がりがり=硬刮",
       "collocations": "〜の煎餅／〜食べる",
-      "examples": []
+      "examples": [
+        {
+          "jp": "みんなで パリパリって 音をさせながら食べるのは 楽しかったなあ",
+          "cn": "Those were the good times,  making loud cracking noises while we ate them!"
+        },
+        {
+          "jp": "（愛梨･菜緒）パリパリパリ…",
+          "cn": "-Nibble nibble. -Nibble nibble."
+        }
+      ]
     },
     {
       "id": 207,
@@ -5262,7 +5892,20 @@
       ],
       "mnemonic": "大声敲击或强调动作的激烈。\n\n🔍 近义区别：ばんばん=砰砰/狠 | ぱんぱん=啪啪/鼓 | どんどん=稳步推/咚咚 | がんがん=大响 | とんとん=轻敲",
       "collocations": "〜叩く／〜撃つ",
-      "examples": []
+      "examples": [
+        {
+          "jp": "“悪いことはダメだ”って 町のいじめっ子を バンバンたたいてたっけ",
+          "cn": "He'd go around and beat up the town bullies,  saying, \"It's wrong to do bad things!\""
+        },
+        {
+          "jp": "あ… あと 占いが すげぇバンバン当たるらしいぜ。",
+          "cn": "Oh, and she's an incredibly  accurate fortune teller."
+        },
+        {
+          "jp": "すごいよな、悪人がバンバンしびてんじゃん",
+          "cn": "That's amazing.  Bad guys just keep dropping dead."
+        }
+      ]
     },
     {
       "id": 208,
@@ -5276,7 +5919,24 @@
       ],
       "mnemonic": "清脆的双响或涨得鼓鼓。\n\n🔍 近义区别：ぱんぱん=啪啪/鼓胀 | ばんばん=砰砰/狠 | ぱちぱち=拍手 | ぎゅうぎゅう=挤压塞 | ぴちぴち=充满活力",
       "collocations": "〜叩く／〜に膨らむ",
-      "examples": []
+      "examples": [
+        {
+          "jp": "せっかく のパソコンにパンパンにインストールしてきたのに",
+          "cn": "I even installed a whole bunch beforehand, but I can't play any of them!!",
+          "image": "media/208/0.jpg",
+          "image_source": "A_UsagiDrop_03_0.07.05.500.jpg",
+          "audio": "media/208/0.mp3",
+          "audio_source": "A_UsagiDrop_03_0.07.04.449-0.07.06.551.mp3"
+        },
+        {
+          "jp": "だから腿とかパンパンで",
+          "cn": "My thighs are all banged up now..."
+        },
+        {
+          "jp": "でも もう パンパンだし",
+          "cn": "But it's filled to the brim."
+        }
+      ]
     },
     {
       "id": 209,
@@ -5289,7 +5949,20 @@
       ],
       "mnemonic": "瞬间明亮一下。闪电、光的反射。\n\n🔍 近义区别：ぴかっと=一下闪 | ぴかぴか=连续闪/锃亮 | きらっと=一下闪 | ぎらっと=刺眼闪 | きらきら=柔和闪",
       "collocations": "〜光る",
-      "examples": []
+      "examples": [
+        {
+          "jp": "((親戚は みんなピカドンだ 放っておけば 孤児院行きだ))",
+          "cn": "If we don't register him as ours, he'll end up in an orphanage."
+        },
+        {
+          "jp": "あと え～っと クラピカ！",
+          "cn": "Along with... Kurapika?"
+        },
+        {
+          "jp": "クラピカは お前達と違う。",
+          "cn": "Kurapika isn't like you."
+        }
+      ]
     },
     {
       "id": 210,
@@ -5302,7 +5975,24 @@
       ],
       "mnemonic": "持续的反光或洁净发亮。\n\n🔍 近义区别：ぴかぴか=锃亮 | きらきら=柔和闪 | ぎらぎら=刺眼 | つやつや=水润光 | てかてか=油光",
       "collocations": "〜の靴／〜光る",
-      "examples": []
+      "examples": [
+        {
+          "jp": "♪ ピカピカ きらめいて ♪ みんなで星みあげ",
+          "cn": "pikapika kirameite minna de hoshimiage We'll gaze up at the stars as they twinkle.",
+          "image": "media/210/0.jpg",
+          "image_source": "A_Assassination_classroom_E03_1_0.16.56.395.jpg",
+          "audio": "media/210/0.mp3",
+          "audio_source": "A_Assassination_classroom_E03_1_0.16.54.970-0.16.57.820.mp3"
+        },
+        {
+          "jp": "あれ ピカピカ主義 黄金色の岩 ゴールデンスパイラル",
+          "cn": "Huh?<br>&quot;Sparkleism,&quot;  &quot;The Gilded Stone,&quot; &quot;Golden Spiral&quot;..."
+        },
+        {
+          "jp": "いや～ だってギターって キラキラ ピカピカしてるから 何か 触るのが怖くて",
+          "cn": "The guitar is really shiny, so I got scared of touching it."
+        }
+      ]
     },
     {
       "id": 211,
@@ -5315,7 +6005,20 @@
       ],
       "mnemonic": "担心被责骂/被察觉而小心翼翼。\n\n🔍 近义区别：びくびく=怕挨训 | おどおど=畏缩 | そわそわ=坐不住 | ぶるぶる=发抖 | ひやひや=担忧",
       "collocations": "〜する／〜しながら",
-      "examples": []
+      "examples": [
+        {
+          "jp": "けど あれだけの個性 持っておいて どういう生き方すりゃあ あんなビクビクできるんだ？",
+          "cn": "But if he had such an amazing Quirk,  what kind of life did he live that made him so jumpy?"
+        },
+        {
+          "jp": "どうしたんです？ 森谷さん そんなにビクビクして （電車の近づく音）",
+          "cn": "What’s wrong, Moria-san? Why do you look so afraid?"
+        },
+        {
+          "jp": "またひふみ先輩 ビクビクしてる おもしろいです",
+          "cn": "Hifumi-senpai, you're twitching again. You're funny."
+        }
+      ]
     },
     {
       "id": 212,
@@ -5328,7 +6031,20 @@
       ],
       "mnemonic": "小幅度反复抖动。眼皮、肌肉。\n\n🔍 近义区别：ぴくぴく=抽动 | ぶるぶる=全身抖 | ひくひく=轻颤 | ぴくり=一下动 | ぷるぷる=果冻颤",
       "collocations": "〜する／〜させる",
-      "examples": []
+      "examples": [
+        {
+          "jp": "２、ピクピク",
+          "cn": "Two: Pick-pick..."
+        },
+        {
+          "jp": "ブーッ 正解は２番のピクピクでした",
+          "cn": "Wrong! The answer is number two: Pick-pick!"
+        },
+        {
+          "jp": "というわけで、明日は楽しくピクピクだ！",
+          "cn": "And so, we will have fun pick-picking tomorrow."
+        }
+      ]
     },
     {
       "id": 213,
@@ -5341,7 +6057,24 @@
       ],
       "mnemonic": "完全浸湿、水滴下来的程度。\n\n🔍 近义区别：びしょびしょ=湿透 | びちゃびちゃ=水花声 | ぬれぬれ=湿润 | じめじめ=潮闷 | しっとり=湿润温",
       "collocations": "〜になる／〜の",
-      "examples": []
+      "examples": [
+        {
+          "jp": "そんで 全身びしょびしょに なってんの あいつ アハハハ… で ２組の中村(なかむら)がさ―",
+          "cn": "And so she's totally soaked, from head to toe!",
+          "image": "media/213/0.jpg",
+          "image_source": "Anime_Your_lie_in_april_E15_1_0.18.03.205.jpg",
+          "audio": "media/213/0.mp3",
+          "audio_source": "Anime_Your_lie_in_april_E15_1_0.18.00.910-0.18.05.500.mp3"
+        },
+        {
+          "jp": "ひでえな ビショビショだ 大丈夫 高瀬君？",
+          "cn": "That's pretty bad. You're totally soaked. Are you alI right, Takase?"
+        },
+        {
+          "jp": "びしょびしょして 気持ち悪いだろうが",
+          "cn": "I'd feel gross if you got all soggy!"
+        }
+      ]
     },
     {
       "id": 214,
@@ -5354,7 +6087,24 @@
       ],
       "mnemonic": "压低声音说悄悄话。\n\n🔍 近义区别：ひそひそ=小声私语 | こそこそ=偷偷（负） | こっそり=悄悄（中） | ぼそぼそ=含糊低语 | ぶつぶつ=嘟囔",
       "collocations": "〜話／〜と",
-      "examples": []
+      "examples": [
+        {
+          "jp": "そうすれば神原のことなんて むしろ純真無垢(むく)な女の子に 見えてくるわ （ひそひそ） ハッ うっ えっ",
+          "cn": "Then Kanbaru will actually appear to be an innocent, pure-hearted girl.",
+          "image": "media/214/0.jpg",
+          "image_source": "A_Bakemonogatari_E12_1_0.12.45.641.jpg",
+          "audio": "media/214/0.mp3",
+          "audio_source": "A_Bakemonogatari_E12_1_0.12.38.509-0.12.52.773.mp3"
+        },
+        {
+          "jp": "女の子には遠巻きにヒソヒソされるし",
+          "cn": "All the girls are avoiding me and whispering about me,"
+        },
+        {
+          "jp": "女の子はみんなヒソヒソ あべ君のウワサをするの エンガチョって",
+          "cn": "The girls gossiped and called him names."
+        }
+      ]
     },
     {
       "id": 215,
@@ -5367,7 +6117,24 @@
       ],
       "mnemonic": "瞬间停止或完全吻合。\n\n🔍 近义区别：ぴたり=一下停/贴合 | ぴったり=严丝合缝 | ぱったり=倒下/断绝 | すっと=平滑无阻 | きっちり=精确",
       "collocations": "〜止まる／〜合う",
-      "examples": []
+      "examples": [
+        {
+          "jp": "ピタリがない場合は 近い月を当てたほうの 勝ちとなります",
+          "cn": "If neither gets it correct, whoever is closer will win.",
+          "image": "media/215/0.jpg",
+          "image_source": "A_Assassination_classroom_E12_1_0.09.23.285.jpg",
+          "audio": "media/215/0.mp3",
+          "audio_source": "A_Assassination_classroom_E12_1_0.09.22.030-0.09.24.540.mp3"
+        },
+        {
+          "jp": "ピタリと当てられたら お前達は自由だよ。",
+          "cn": "Get it right, and you're all free."
+        },
+        {
+          "jp": "ライン上 ぴたりと止まってしまった",
+          "cn": "It's come to a dead stop right on the line!"
+        }
+      ]
     },
     {
       "id": 216,
@@ -5380,7 +6147,24 @@
       ],
       "mnemonic": "尺寸/时间/人等完全匹配。褒义强。\n\n🔍 近义区别：ぴったり=严丝合缝 | ぴたり=一下合 | きっちり=精确严格 | ジャスト=正好 | ちょうど=正好",
       "collocations": "〜合う／〜のサイズ",
-      "examples": []
+      "examples": [
+        {
+          "jp": "“ピッタリ”って どういうこった？",
+          "cn": "What do you mean, \"perfect\"?",
+          "image": "media/216/0.jpg",
+          "image_source": "Hyouka_22_0.19.37.980-0.19.40.990.jpg",
+          "audio": "media/216/0.mp3",
+          "audio_source": "Hyouka_22_0.19.37.980-0.19.40.990.mp3"
+        },
+        {
+          "jp": "「冬の旅」か 俺たちぴったりの歌だな",
+          "cn": "Schubert's \"Winter Journey.\" It's perfect for us."
+        },
+        {
+          "jp": "ああ それで混乱はぴったりと収まった",
+          "cn": "Yeah. Everyone stopped panicking right after."
+        }
+      ]
     },
     {
       "id": 217,
@@ -5393,7 +6177,16 @@
       ],
       "mnemonic": "马的典型叫声。\n\n🔍 近义区别：ヒヒン=马 | ニャー=猫 | ワン=狗 | モー=牛 | ケロケロ=蛙",
       "collocations": "馬が〜と鳴く",
-      "examples": []
+      "examples": [
+        {
+          "jp": "ヒヒン、ブルルルル！",
+          "cn": "Yeehaaahahaha!"
+        },
+        {
+          "jp": "うう…うまくいかないわね。まだまだ教えてあげたい事があったのに。それに…ヒヒンブルルルル…",
+          "cn": "Grrr… that's horseshit. I mean, I got so much more I want to tell you, and… Hmmppphrr…"
+        }
+      ]
     },
     {
       "id": 218,
@@ -5419,7 +6212,12 @@
       ],
       "mnemonic": "尖利风声。\n\n🔍 近义区别：ぴゅうぴゅう=尖风 | びゅうびゅう=狂风 | そよそよ=微风轻 | ひゅうひゅう=呼呼风 | ざあざあ=大雨",
       "collocations": "風が〜",
-      "examples": []
+      "examples": [
+        {
+          "jp": "ピューピューピュー！ピーピーピー！",
+          "cn": "Phew phew phew! Phee phee phee!"
+        }
+      ]
     },
     {
       "id": 220,
@@ -5484,7 +6282,24 @@
       ],
       "mnemonic": "轻薄物体飘动的样子。\n\n🔍 近义区别：ひらひら=飘 | はらはら=飘落担心 | ふわふわ=蓬松飘 | ゆらゆら=摆 | ちらちら=飘舞",
       "collocations": "〜と舞う／花びらが〜",
-      "examples": []
+      "examples": [
+        {
+          "jp": "《あのヒラヒラした服も→ 死角を増やすため ひと役 買ってるわけか》",
+          "cn": "So those fluttering clothes were  meant to help him hide.",
+          "image": "media/224/0.jpg",
+          "image_source": "A_NoGameNoLife__02_0.13.06.193.jpg",
+          "audio": "media/224/0.mp3",
+          "audio_source": "A_NoGameNoLife__02_0.13.04.379-0.13.08.007.mp3"
+        },
+        {
+          "jp": "あんな女子のヒラヒラした物を着用していては",
+          "cn": "If I wore something as frilly as that girls' uniform,"
+        },
+        {
+          "jp": "うわ ひらひら多い 動きにくい",
+          "cn": "It's really frilly. It's hard to move in."
+        }
+      ]
     },
     {
       "id": 225,
@@ -5498,7 +6313,20 @@
       ],
       "mnemonic": "舌尖辣感或气氛的一瞬紧张。\n\n🔍 近义区别：ぴりっと=辣/紧一下 | ぴりぴり=持续辣/紧 | しびれ=麻 | ちくり=刺 | ずきっ=一下痛",
       "collocations": "〜辛い／〜した空気",
-      "examples": []
+      "examples": [
+        {
+          "jp": "もう少しピリッとしたらどう？",
+          "cn": "You should act more professionally!"
+        },
+        {
+          "jp": "アルカ また ちょっとピリっと来るぞ。",
+          "cn": "Alluka, you're gonna feel a little zap again."
+        },
+        {
+          "jp": "多少ピリッとする程度のを 分泌できる｡",
+          "cn": "though that actually just stings a little."
+        }
+      ]
     },
     {
       "id": 226,
@@ -5511,7 +6339,20 @@
       ],
       "mnemonic": "皮肤/黏膜的烧灼刺痛感。\n\n🔍 近义区别：ひりひり=烫辣表 | ぴりぴり=辣麻 | ずきずき=跳痛 | ちくちく=针扎 | きりきり=钻痛",
       "collocations": "肌が〜／口が〜",
-      "examples": []
+      "examples": [
+        {
+          "jp": "あ゛ヒリヒリする",
+          "cn": "Man, it stings..."
+        },
+        {
+          "jp": "もっとヒリヒリさせたら どんな顔すっかな？",
+          "cn": "I wonder what she'll look like  if I make it sting even more!"
+        },
+        {
+          "jp": "それじゃ、じっと座って私を見て。分析ソフトを実行するよ。ちょっとヒリヒリするから…",
+          "cn": "Now, sit still, look at me. Gonna run the analysis soft. Should feel a slight tingling??????"
+        }
+      ]
     },
     {
       "id": 227,
@@ -5524,7 +6365,24 @@
       ],
       "mnemonic": "舌上的辣麻或气氛/神经的紧张。\n\n🔍 近义区别：ぴりぴり=辣麻/紧绷 | ひりひり=表面辣 | ぴりっと=一下 | いらいら=焦躁 | ぞわぞわ=不适",
       "collocations": "〜する／〜した",
-      "examples": []
+      "examples": [
+        {
+          "jp": "《ピリピリ来るねぇ いい感じだ》",
+          "cn": "I can feel the tension in the air... I love it.",
+          "image": "media/227/0.jpg",
+          "image_source": "A_UsagiDrop_03_0.08.20.930.jpg",
+          "audio": "media/227/0.mp3",
+          "audio_source": "A_UsagiDrop_03_0.08.18.315-0.08.23.545.mp3"
+        },
+        {
+          "jp": "あっちの世界から来たヤツらに 会ってから― ルーシィ ピリピリしてるもんな",
+          "cn": "After meeting those guys from the other  world, Lucy's been more uptight than ever!"
+        },
+        {
+          "jp": "けど 来てみたら 葬式で ぴりぴりしてたおじさん おばさんが いたってわけ。",
+          "cn": "But, all the adults here last time were really tense around her."
+        }
+      ]
     },
     {
       "id": 228,
@@ -5538,7 +6396,20 @@
       ],
       "mnemonic": "撕纸的声响或电击的感觉。\n\n🔍 近义区别：びりびり=撕/电 | ぱりぱり=酥脆 | ばりばり=粗撕 | ぴりぴり=辣麻 | ずきっ=一下痛",
       "collocations": "紙が〜／〜と破る",
-      "examples": []
+      "examples": [
+        {
+          "jp": "バチバチって雷みたいのが― こう ビリビリーって ちょっと怖いんだあ",
+          "cn": "There's this big spooky lightning, and it's kind of scary..."
+        },
+        {
+          "jp": "何かビリビリするす！ ちょっ… えっ！",
+          "cn": "You're all tingly!"
+        },
+        {
+          "jp": "肌がビリビリする",
+          "cn": "My skin is all tingly..."
+        }
+      ]
     },
     {
       "id": 229,
@@ -5551,7 +6422,24 @@
       ],
       "mnemonic": "病人康复得很好或年长者活力强。\n\n🔍 近义区别：ぴんぴん=活蹦乱跳 | ぴちぴち=有活力 | ぴょんぴょん=蹦跳 | 元気=精神 | しゃきっと=爽利",
       "collocations": "〜している／〜元気",
-      "examples": []
+      "examples": [
+        {
+          "jp": "いや それはいいんだが— こいつ どうして爆裂魔法を 食らってピンピンしてんの？",
+          "cn": "That's great and all, but why is he totally fine after taking a blast of explosion magic?",
+          "image": "media/229/0.jpg",
+          "image_source": "Angel_Beats!_5_0.22.07.685.jpg",
+          "audio": "media/229/0.mp3",
+          "audio_source": "Angel_Beats!_5_0.22.06.000-0.22.09.620.mp3"
+        },
+        {
+          "jp": "いや 餌食つーか 皆ぴんぴんしてけど",
+          "cn": "I mean... not victims, since they're all still here but..."
+        },
+        {
+          "jp": "おじいさん 元気？ ず～っと お店 お休みだから→ 元気かなって…。 ピンピンしてるよ。",
+          "cn": "Is your grandfather sick? The store's been closed and I thought..."
+        }
+      ]
     },
     {
       "id": 230,
@@ -5564,7 +6452,24 @@
       ],
       "mnemonic": "门铃响或答对的信号音。\n\n🔍 近义区别：ピンポン=门铃/正解 | ちん=叮（微波） | かちっ=咔哒 | ぽん=轻拍 | とんとん=敲门",
       "collocations": "〜が鳴る／〜正解",
-      "examples": []
+      "examples": [
+        {
+          "jp": "じゃあ ピンポン ピンポン ピンポーンですよ！",
+          "cn": "Then bingo, bingo, bingo, bingo!",
+          "image": "media/230/0.jpg",
+          "image_source": "A_Durarara_S01_18_0.14.07.638.jpg",
+          "audio": "media/230/0.mp3",
+          "audio_source": "A_Durarara_S01_18_0.14.06.387-0.14.08.889.mp3"
+        },
+        {
+          "jp": "ピンポン",
+          "cn": "Bingo!"
+        },
+        {
+          "jp": "もしかして 文芸部だったとか？<br>（青山）ピンポンです",
+          "cn": "Were you in the literary club?<br>Bingo!"
+        }
+      ]
     },
     {
       "id": 231,
@@ -5577,7 +6482,24 @@
       ],
       "mnemonic": "吹出气或屁的拟声词。\n\n🔍 近义区别：ぷー=吹/屁 | ぶー=蜂鸣/屁 | ふー=长吹气 | ぷー=短吹 | ぷふ=笑喷",
       "collocations": "〜と吹く",
-      "examples": []
+      "examples": [
+        {
+          "jp": "お姉ちゃん プー太郎って…",
+          "cn": "Onee-chan. \"Bum\" is a little-",
+          "image": "media/231/0.jpg",
+          "image_source": "1_Litre_of_Tears_ep06_720p_x265-ER_0.08.13.164-0.08.15.703.jpg",
+          "audio": "media/231/0.mp3",
+          "audio_source": "1_Litre_of_Tears_ep06_720p_x265-ER_0.08.13.164-0.08.15.703.mp3"
+        },
+        {
+          "jp": "あんたは？ まだプー太郎の居候？",
+          "cn": "How about you? Still a freeloading bum?"
+        },
+        {
+          "jp": "（カズマ） いや 笑ってるし… プーッ クスクス！",
+          "cn": "But you are laughing."
+        }
+      ]
     },
     {
       "id": 232,
@@ -5590,7 +6512,20 @@
       ],
       "mnemonic": "给热食物吹凉或累喘。\n\n🔍 近义区别：ふうふう=吹凉/喘 | はあはあ=气喘 | ぜいぜい=喘鸣 | ぷー=吹一声 | ぱたぱた=扇风",
       "collocations": "〜吹く／〜言う",
-      "examples": []
+      "examples": [
+        {
+          "jp": "ふう ふう ふう… でも成長期ですし ふう ふう ふう…",
+          "cn": "But you are in a growth spurt."
+        },
+        {
+          "jp": "ふう ふう ふう… 知世ちゃんが作ってくれるの いつもピッタリだよ",
+          "cn": "All the clothes you make fit me perfectly, Tomoyo-chan..."
+        },
+        {
+          "jp": "ふー ふー。 慌てて 食うなよ。 うん。",
+          "cn": "Don't be in such a hurry. Okay."
+        }
+      ]
     },
     {
       "id": 233,
@@ -5604,7 +6539,20 @@
       ],
       "mnemonic": "嘟囔着抱怨或猪的叫声。\n\n🔍 近义区别：ぶうぶう=抱怨/猪 | ぶつぶつ=嘟囔 | ぐちぐち=闷抱怨 | ぶー=蜂鸣 | わあわあ=大吵",
       "collocations": "〜言う／豚が〜",
-      "examples": []
+      "examples": [
+        {
+          "jp": "チェッ… さっきまでブーブー言ってたくせに",
+          "cn": "They were complaining just now."
+        },
+        {
+          "jp": "ブーブー言うな",
+          "cn": "No complaining!"
+        },
+        {
+          "jp": "俺だって面倒くせえんだ ブーブー言うな",
+          "cn": "It's not a picnic for me either, you know. Stop complaining."
+        }
+      ]
     },
     {
       "id": 234,
@@ -5617,7 +6565,24 @@
       ],
       "mnemonic": "喇叭声或猪叫。儿童语。\n\n🔍 近义区别：ブーブー=车/猪 | パフパフ=老式喇叭 | ブッブー=不对的蜂鸣 | ブー=蜂鸣一下 | ピー=笛",
       "collocations": "車が〜／豚が〜",
-      "examples": []
+      "examples": [
+        {
+          "jp": "チェッ… さっきまでブーブー言ってたくせに",
+          "cn": "They were complaining just now.",
+          "image": "media/234/0.jpg",
+          "image_source": "Fairy_Tail_097_0.12.19.215.jpg",
+          "audio": "media/234/0.mp3",
+          "audio_source": "Fairy_Tail_097_0.12.18.401-0.12.20.028.mp3"
+        },
+        {
+          "jp": "ブーブー言うな",
+          "cn": "No complaining!"
+        },
+        {
+          "jp": "俺だって面倒くせえんだ ブーブー言うな",
+          "cn": "It's not a picnic for me either, you know. Stop complaining."
+        }
+      ]
     },
     {
       "id": 235,
@@ -5630,7 +6595,24 @@
       ],
       "mnemonic": "弹性好、蓬松柔软。面包、被子、地毯。\n\n🔍 近义区别：ふかふか=松软蓬 | ふわふわ=轻柔蓬 | もちもち=弹性软糯 | ほくほく=热乎蓬 | ふっくら=饱满蓬",
       "collocations": "〜のパン／〜した",
-      "examples": []
+      "examples": [
+        {
+          "jp": "ああ フカフカやなあ",
+          "cn": "Wow, this is so fluffy.",
+          "image": "media/235/0.jpg",
+          "image_source": "Isshuukan_Friends_(Test)_06_0.05.46.955.jpg",
+          "audio": "media/235/0.mp3",
+          "audio_source": "Isshuukan_Friends_(Test)_06_0.05.45.990-0.05.47.920.mp3"
+        },
+        {
+          "jp": "あと お布団もふかふかだったでしょう",
+          "cn": "And wasn't your futon nice and soft?"
+        },
+        {
+          "jp": "あと治療するイスも ふかふかのマッサージャー付きリクライニングチェアとか",
+          "cn": "And their chair has to be a soft, reclining massage chair."
+        }
+      ]
     },
     {
       "id": 236,
@@ -5643,7 +6625,24 @@
       ],
       "mnemonic": "衣鞋尺寸过大晃荡的样子。\n\n🔍 近义区别：ぶかぶか=太大 | だぶだぶ=宽松肥 | ぴったり=合身 | きつきつ=紧巴 | つんつるてん=短",
       "collocations": "〜の靴／〜の服",
-      "examples": []
+      "examples": [
+        {
+          "jp": "ちょっとブカブカです",
+          "cn": "It's a little big on me...",
+          "image": "media/236/0.jpg",
+          "image_source": "Toradora_07_0.16.11.346.jpg",
+          "audio": "media/236/0.mp3",
+          "audio_source": "Toradora_07_0.16.08.485-0.16.14.207.mp3"
+        },
+        {
+          "jp": "もしかして 水着が ぶかぶかで― みっともなくて 出てこれないのかと思っちゃった",
+          "cn": "I thought maybe your swimsuit was so loose you were ashamed to show yourself in public."
+        },
+        {
+          "jp": "ブカブカだけど",
+          "cn": "It's a little big though."
+        }
+      ]
     },
     {
       "id": 237,
@@ -5657,7 +6656,24 @@
       ],
       "mnemonic": "液体冒泡或人胖乎乎。\n\n🔍 近义区别：ぶくぶく=冒泡/肥 | ぷくぷく=小泡/鼓 | ふわふわ=蓬松 | むちむち=丰满 | ぼこぼこ=大泡",
       "collocations": "〜泡／〜太る",
-      "examples": []
+      "examples": [
+        {
+          "jp": "ブクブクと泡立つくらいに",
+          "cn": "to intentionally burn it and bring out the aroma.",
+          "image": "media/237/0.jpg",
+          "image_source": "A_UsagiDrop_05_0.08.26.235.jpg",
+          "audio": "media/237/0.mp3",
+          "audio_source": "A_UsagiDrop_05_0.08.21.230-0.08.31.240.mp3"
+        },
+        {
+          "jp": "子供育てながら できることじゃないし でも 宗一さんは 産むことを勧めるし 仕事してるか 寝込んでるかっていう毎日で ぶくぶく 太るし。",
+          "cn": "It's not the kind of job where you can raise a child at the same time. But Souichi-san said I should have the child. Every day I'd either work or lay in bed, constantly getting fatter."
+        },
+        {
+          "jp": "どうせ ハンバーガーと ホットドッグで→ ぶくぶくに なってることだろう。 ウフフ。",
+          "cn": "Anyhow you'll just become flabby on all the hamburgers and hot dogs you'll have."
+        }
+      ]
     },
     {
       "id": 238,
@@ -5670,7 +6686,24 @@
       ],
       "mnemonic": "水分与空气含量恰好的饱满感。\n\n🔍 近义区别：ふっくら=饱满蓬 | ふかふか=松软 | ふんわり=轻柔 | もちもち=弹性软糯 | ぷるぷる=弹性",
       "collocations": "〜のご飯／〜した",
-      "examples": []
+      "examples": [
+        {
+          "jp": "くちばしが ふっくらしてますから",
+          "cn": "Her beak is plump.",
+          "image": "media/238/0.jpg",
+          "image_source": "A_Anohana_E04_1_0.12.51.775.jpg",
+          "audio": "media/238/0.mp3",
+          "audio_source": "A_Anohana_E04_1_0.12.50.070-0.12.53.480.mp3"
+        },
+        {
+          "jp": "ドライイーストってパンをふっくらさせるんですよね",
+          "cn": "Dry yeast makes the bread rise, right?"
+        },
+        {
+          "jp": "ベーキングパウダーを使ってみれば もっと ふっくらすると思うわ",
+          "cn": "If you try using baking powder, I think it'll fluff up more."
+        }
+      ]
     },
     {
       "id": 239,
@@ -5697,7 +6730,24 @@
       ],
       "mnemonic": "抱怨性小声念或皮肤/表面颗粒感。\n\n🔍 近义区别：ぶつぶつ=嘟囔/颗粒 | がみがみ=大声骂 | ぐちぐち=闷抱怨 | ねちねち=黏糊 | ぶちぶち=断断续续",
       "collocations": "〜言う／〜した肌",
-      "examples": []
+      "examples": [
+        {
+          "jp": "なにブツブツ１人でしゃべってるの",
+          "cn": "Why are you mumbling to yourself?",
+          "image": "media/240/0.jpg",
+          "image_source": "A_Kill_la_Kill_06_0.15.15.414.jpg",
+          "audio": "media/240/0.mp3",
+          "audio_source": "A_Kill_la_Kill_06_0.15.13.245-0.15.17.583.mp3"
+        },
+        {
+          "jp": "はあ？ 何ブツブツ言ってんの？ あっ…",
+          "cn": "Huh? What are you muttering about?"
+        },
+        {
+          "jp": "ブツブツと うるさいかしら",
+          "cn": "Quit your grumbling, I suppose."
+        }
+      ]
     },
     {
       "id": 241,
@@ -5710,7 +6760,16 @@
       ],
       "mnemonic": "柔软没支撑力的样子。\n\n🔍 近义区别：ふにゃふにゃ=软绵 | ぐにゃぐにゃ=软塌无形 | ぷよぷよ=弹性软 | ふわふわ=轻柔蓬 | ぶよぶよ=松软肥",
       "collocations": "〜になる／〜した",
-      "examples": []
+      "examples": [
+        {
+          "jp": "いいのか？ １歩間違えれば 鍵までフニャフニャだぞ",
+          "cn": "You sure? If you're off just a  bit, the key'll be a bent-up mess."
+        },
+        {
+          "jp": "さあ乾杯だ。ニルフガード皇帝のイチモツが茹でた麺みたいにフニャフニャになって、皇位を継ぐクソッタレな子供が永遠にできないように！",
+          "cn": "Now I've a toast. May the emperor of Nilfgaard's prick stay as soft as a noodle, so there'll be no foul spawn to take his place on the throne!"
+        }
+      ]
     },
     {
       "id": 242,
@@ -5723,7 +6782,24 @@
       ],
       "mnemonic": "站不稳或没主见晃荡。\n\n🔍 近义区别：ふらふら=晃/无目的 | よろよろ=摇晃 | ぶらぶら=闲逛 | うろうろ=徘徊 | くらくら=头晕",
       "collocations": "〜歩く／〜する",
-      "examples": []
+      "examples": [
+        {
+          "jp": "『月刊 フラフラウォーカー』のライター 大崎と申します",
+          "cn": "Writer: Ohsaki Mayumi Hi, I'm a writer  for \"Furafura Walker Monthly.\" My name is Ohsaki.",
+          "image": "media/242/0.jpg",
+          "image_source": "A_UsagiDrop_09_0.07.36.390.jpg",
+          "audio": "media/242/0.mp3",
+          "audio_source": "A_UsagiDrop_09_0.07.34.390-0.07.38.390.mp3"
+        },
+        {
+          "jp": "あの日 会長に声をかけられて フラフラと踏み出した “第一歩”はムダじゃなかったんだ",
+          "cn": "The shaky first step I took after receiving the president's encouragement... wasn't for nothing."
+        },
+        {
+          "jp": "あらあら あんなにフラフラになって",
+          "cn": "Oh my, they're all so unsteady on their feet."
+        }
+      ]
     },
     {
       "id": 243,
@@ -5736,7 +6812,24 @@
       ],
       "mnemonic": "散步般的闲逛或物体悬垂晃动。\n\n🔍 近义区别：ぶらぶら=闲逛 | うろうろ=徘徊 | ふらふら=晃 | のんびり=悠闲 | ゆらゆら=轻摆",
       "collocations": "〜と歩く／〜する",
-      "examples": []
+      "examples": [
+        {
+          "jp": "お国のために 働いてる人らの弁当と 一日中ブラブラしとる あんたらと 何で 同じや思うの。",
+          "cn": "You think a lazy slug like you deserves the same as people who work for our nation?!",
+          "image": "media/243/0.jpg",
+          "image_source": "Toradora_21_0.08.50.281.jpg",
+          "audio": "media/243/0.mp3",
+          "audio_source": "Toradora_21_0.08.49.004-0.08.51.557.mp3"
+        },
+        {
+          "jp": "しかも高須の顔の上で 何ぶらぶらさせて…",
+          "cn": "And what're you dangling over Takasu's face!?"
+        },
+        {
+          "jp": "後は俺と同じ、何もすることがなくて、ブラブラしてるだけだ",
+          "cn": "After that, he became just like me, just kinda hanging around with nothing to do."
+        }
+      ]
     },
     {
       "id": 244,
@@ -5763,7 +6856,24 @@
       ],
       "mnemonic": "身体细密颤抖。\n\n🔍 近义区别：ぶるぶる=细颤 | がくがく=大颤 | ぷるぷる=弹性颤 | わなわな=紧绷颤 | ぞくぞく=战栗",
       "collocations": "〜震える／〜する",
-      "examples": []
+      "examples": [
+        {
+          "jp": "ぶるぶる震えてるんが まあ いいか",
+          "cn": "You're shaking all over the place, but that’ll do.",
+          "image": "media/245/0.jpg",
+          "image_source": "Angel_Beats!_10_0.09.50.015.jpg",
+          "audio": "media/245/0.mp3",
+          "audio_source": "Angel_Beats!_10_0.09.48.460-0.09.51.820.mp3"
+        },
+        {
+          "jp": "ほら 朝比奈さんが青くなって ブルブル震えているじゃないか",
+          "cn": "Look, Asahina is turning blue and shaking from fear."
+        },
+        {
+          "jp": "‪ほかの犬 見るだけで もう怖がって‬ ‪ブルブル震えてたわよ‬",
+          "cn": "He was trembling when he saw the other dogs."
+        }
+      ]
     },
     {
       "id": 246,
@@ -5776,7 +6886,24 @@
       ],
       "mnemonic": "物体轻盈或心情飘荡。\n\n🔍 近义区别：ふわふわ=轻柔蓬 | ふっくら=饱满蓬 | ふかふか=松软 | ぽわぽわ=恍惚 | ほわほわ=温暖蓬",
       "collocations": "〜のパン／〜した気分",
-      "examples": []
+      "examples": [
+        {
+          "jp": "(ヤスミンカ ) 食べる？ フワフワ味",
+          "cn": "Do you want one? They're fluffy.",
+          "image": "media/246/0.jpg",
+          "image_source": "A_KOn_S01E14_1_0.12.18.798.jpg",
+          "audio": "media/246/0.mp3",
+          "audio_source": "A_KOn_S01E14_1_0.12.17.453-0.12.20.143.mp3"
+        },
+        {
+          "jp": "「ふわふわタイム」",
+          "cn": "Fuwa Fuwa Time!"
+        },
+        {
+          "jp": "…じゃ 「ふわふわ時間」のサビはピンクで",
+          "cn": "Then we'll use pink during Fuwa Fuwa Time's B melody."
+        }
+      ]
     },
     {
       "id": 247,
@@ -5790,7 +6917,12 @@
       ],
       "mnemonic": "连续嗡鸣或用力摆动。\n\n🔍 近义区别：ぶんぶん=嗡嗡/挥 | びゅんびゅん=嗖嗖快 | がんがん=大响 | ぶー=蜂一声 | ぐるぐる=大圈绕",
       "collocations": "羽音が〜／首を〜振る",
-      "examples": []
+      "examples": [
+        {
+          "jp": "てめえら 虫みたいにブンブンうるせえな",
+          "cn": "You guys are just buzzin' like a bunch of bugs..."
+        }
+      ]
     },
     {
       "id": 248,
@@ -5804,7 +6936,24 @@
       ],
       "mnemonic": "肚子空或卑躬屈膝的样子。\n\n🔍 近义区别：ぺこぺこ=饿扁/点头 | ぺこり=鞠躬一下 | へいへい=应付 | おどおど=畏缩 | がつがつ=贪",
       "collocations": "腹が〜／〜頭を下げる",
-      "examples": []
+      "examples": [
+        {
+          "jp": "うれしい おなかペコペコだったの",
+          "cn": "I'm so happy. I was starving.",
+          "image": "media/248/0.jpg",
+          "image_source": "A_Erased_01_0.12.56.890.jpg",
+          "audio": "media/248/0.mp3",
+          "audio_source": "A_Erased_01_0.12.55.770-0.12.58.010.mp3"
+        },
+        {
+          "jp": "どうやら腹ペコのようね～。 もう ペコペコだよ。",
+          "cn": "You must be hungry. I'm starving..."
+        },
+        {
+          "jp": "ふわー おなかペコペコだよ",
+          "cn": "I'm so hungry..."
+        }
+      ]
     },
     {
       "id": 249,
@@ -5818,7 +6967,24 @@
       ],
       "mnemonic": "表面黏或人之间过度亲密。\n\n🔍 近义区别：べたべた=黏 | ねばねば=拉丝 | ぬるぬる=湿滑 | べったり=完全粘 | でれでれ=色眯眯",
       "collocations": "〜する／〜くっつく",
-      "examples": []
+      "examples": [
+        {
+          "jp": "いつもベタベタしてさ",
+          "cn": "Always fawning all over each other...",
+          "image": "media/249/0.jpg",
+          "image_source": "A_Kanon_E08_1_0.16.55.445.jpg",
+          "audio": "media/249/0.mp3",
+          "audio_source": "A_Kanon_E08_1_0.16.54.390-0.16.56.500.mp3"
+        },
+        {
+          "jp": "うわ べたべたの少女漫画だな",
+          "cn": "Yuck. It's the typical shoujo manga."
+        },
+        {
+          "jp": "お嬢にベタベタしやがって",
+          "cn": "Snuggling up to our Mistress, damn him!"
+        }
+      ]
     },
     {
       "id": 250,
@@ -5831,7 +6997,24 @@
       ],
       "mnemonic": "不停嘴地聊天。\n\n🔍 近义区别：ぺちゃくちゃ=叽叽喳喳 | べらべら=口若悬河 | ぺらぺら=薄/流畅说 | ぺちゃんこ=扁 | がやがや=嘈杂",
       "collocations": "〜と話す",
-      "examples": []
+      "examples": [
+        {
+          "jp": "るせーよ！ 何ぺちゃくちゃ話しかけてんだよ！",
+          "cn": "Shut the hell up! Why are you talking to me?",
+          "image": "media/250/0.jpg",
+          "image_source": "luckystar-nodup_14_0.19.22.435.jpg",
+          "audio": "media/250/0.mp3",
+          "audio_source": "luckystar-nodup_14_0.19.20.970-0.19.23.900.mp3"
+        },
+        {
+          "jp": "チッ… ペチャクチャやかましいヤツらだぜ なあ キュベリオス",
+          "cn": "You big liar! These guys are so annoying,  don't you think, Cubellios?"
+        },
+        {
+          "jp": "特使から命令をもらったはずだ。ここで何をぺちゃくちゃしゃべってるんだ？ 早く行け！",
+          "cn": "I believe the Legate gave you an order. Why are you standing around here flapping your jaw? Move out!"
+        }
+      ]
     },
     {
       "id": 251,
@@ -5844,7 +7027,24 @@
       ],
       "mnemonic": "紧贴不分离的状态。\n\n🔍 近义区别：べったり=完全粘 | べたべた=黏腻 | ぴったり=严合 | しっかり=踏实 | めろめろ=彻底沦陷",
       "collocations": "〜くっつく／〜する",
-      "examples": []
+      "examples": [
+        {
+          "jp": "あの子、いつもあんたにべったりでしょ",
+          "cn": "She's always sticking to you like glue.",
+          "image": "media/251/0.jpg",
+          "image_source": "A_ClannadS01_E11_1_0.07.56.065.jpg",
+          "audio": "media/251/0.mp3",
+          "audio_source": "A_ClannadS01_E11_1_0.07.55.130-0.07.57.000.mp3"
+        },
+        {
+          "jp": "さっちゃんなら 透くんにベッタリ",
+          "cn": "Satchan is stuck to Tohru like a burr."
+        },
+        {
+          "jp": "つかさは甘えん坊だから、 中学一年くらいまでべったりだったよねー",
+          "cn": "You were pretty spoiled... I think Mom clung onto you until sometime around middle school."
+        }
+      ]
     },
     {
       "id": 252,
@@ -5857,7 +7057,24 @@
       ],
       "mnemonic": "场合不分地笑、不严肃。\n\n🔍 近义区别：へらへら=傻笑 | にやにや=阴笑 | くすくす=偷笑 | げらげら=放声笑 | にこにこ=笑容",
       "collocations": "〜と笑う",
-      "examples": []
+      "examples": [
+        {
+          "jp": "え？ ヘ… ヘラヘラ？",
+          "cn": "S-Silly expression?",
+          "image": "media/252/0.jpg",
+          "image_source": "A_Code_GeassS01_09_0.10.52.430.jpg",
+          "audio": "media/252/0.mp3",
+          "audio_source": "A_Code_GeassS01_09_0.10.49.480-0.10.55.380.mp3"
+        },
+        {
+          "jp": "いつも ヘラヘラ 笑ってっからだよ",
+          "cn": "Because she always smiles  to hide her feelings!"
+        },
+        {
+          "jp": "どうして そう いつも ヘラヘラ笑ってる。",
+          "cn": "Why do you always have a smile on your face?"
+        }
+      ]
     },
     {
       "id": 253,
@@ -5870,7 +7087,24 @@
       ],
       "mnemonic": "不停嘴地说很多话。\n\n🔍 近义区别：べらべら=口若悬河 | ぺらぺら=流畅说 | ぺちゃくちゃ=叽叽喳喳 | すらすら=流畅 | がやがや=嘈杂",
       "collocations": "〜話す／〜喋る",
-      "examples": []
+      "examples": [
+        {
+          "jp": "どうりで 俺たちのこと ベラベラ話すと思った ん？",
+          "cn": "That explains why you spilled our secret so easily.",
+          "image": "media/253/0.jpg",
+          "image_source": "Legal_High_02_0.27.29.065.jpg",
+          "audio": "media/253/0.mp3",
+          "audio_source": "Legal_High_02_0.27.22.310-0.27.35.820.mp3"
+        },
+        {
+          "jp": "はぁ？ あんだけ ベラベラ糾弾しといて まだ なんかあんの？",
+          "cn": "Really? Still got something left after all that screaming?"
+        },
+        {
+          "jp": "ひとさまのことを ベラベラ話すのは悪党だって お母さんに よく言われました",
+          "cn": "My mother often told me that only bad guys blab others' secrets!"
+        }
+      ]
     },
     {
       "id": 254,
@@ -5884,7 +7118,24 @@
       ],
       "mnemonic": "说语言流畅或物体薄。\n\n🔍 近义区别：ぺらぺら=流畅/薄 | べらべら=口若悬河 | すらすら=流畅 | すかすか=空荡 | ぱりっと=挺括",
       "collocations": "英語が〜／〜の紙",
-      "examples": []
+      "examples": [
+        {
+          "jp": "きっ 貴様 ペラペラと…",
+          "cn": "You little... Babbling on like that...",
+          "image": "media/254/0.jpg",
+          "image_source": "A_FullmetalAlchemistBrotherhood_45_0.13.12.045.jpg",
+          "audio": "media/254/0.mp3",
+          "audio_source": "A_FullmetalAlchemistBrotherhood_45_0.13.11.050-0.13.13.040.mp3"
+        },
+        {
+          "jp": "アホ！ こんな安もんのペラペラが 何で形見やねん。 ええかげんにしとき！",
+          "cn": "Don't try to pawn off this garbage on me!"
+        },
+        {
+          "jp": "余計なことをぺらぺらと",
+          "cn": "Blabbering on and on...!"
+        }
+      ]
     },
     {
       "id": 255,
@@ -5898,7 +7149,20 @@
       ],
       "mnemonic": "火势猛或毛草蓬乱。\n\n🔍 近义区别：ぼうぼう=熊熊/蓬乱 | めらめら=熊熊起 | ぼさぼさ=头乱 | もさもさ=蓬乱 | ぼうっと=模糊",
       "collocations": "〜燃える／〜の髪",
-      "examples": []
+      "examples": [
+        {
+          "jp": "（竜児）ごめんな インコちゃん （インコちゃん）ボー ボー",
+          "cn": "Sorry about that, lnko-chan."
+        },
+        {
+          "jp": "草ぼうぼう、手入れがされてないわね",
+          "cn": "Let me think… That it's dreadfully overgrown."
+        },
+        {
+          "jp": "ああシャニ…ひどいことが起きたのよ。1人娘を嫁に出すんだから、盛大なお祭り騒ぎの式にしたかったの。それで火食い男を雇ったのよ。ほら、ボーボー燃える火をジュージューいわせて飲み込む芸よ",
+          "cn": "Shani, darling… Oh, you shan't believe what's happened. I'm marrying off my only daughter. Wanted a proper wedding for her, wild revelry. So I hired a true fire eater - you know, whoosh, gulp, sizzle, sizzle."
+        }
+      ]
     },
     {
       "id": 256,
@@ -5924,7 +7188,24 @@
       ],
       "mnemonic": "阳光下或身体温暖舒适。\n\n🔍 近义区别：ぽかぽか=暖洋洋 | ほかほか=热乎乎 | むしむし=闷热 | ぬくぬく=温暖安逸 | ほんのり=淡淡温",
       "collocations": "〜する／〜の日",
-      "examples": []
+      "examples": [
+        {
+          "jp": "お日さまがポカポカして",
+          "cn": "The sun is pleasantly warm...",
+          "image": "media/257/0.jpg",
+          "image_source": "Z.SUZUMIYA_19_0.13.42.947.jpg",
+          "audio": "media/257/0.mp3",
+          "audio_source": "Z.SUZUMIYA_19_0.13.41.040-0.13.44.973.mp3"
+        },
+        {
+          "jp": "ぽかぽかして 気持ちいいね",
+          "cn": "It feels so nice and warm."
+        },
+        {
+          "jp": "まるで晴れた冬の午後、 教室の窓際の席でウトウトしてる時みたいにポカポカで",
+          "cn": "It's like a sunny winter afternoon, where you're just idling in your seat next to the window, taking in the rays."
+        }
+      ]
     },
     {
       "id": 258,
@@ -5937,7 +7218,20 @@
       ],
       "mnemonic": "脆硬物一下折断的声响。\n\n🔍 近义区别：ぼきっ=一下折 | ぼきぼき=连续折 | ぽきっ=更轻 | ぼきん=一下断 | ばりっ=薄硬破",
       "collocations": "〜と折れる",
-      "examples": []
+      "examples": [
+        {
+          "jp": "あとは あんたを 女王様に連れて行けば→ ボキの仕事は終了ってこと。",
+          "cn": "Once I take you to the Queen, my job is done."
+        },
+        {
+          "jp": "てめぇのボキャブラリーは なんだ こら！ 殺すぞ！",
+          "cn": "What's with that vocabulary, bastard?! I'll kill you!"
+        },
+        {
+          "jp": "ぼきゅが説明するよ",
+          "cn": "I'lla explain."
+        }
+      ]
     },
     {
       "id": 259,
@@ -5963,7 +7257,24 @@
       ],
       "mnemonic": "头发没整理、杂乱。\n\n🔍 近义区别：ぼさぼさ=头乱 | もさもさ=蓬乱 | もじゃもじゃ=乱蓬 | ぼうぼう=蓬乱 | ふわふわ=轻蓬",
       "collocations": "〜の髪／〜した",
-      "examples": []
+      "examples": [
+        {
+          "jp": "そのぼさぼさの髪をきちんとセットする",
+          "cn": "Do something about that messy hairdo.",
+          "image": "media/260/0.jpg",
+          "image_source": "Chobits_11_0.04.29.600-0.04.32.040.jpg",
+          "audio": "media/260/0.mp3",
+          "audio_source": "Chobits_11_0.04.29.600-0.04.32.040.mp3"
+        },
+        {
+          "jp": "先生髪の毛ボサボサだったね",
+          "cn": "Sensei's hair was all messy this morning."
+        },
+        {
+          "jp": "ってか お前 何で そんな髪ボサボサなんだよ",
+          "cn": "Wait. Why is your hair so messy?"
+        }
+      ]
     },
     {
       "id": 261,
@@ -5976,7 +7287,12 @@
       ],
       "mnemonic": "液体一滴一滴连续落下。\n\n🔍 近义区别：ぽたぽた=滴滴 | ぽたり=一滴 | たらたら=滴流 | ぽつぽつ=雨开始 | ぼとぼと=大滴落",
       "collocations": "〜落ちる／〜と",
-      "examples": []
+      "examples": [
+        {
+          "jp": "うわあ やっちまったって思ったら 鼻血がポタポタと落ちた",
+          "cn": "Damn, now I've done it! I thought. Blood slowly started dripping from my nose..."
+        }
+      ]
     },
     {
       "id": 262,
@@ -5989,7 +7305,16 @@
       ],
       "mnemonic": "身材细长而秀气。褒义。\n\n🔍 近义区别：ほっそり=纤细 | すらり=修长 | すんなり=柔美纤 | がっしり=壮实（反） | ぽっちゃり=微胖",
       "collocations": "〜した／〜と",
-      "examples": []
+      "examples": [
+        {
+          "jp": "リズリー選手が ほっそり体型なのが うれしい！",
+          "cn": "And I'm happy to see that Risley  is slender for the moment!",
+          "image": "media/262/0.jpg",
+          "image_source": "Fairy_Tail_163_0.07.59.551.jpg",
+          "audio": "media/262/0.mp3",
+          "audio_source": "Fairy_Tail_163_0.07.58.175-0.08.00.927.mp3"
+        }
+      ]
     },
     {
       "id": 263,
@@ -6002,7 +7327,22 @@
       ],
       "mnemonic": "安心、放下心来的一瞬。\n\n🔍 近义区别：ほっと=松一气 | やれやれ=舒口气 | ふう=叹气 | どっと=一下涌 | すっきり=清爽",
       "collocations": "〜する／〜した",
-      "examples": []
+      "examples": [
+        {
+          "jp": "あのとき ホントは 私 ほっとしちゃったんだ",
+          "cn": "The truth was, I felt relieved back then...",
+          "image": "media/263/0.jpg",
+          "image_source": "Anime-SpiritedAway_1_0.53.43.704.jpg"
+        },
+        {
+          "jp": "ここは運命だと思って素直に 受け入れようかと思ったりもして でも いざ助けられたら ホッとしちゃったりとかしてる",
+          "cn": "So you decided to accept this as your fate,  but you're actually relieved to have been saved."
+        },
+        {
+          "jp": "これで 大事なものでしょう ほっとしてたよ",
+          "cn": "Here. It's important, right? You dropped it."
+        }
+      ]
     },
     {
       "id": 264,
@@ -6055,7 +7395,24 @@
       ],
       "mnemonic": "衣物破损或情绪崩溃。\n\n🔍 近义区别：ぼろぼろ=破/崩 | ぼろり=一下掉 | ぼろっ=一下 | くたくた=累瘫 | ぐったり=瘫软",
       "collocations": "〜の服／〜泣く",
-      "examples": []
+      "examples": [
+        {
+          "jp": "(ソフィー)！ お城ボロボロだよ。 いいの！",
+          "cn": "Sophie! The castle's falling apart.",
+          "image": "media/267/0.jpg",
+          "image_source": "Sakurasou_no_Pet_na_Kanojo_04_0.11.05.345.jpg",
+          "audio": "media/267/0.mp3",
+          "audio_source": "Sakurasou_no_Pet_na_Kanojo_04_0.11.03.530-0.11.07.160.mp3"
+        },
+        {
+          "jp": "(女性 )何なの？ その格好 ボロボロじゃない (アッコ ) これは シャリオを 見ていた誰かの… (女性 )何なの？ その格好 ボロボロじゃない (シャイニィシャリオ )あっ…",
+          "cn": "What's with that outfit? It's so old and dirty! This must be a vision of someone who once knew Chariot."
+        },
+        {
+          "jp": "ああ～ 戦闘訓練で ボロボロになっちゃったから サポート会社の修復待ちなんだ｡",
+          "cn": "So I'm waiting for the support company to fix it."
+        }
+      ]
     },
     {
       "id": 268,
@@ -6068,7 +7425,24 @@
       ],
       "mnemonic": "精神不集中或视觉不清。\n\n🔍 近义区别：ぼんやり=发呆/模糊 | ぼうっと=发呆 | うっすら=隐约 | はっきり=清楚（反） | ぼそぼそ=含糊",
       "collocations": "〜する／〜と見える",
-      "examples": []
+      "examples": [
+        {
+          "jp": "ああ ごめん ぼんやりしてた",
+          "cn": "Oh, sorry. I was spacing out.",
+          "image": "media/268/0.jpg",
+          "image_source": "A_CardCaptorSakura24_35_0.03.35.688.jpg",
+          "audio": "media/268/0.mp3",
+          "audio_source": "A_CardCaptorSakura24_35_0.03.33.436-0.03.37.940.mp3"
+        },
+        {
+          "jp": "あなたは だんだん 意識がぼんやりとしてきます",
+          "cn": "`Your consciousness will start to fade.`"
+        },
+        {
+          "jp": "さあ ぼんやりしてないで 四天王の諸君も働いた働いた",
+          "cn": "Now, stop dawdling. Get to work, Four Devas!"
+        }
+      ]
     },
     {
       "id": 269,
@@ -6081,7 +7455,20 @@
       ],
       "mnemonic": "长时间仔细端详。\n\n🔍 近义区别：まじまじ=细看 | じっと=凝视 | しげしげ=反复打量 | じろじろ=不客气看 | ちらっと=一瞥（反）",
       "collocations": "〜と見つめる",
-      "examples": []
+      "examples": [
+        {
+          "jp": "ちょっ！ マジマジと見るのは やめてほしいのですが",
+          "cn": "I would appreciate it if you'd stop staring so intently!"
+        },
+        {
+          "jp": "マジ マジ",
+          "cn": "It's true!"
+        },
+        {
+          "jp": "マジ マジ",
+          "cn": "Absolutely."
+        }
+      ]
     },
     {
       "id": 270,
@@ -6107,7 +7494,24 @@
       ],
       "mnemonic": "胃不舒服或心里气。\n\n🔍 近义区别：むかむか=恶心/怒 | いらいら=焦躁 | うんざり=厌倦 | むしゃくしゃ=乱烦 | ぞっと=毛骨",
       "collocations": "〜する／胃が〜",
-      "examples": []
+      "examples": [
+        {
+          "jp": "こっちゃ ただでさえ ムカムカ来てんだ。",
+          "cn": "I'm already in a bad mood.",
+          "image": "media/271/0.jpg",
+          "image_source": "Oreimo_S01E08_0.13.47.260-0.13.49.150.jpg",
+          "audio": "media/271/0.mp3",
+          "audio_source": "Oreimo_S01E08_0.13.47.260-0.13.49.150.mp3"
+        },
+        {
+          "jp": "なぜかしら？ どうにも ムカムカしてくるんですけど…",
+          "cn": "I wonder what it is... It's seriously ticking me off."
+        },
+        {
+          "jp": "なんかむかむかして いらいらして",
+          "cn": "It pisses me off too much."
+        }
+      ]
     },
     {
       "id": 272,
@@ -6146,7 +7550,24 @@
       ],
       "mnemonic": "身体痒或心里想动。\n\n🔍 近义区别：むずむず=痒/欲动 | ぞくぞく=战栗 | そわそわ=坐不住 | うずうず=手痒跃跃 | ちくちく=针扎",
       "collocations": "〜する／腕が〜",
-      "examples": []
+      "examples": [
+        {
+          "jp": "って 顔がむずむずしてる",
+          "cn": "Whoa! You look like you're  itching with excitement!",
+          "image": "media/274/0.jpg",
+          "image_source": "A_Assassination_classroom_E11_1_0.08.08.975.jpg",
+          "audio": "media/274/0.mp3",
+          "audio_source": "A_Assassination_classroom_E11_1_0.08.08.200-0.08.09.750.mp3"
+        },
+        {
+          "jp": "はぁ？ 何だ この― ムズムズする感じは",
+          "cn": "What is with this nervous feeling?!"
+        },
+        {
+          "jp": "むずむずします",
+          "cn": "I feel uneasy."
+        }
+      ]
     },
     {
       "id": 275,
@@ -6159,7 +7580,24 @@
       ],
       "mnemonic": "不讲理或极度混乱。\n\n🔍 近义区别：むちゃくちゃ=乱来 | めちゃくちゃ=彻底乱 | ぐちゃぐちゃ=混乱 | ごちゃごちゃ=杂 | でたらめ=胡说",
       "collocations": "〜な要求／〜に",
-      "examples": []
+      "examples": [
+        {
+          "jp": "…おい、竜崎、無茶苦茶だ",
+          "cn": "Hey, Ryuzaki, that's messed up.",
+          "image": "media/275/0.jpg",
+          "image_source": "HUNTER×HUNTER_61_0.21.33.218.jpg",
+          "audio": "media/275/0.mp3",
+          "audio_source": "HUNTER×HUNTER_61_0.21.30.968-0.21.35.468.mp3"
+        },
+        {
+          "jp": "あんな むちゃくちゃな演奏しやがって",
+          "cn": "Turning in that train wreck of a performance!"
+        },
+        {
+          "jp": "こんなのむちゃくちゃな話だっていうことは自分でも分かってる",
+          "cn": "I know it all sounds insane."
+        }
+      ]
     },
     {
       "id": 276,
@@ -6198,7 +7636,20 @@
       ],
       "mnemonic": "睡梦中或含糊不清的说话。\n\n🔍 近义区别：むにゃむにゃ=梦话 | もごもご=含糊 | ぶつぶつ=嘟囔 | ぼそぼそ=低语 | うにゃうにゃ=含糊",
       "collocations": "〜と言う",
-      "examples": []
+      "examples": [
+        {
+          "jp": "いいねえ 最高だね ムニャムニャ…",
+          "cn": "This is so nice. Amazing."
+        },
+        {
+          "jp": "むにゃむにゃむにゃ…",
+          "cn": "Mrmrmrmr… blech!"
+        },
+        {
+          "jp": "うう…ムニャムニャムニャ",
+          "cn": "Ehh… Mrmma mam mhm…"
+        }
+      ]
     },
     {
       "id": 279,
@@ -6211,7 +7662,20 @@
       ],
       "mnemonic": "强烈感情的涌动。\n\n🔍 近义区别：むらむら=涌起 | むかむか=恶心怒 | ぞくぞく=战栗 | むずむず=欲动 | うずうず=手痒",
       "collocations": "〜と湧く／〜くる",
-      "examples": []
+      "examples": [
+        {
+          "jp": "い… いや 別に 抜け駆けとかじゃなくて→ ほら 急にムラムラと戦いたくなって。",
+          "cn": "O-Oh, I wasn't trying to  beat you to the punch. I just got an itch to fight."
+        },
+        {
+          "jp": "いや あまりの手際の悪さに 見てたら ついムラムラと",
+          "cn": "I got so irritated by the horrible job they were doing that I just..."
+        },
+        {
+          "jp": "（慎）ムラムラは…",
+          "cn": "I'm getting..."
+        }
+      ]
     },
     {
       "id": 280,
@@ -6237,7 +7701,16 @@
       ],
       "mnemonic": "羊的典型叫声。\n\n🔍 近义区别：メーメー=羊 | モーモー=牛 | ニャー=猫 | ワン=狗 | ヒヒン=马",
       "collocations": "羊が〜",
-      "examples": []
+      "examples": [
+        {
+          "jp": "メエメエ黒ヒツジ、毛糸を少し分けとくれ！",
+          "cn": "Baa baa black sheep, have you any wool!"
+        },
+        {
+          "jp": "メエメエ黒羊、毛はどこだい？あるなら刈るよ、安くしとくよ！",
+          "cn": "Bah, bah, black sheep, have you any wool? Well, I'll shear it, then! For cheap!"
+        }
+      ]
     },
     {
       "id": 282,
@@ -6263,7 +7736,24 @@
       ],
       "mnemonic": "长时间小声哭，显得软弱。\n\n🔍 近义区别：めそめそ=哭个不停 | しくしく=抽泣 | ぐすぐす=抽噎 | しょんぼり=沮丧 | くよくよ=闷",
       "collocations": "〜泣く／〜する",
-      "examples": []
+      "examples": [
+        {
+          "jp": "いつまで メソメソしているんですか",
+          "cn": "How long are you going to mope?",
+          "image": "media/283/0.jpg",
+          "image_source": "1_Litre_of_Tears_ep11_end_720p_x265-ER_0.36.47.086-0.36.49.400.jpg",
+          "audio": "media/283/0.mp3",
+          "audio_source": "1_Litre_of_Tears_ep11_end_720p_x265-ER_0.36.47.086-0.36.49.400.mp3"
+        },
+        {
+          "jp": "こっちもそんなに暇じゃないわって 言うとメソメソして",
+          "cn": "When I told her I was busy, she started pouting."
+        },
+        {
+          "jp": "だからメソメソするんな",
+          "cn": "So come on, dry those eyes!"
+        }
+      ]
     },
     {
       "id": 284,
@@ -6276,7 +7766,24 @@
       ],
       "mnemonic": "完全混乱或极端程度（口语强调）。\n\n🔍 近义区别：めちゃくちゃ=彻底乱/极 | むちゃくちゃ=乱来 | ぐちゃぐちゃ=混乱 | すごく=很 | ものすごく=超",
       "collocations": "〜な計画／〜面白い",
-      "examples": []
+      "examples": [
+        {
+          "jp": "…めちゃくちゃ失礼ね…あんた…",
+          "cn": "That is so rude!",
+          "image": "media/284/0.jpg",
+          "image_source": "A_Konosuba_S01_E04_1_0.12.33.276.jpg",
+          "audio": "media/284/0.mp3",
+          "audio_source": "A_Konosuba_S01_E04_1_0.12.31.899-0.12.34.652.mp3"
+        },
+        {
+          "jp": "《すげぇ… めちゃくちゃ デートって言葉が飛び交ってる》",
+          "cn": "Wow... The word \"date\" keeps popping up."
+        },
+        {
+          "jp": "あ〜あ 料理が メチャクチャ…",
+          "cn": "Sheesh. The food is ruined."
+        }
+      ]
     },
     {
       "id": 285,
@@ -6289,7 +7796,24 @@
       ],
       "mnemonic": "与 めちゃくちゃ 同义，更口语。\n\n🔍 近义区别：めちゃめちゃ ≈ めちゃくちゃ | 两者通用 | 后者稍正式 | 前者更口语 |",
       "collocations": "〜楽しい／〜壊れる",
-      "examples": []
+      "examples": [
+        {
+          "jp": "あい メチャメチャ強いよ",
+          "cn": "Aye! He's really majorly strong.",
+          "image": "media/285/0.jpg",
+          "image_source": "A_Kanon_E08_1_0.15.31.280.jpg",
+          "audio": "media/285/0.mp3",
+          "audio_source": "A_Kanon_E08_1_0.15.29.750-0.15.32.810.mp3"
+        },
+        {
+          "jp": "あれのお陰でめちゃめちゃ説明が楽だった",
+          "cn": "Thanks to that, it was much easier to explain my proposal."
+        },
+        {
+          "jp": "たしかに 青山さんは めちゃめちゃ無理してると思う",
+          "cn": "I agree that she's pushing herself quite a bit."
+        }
+      ]
     },
     {
       "id": 286,
@@ -6302,7 +7826,16 @@
       ],
       "mnemonic": "火焰猛烈燃烧的样子。\n\n🔍 近义区别：めらめら=熊熊燃 | ぼうぼう=熊熊（粗） | ぎらぎら=刺眼闪 | ちろちろ=小火苗 | ぱちぱち=火花",
       "collocations": "炎が〜／〜燃える",
-      "examples": []
+      "examples": [
+        {
+          "jp": "スーパーハカー魂がメラメラ バーニングしちゃってるね",
+          "cn": "His super haker's soul is burning bright!"
+        },
+        {
+          "jp": "嫌な目つきだね メラメラと",
+          "cn": "I don’t like that glare in your eyes."
+        }
+      ]
     },
     {
       "id": 287,
@@ -6315,7 +7848,24 @@
       ],
       "mnemonic": "对某人/某物完全失去抵抗力。\n\n🔍 近义区别：めろめろ=彻底沦陷 | でれでれ=色眯眯 | べったり=完全粘 | うっとり=陶醉 | 好き=喜欢",
       "collocations": "〜になる／〜する",
-      "examples": []
+      "examples": [
+        {
+          "jp": "え？あいつ、海砂にメロメロだもん",
+          "cn": "Huh? He's head over heels in love with me.",
+          "image": "media/287/0.jpg",
+          "image_source": "A_NoGameNoLife__11_0.04.11.284.jpg",
+          "audio": "media/287/0.mp3",
+          "audio_source": "A_NoGameNoLife__11_0.04.09.720-0.04.12.848.mp3"
+        },
+        {
+          "jp": "こりゃあ 彼氏の一条くんもメロメロになっちゃうんじゃない",
+          "cn": "It's gonna make Ichijo go all weak at the knees, huh?"
+        },
+        {
+          "jp": "これなら まどかの隠れファンも メロメロだ",
+          "cn": "That should make all your secret admirers melt in adoration."
+        }
+      ]
     },
     {
       "id": 288,
@@ -6328,7 +7878,22 @@
       ],
       "mnemonic": "牛的典型叫声。\n\n🔍 近义区别：モーモー=牛 | メーメー=羊 | ニャー=猫 | ワン=狗 | ブーブー=猪",
       "collocations": "牛が〜",
-      "examples": []
+      "examples": [
+        {
+          "jp": "あ～もう",
+          "cn": "Jeez...",
+          "image": "media/288/0.jpg",
+          "image_source": "Anime_Your_lie_in_april_E21_1_0.11.35.880.jpg"
+        },
+        {
+          "jp": "いってらっしゃ～い。",
+          "cn": "Bye!\nA_WhisperOfTheHeart_0031\t[sound:A_WhisperOfTheHeart_1_0.04.49.020-0.04.52.020.mp3]\t<img src=\"A_WhisperOfTheHeart_1_0.04.50.520.jpg\">\tあっ　もうこんな時間！　夕子と会うんだ！\tOh, no! Ive got to meet Yuko!"
+        },
+        {
+          "jp": "がんばれ もう少しだ",
+          "cn": "We're almost there..."
+        }
+      ]
     },
     {
       "id": 289,
@@ -6341,7 +7906,12 @@
       ],
       "mnemonic": "烟、云大量升腾。\n\n🔍 近义区别：もくもく=腾腾 | むんむん=闷 | ふわふわ=飘 | ぼうぼう=熊熊 | もうもう=烟腾",
       "collocations": "煙が〜／〜と",
-      "examples": []
+      "examples": [
+        {
+          "jp": "大量の参加者の汗が蒸気になってね 空中に出来た雲がこうモクモクと！",
+          "cn": "All of the attendees' sweat vaporized in the area, and you could see the clouds go... *moku moku*"
+        }
+      ]
     },
     {
       "id": 290,
@@ -6354,7 +7924,20 @@
       ],
       "mnemonic": "闭着嘴慢慢咀嚼。\n\n🔍 近义区别：もぐもぐ=慢嚼 | むしゃむしゃ=大口嚼 | ぱくぱく=大口吃 | がつがつ=贪吃 | ちびちび=小口",
       "collocations": "〜食べる／〜する",
-      "examples": []
+      "examples": [
+        {
+          "jp": "モグラでパニック モグモグたたき",
+          "cn": "Whack whack panic, whack a mog mog! Whack whack panic, whack a mog mog!"
+        },
+        {
+          "jp": "（大河） そんでもって 鮮血のモグ モグ…",
+          "cn": "And I'll bury them in a bloody mog...moggu-"
+        },
+        {
+          "jp": "モグモグ モグモグしても いいんですよ",
+          "cn": "Go ahead, give it a nibble."
+        }
+      ]
     },
     {
       "id": 291,
@@ -6380,7 +7963,24 @@
       ],
       "mnemonic": "头发乱或动作慢。\n\n🔍 近义区别：もさもさ=蓬乱/迟 | ぼさぼさ=头乱 | もたもた=慢笨 | のっそり=慢大 | ふさふさ=茂密",
       "collocations": "〜した髪／〜する",
-      "examples": []
+      "examples": [
+        {
+          "jp": "あっ そのもさもさ頭は 地味めの！",
+          "cn": "Oh, that curly hair! You're the plain-looking one!",
+          "image": "media/292/0.jpg",
+          "image_source": "A_Anohana_E11_1_0.09.06.915.jpg",
+          "audio": "media/292/0.mp3",
+          "audio_source": "A_Anohana_E11_1_0.09.04.920-0.09.08.910.mp3"
+        },
+        {
+          "jp": "見りゃ分かるでしょ あのモサモサ",
+          "cn": "You know just by looking, don't you? That crazy hair of his."
+        },
+        {
+          "jp": "そんな もさもさ 毛 増やさなくても いいんじゃね？ あなる",
+          "cn": "You don't really need any more eyelashes than you already have."
+        }
+      ]
     },
     {
       "id": 293,
@@ -6393,7 +7993,24 @@
       ],
       "mnemonic": "害羞而无法直说的样子。\n\n🔍 近义区别：もじもじ=扭捏 | そわそわ=坐不住 | おどおど=畏缩 | はにかむ=害羞 | ぐずぐず=磨蹭",
       "collocations": "〜する／〜と",
-      "examples": []
+      "examples": [
+        {
+          "jp": "こんなときに もじもじされても！",
+          "cn": "Don't get bashful all of a sudden!",
+          "image": "media/293/0.jpg",
+          "image_source": "A_Kanon_E01_1_0.04.31.065.jpg",
+          "audio": "media/293/0.mp3",
+          "audio_source": "A_Kanon_E01_1_0.04.30.000-0.04.32.130.mp3"
+        },
+        {
+          "jp": "もじもじ時間ないのに",
+          "cn": "I'm running out of time."
+        },
+        {
+          "jp": "モジモジしながら言うな！",
+          "cn": "Stop squirming, you freak!"
+        }
+      ]
     },
     {
       "id": 294,
@@ -6406,7 +8023,24 @@
       ],
       "mnemonic": "动作迟缓笨拙。\n\n🔍 近义区别：もたもた=慢笨 | のろのろ=慢 | ぐずぐず=磨 | もじもじ=扭捏 | まごまご=慌乱",
       "collocations": "〜する／〜している",
-      "examples": []
+      "examples": [
+        {
+          "jp": "あいつら何もたもたしてやがる",
+          "cn": "What's taking them so long?!",
+          "image": "media/294/0.jpg",
+          "image_source": "HUNTER×HUNTER_119_0.17.56.268.jpg",
+          "audio": "media/294/0.mp3",
+          "audio_source": "HUNTER×HUNTER_119_0.17.54.233-0.17.58.303.mp3"
+        },
+        {
+          "jp": "あんなところでモタモタしている時間はなかったの",
+          "cn": "I didn't have time to waste there."
+        },
+        {
+          "jp": "おら行くぞ もたもたしてっと見つかっちまう",
+          "cn": "Hey, let's get goin'. If we keep draggin' our feet, they'll find us."
+        }
+      ]
     },
     {
       "id": 295,
@@ -6419,7 +8053,24 @@
       ],
       "mnemonic": "视觉/心情上的不清爽。\n\n🔍 近义区别：もやもや=朦胧/心烦 | ぼんやり=模糊 | むかむか=窝火 | いらいら=焦躁 | すっきり=清爽（反）",
       "collocations": "〜する／〜した気分",
-      "examples": []
+      "examples": [
+        {
+          "jp": "《そこに この気持ち…→ モヤモヤの答えが ある気がする》",
+          "cn": "I have a feeling that the third party is causing my anxiety.",
+          "image": "media/295/0.jpg",
+          "image_source": "A_ClannadS01_E09_1_0.09.57.950.jpg",
+          "audio": "media/295/0.mp3",
+          "audio_source": "A_ClannadS01_E09_1_0.09.56.220-0.09.59.680.mp3"
+        },
+        {
+          "jp": "あいつの顔を見るともやもやして",
+          "cn": "Just seeing his face makes me brood,"
+        },
+        {
+          "jp": "それにもやもやするんです",
+          "cn": "And... it bothers me."
+        }
+      ]
     },
     {
       "id": 296,
@@ -6432,7 +8083,20 @@
       ],
       "mnemonic": "吃得多或力气足。褒义。\n\n🔍 近义区别：もりもり=旺盛 | がつがつ=贪 | ぱくぱく=大口 | むしゃむしゃ=大嚼 | ぴんぴん=活蹦",
       "collocations": "〜食べる／〜する",
-      "examples": []
+      "examples": [
+        {
+          "jp": "でもみんな もりもりと食べてくれていたじゃないか",
+          "cn": "They all gobbled it down, though.",
+          "image": "media/296/0.jpg",
+          "image_source": "A_FullmetalAlchemistBrotherhood_34_0.04.20.335.jpg",
+          "audio": "media/296/0.mp3",
+          "audio_source": "A_FullmetalAlchemistBrotherhood_34_0.04.19.350-0.04.21.320.mp3"
+        },
+        {
+          "jp": "相変わらず筋肉もりもり",
+          "cn": "As muscular as always."
+        }
+      ]
     },
     {
       "id": 297,
@@ -6445,7 +8109,24 @@
       ],
       "mnemonic": "柔缓地左右摇动。\n\n🔍 近义区别：ゆらゆら=轻摆 | ふらふら=晃 | ぶらぶら=悬垂 | ひらひら=飘 | ぐらぐら=大摇",
       "collocations": "〜と揺れる",
-      "examples": []
+      "examples": [
+        {
+          "jp": "♪ ユラユラ 揺らめいて ♪ みんなで手をつなぎ",
+          "cn": "Yurayura yurameite minna de tewo tsunagi We hold hands and swing them back and forth.",
+          "image": "media/297/0.jpg",
+          "image_source": "Shinsekai_Yori_01_0.04.36.970.jpg",
+          "audio": "media/297/0.mp3",
+          "audio_source": "Shinsekai_Yori_01_0.04.34.920-0.04.39.020.mp3"
+        },
+        {
+          "jp": "このユラユラ海に浮かんでいるみたい",
+          "cn": "The way the hammock is swaying, I feel like I'm floating in the ocean."
+        },
+        {
+          "jp": "ゆらゆら揺れてたんだって",
+          "cn": "The guest in room seven had hanged himself, and his body was swaying in the wind."
+        }
+      ]
     },
     {
       "id": 298,
@@ -6458,7 +8139,20 @@
       ],
       "mnemonic": "幼儿或不熟练的走路方式。\n\n🔍 近义区别：よちよち=蹒跚 | とぼとぼ=蔫 | ふらふら=晃 | よろよろ=摇 | のろのろ=慢",
       "collocations": "〜歩く／〜と",
-      "examples": []
+      "examples": [
+        {
+          "jp": "オー よちよち～",
+          "cn": "Oh, there there.",
+          "image": "media/298/0.jpg",
+          "image_source": "A_Shirokuma_Cafe_01_0.22.13.385.jpg",
+          "audio": "media/298/0.mp3",
+          "audio_source": "A_Shirokuma_Cafe_01_0.22.12.550-0.22.14.220.mp3"
+        },
+        {
+          "jp": "‪ヨチヨチ歩きの赤ん坊が⸺‬",
+          "cn": "It's like a baby"
+        }
+      ]
     },
     {
       "id": 299,
@@ -6471,7 +8165,24 @@
       ],
       "mnemonic": "衣服变形或人精神萎靡。\n\n🔍 近义区别：よれよれ=皱/疲 | くたくた=累瘫 | ぼろぼろ=破 | くしゃくしゃ=揉皱 | しわしわ=皱纹",
       "collocations": "〜の服／〜になる",
-      "examples": []
+      "examples": [
+        {
+          "jp": "こら ユイ そんなよれよれなリズムで続けるな えぇぇっ",
+          "cn": "Yui, don’t just keep going when you mess up the rhythm!",
+          "image": "media/299/0.jpg",
+          "image_source": "A_UsagiDrop_08_0.04.09.550.jpg",
+          "audio": "media/299/0.mp3",
+          "audio_source": "A_UsagiDrop_08_0.04.06.550-0.04.12.550.mp3"
+        },
+        {
+          "jp": "だって 男の子たち クーラー切ると 汗で原稿 よれよれにしちゃうもん。",
+          "cn": "If I turn the AC off, the guys will start sweating all over the manuscript."
+        },
+        {
+          "jp": "よれよれのブタはお前だ",
+          "cn": "You're a lame sow yourself."
+        }
+      ]
     },
     {
       "id": 300,
@@ -6484,7 +8195,16 @@
       ],
       "mnemonic": "站不稳、蹒跚的样子。\n\n🔍 近义区别：よろよろ=摇晃 | ふらふら=晃 | ぐらぐら=大摇 | とぼとぼ=蔫 | よたよた=蹒跚",
       "collocations": "〜歩く／〜する",
-      "examples": []
+      "examples": [
+        {
+          "jp": "男爵に噛みついたら、きっとよろよろしながら穴蔵に帰ってくだろうな",
+          "cn": "If he bites our baron, well, he's like to stagger all the way back to his crypt. Hahah!"
+        },
+        {
+          "jp": "這うようにして、引き出しの中に隠れたよ。すぐに妖婆たちがよろよろと入って来た。ウィーヴィスがばあさんの髪を一房切り取った。子供たちを逃がした罰だと言って。それから、あいつらは扉を開けた。そして下へ、どんどん下へ…どうせなら地獄まで落ちればよかったのに",
+          "cn": "I crawled into a chest. Barely had time to blink before the Crones tottered in. The Weavess snipped a lock of Gran's hair. Called it punishment for lettin' the children escape. Then the hags opened the door in the floor. Went down, down, down - shame it weren't all the way to hell."
+        }
+      ]
     },
     {
       "id": 301,
@@ -6497,7 +8217,24 @@
       ],
       "mnemonic": "铃的清脆响声。\n\n🔍 近义区别：りんりん=铃 | ちりんちりん=小铃 | ピンポン=门铃 | ちん=叮 | かちかち=硬脆",
       "collocations": "〜と鳴る",
-      "examples": []
+      "examples": [
+        {
+          "jp": "リンリン",
+          "cn": "Rin Rin?",
+          "image": "media/301/0.jpg",
+          "image_source": "A_ReZeroS01_E05_1_0.24.17.345.jpg",
+          "audio": "media/301/0.mp3",
+          "audio_source": "A_ReZeroS01_E05_1_0.24.16.910-0.24.17.780.mp3"
+        },
+        {
+          "jp": "リンリン",
+          "cn": "Rin Rin..."
+        },
+        {
+          "jp": "リンリンて",
+          "cn": "Rin Rin?"
+        }
+      ]
     },
     {
       "id": 302,
@@ -6510,7 +8247,24 @@
       ],
       "mnemonic": "对好事的期待让人心跳加速。褒义。\n\n🔍 近义区别：わくわく=期待心跳 | どきどき=心跳 | うきうき=雀跃 | いそいそ=兴冲冲行 | ぞくぞく=战栗",
       "collocations": "〜する／〜した",
-      "examples": []
+      "examples": [
+        {
+          "jp": "あ わくわくしてたのか",
+          "cn": "Oh, so you were excited, then?",
+          "image": "media/302/0.jpg",
+          "image_source": "A_Kill_la_Kill_21_0.02.18.743.jpg",
+          "audio": "media/302/0.mp3",
+          "audio_source": "A_Kill_la_Kill_21_0.02.16.511-0.02.20.974.mp3"
+        },
+        {
+          "jp": "いつでも一緒にいたい 一緒にいると ドキドキ ワクワクする…",
+          "cn": "Always wanting to be with them, and feeling giddy and excited when you're together..."
+        },
+        {
+          "jp": "いや～ なんかワクワクすんな",
+          "cn": "Man, I'm excited."
+        }
+      ]
     },
     {
       "id": 303,
@@ -6523,7 +8277,24 @@
       ],
       "mnemonic": "狗的典型叫声。\n\n🔍 近义区别：ワンワン=狗 | ニャー=猫 | モー=牛 | コケコッコー=鸡 | ピヨピヨ=小鸡",
       "collocations": "犬が〜",
-      "examples": []
+      "examples": [
+        {
+          "jp": "♪ 「ジューシーからあげNo.１(ワン)」 ワン！",
+          "cn": "Juicy Kara-age #1... Wow!",
+          "image": "media/303/0.jpg",
+          "image_source": "A_KOn_S01E08_1_0.06.15.116.jpg",
+          "audio": "media/303/0.mp3",
+          "audio_source": "A_KOn_S01E08_1_0.06.13.071-0.06.17.161.mp3"
+        },
+        {
+          "jp": "あとで見たこともないぐらいわんわん泣いてたもん",
+          "cn": "I'd never seen her cry as much as she did after he left."
+        },
+        {
+          "jp": "あんっ ワンワン",
+          "cn": "Steph, beg."
+        }
+      ]
     }
   ]
 }

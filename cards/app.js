@@ -150,8 +150,7 @@ const CardView = {
       ${hasImg ? `<div class="front-image"><img src="${firstEx.image}" alt=""></div>` : '<div class="front-image-placeholder">（图片未加载）</div>'}
       ${firstEx ? `
         <div class="front-sentence">
-          <div class="front-jp">${escapeHTML(firstEx.jp)}</div>
-          <div class="front-cn">${escapeHTML(firstEx.cn || '')}${hasAudio ? ' <span class="audio-badge">🔊</span>' : ''}</div>
+          <div class="front-jp">${escapeHTML(firstEx.jp)}${hasAudio ? ' <span class="audio-badge">🔊</span>' : ''}</div>
         </div>` : ''}
       ${hasAudio ? `<audio class="front-audio" preload="auto" src="${firstEx.audio}"></audio>` : ''}
       <div class="hint-bottom">单击播放 · 双击翻面 · ↑难 ↓易</div>
@@ -218,6 +217,10 @@ const CardView = {
       <div class="section">
         <div class="section-title">漫画例句</div>
         <div class="section-body">${examplesHTML}</div>
+      </div>
+
+      <div class="ik-link-wrap">
+        <a class="ik-link" href="https://www.immersionkit.com/dictionary?keyword=${encodeURIComponent(card.word)}&exact=true" target="_blank" rel="noopener">🔗 在 Immersion Kit 查看更多例句</a>
       </div>
     `;
     return el;
@@ -309,15 +312,7 @@ const Router = {
       }
     });
 
-    // 例句点击发音
-    el.querySelectorAll('.sentence-row').forEach(row => {
-      row.addEventListener('click', (e) => {
-        e.stopPropagation();
-        const i = parseInt(row.dataset.exIndex, 10);
-        const ex = card.examples[i];
-        if (ex) TTS.speak(ex.jp);
-      });
-    });
+    // 例句不朗读（背面只展示）
 
     TopBar.render();
   },
