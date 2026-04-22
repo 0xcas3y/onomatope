@@ -1901,7 +1901,16 @@
       ],
       "mnemonic": "充满威胁/敌意的眼神。ぎろっと 是\"一下瞪\"，ぎろぎろ 是持续的凶视。强烈负面语感。\n\n🔍 近义区别：ぎろぎろ=凶狠犀利 ｜ じろじろ=不客气打量 ｜ ぎろっと=一下狠瞪 ｜ じろりと=斜眼一瞥 ｜ じっと=目不转睛",
       "collocations": "〜にらむ／目が〜／〜見る",
-      "examples": []
+      "examples": [
+        {
+          "jp": "ギロ",
+          "cn": "",
+          "image": "media/56/0.jpg",
+          "image_source": "A_Kanon_E16_1_0.06.35.890.jpg",
+          "audio": "media/56/0.mp3",
+          "audio_source": "A_Kanon_E16_1_0.06.35.730-0.06.36.050.mp3"
+        }
+      ]
     },
     {
       "id": 57,
@@ -5975,7 +5984,16 @@
       ],
       "mnemonic": "体格大的人/动物重重地大步走的样子。\n\n🔍 近义区别：のしのし=大步踏 | ずんずん=阔步气势 | すたすた=快走不顾 | どすどす=重重跺 | のっそり=缓慢大",
       "collocations": "〜と歩く",
-      "examples": []
+      "examples": [
+        {
+          "jp": "(ハク)竜　あなたのしたことは もう　とがめません。",
+          "cn": "",
+          "image": "media/190/0.jpg",
+          "image_source": "Anime-SpiritedAway_1_1.52.08.960.jpg",
+          "audio": "media/190/0.mp3",
+          "audio_source": "Anime-SpiritedAway_1_1.52.06.840-1.52.11.080.mp3"
+        }
+      ]
     },
     {
       "id": 191,
@@ -6787,7 +6805,16 @@
       ],
       "mnemonic": "风大而猛烈的样子。\n\n🔍 近义区别：びゅうびゅう=狂风 | ぴゅうぴゅう=尖风 | ひゅうひゅう=呼呼 | ごうごう=轰隆 | そよそよ=微风",
       "collocations": "風が〜吹く",
-      "examples": []
+      "examples": [
+        {
+          "jp": "なのに　なのにどうしてデイビューするんですか",
+          "cn": "",
+          "image": "media/220/0.jpg",
+          "image_source": "Sakurasou_no_Pet_na_Kanojo_10_0.12.15.120.jpg",
+          "audio": "media/220/0.mp3",
+          "audio_source": "Sakurasou_no_Pet_na_Kanojo_10_0.12.12.640-0.12.17.600.mp3"
+        }
+      ]
     },
     {
       "id": 221,
@@ -7837,7 +7864,16 @@
       ],
       "mnemonic": "多处或反复折断的响声。\n\n🔍 近义区别：ぼきぼき=连续折 | ぼきっ=一下折 | ぽきぽき=更轻连 | ぽきん=一下 | がりがり=刮擦",
       "collocations": "〜と音／〜折る",
-      "examples": []
+      "examples": [
+        {
+          "jp": "あとは　あんたを 女王様に連れて行けば→ ボキの仕事は終了ってこと。",
+          "cn": "",
+          "image": "media/259/0.jpg",
+          "image_source": "HUNTER×HUNTER_96_0.13.03.623.jpg",
+          "audio": "media/259/0.mp3",
+          "audio_source": "HUNTER×HUNTER_96_0.13.00.854-0.13.06.391.mp3"
+        }
+      ]
     },
     {
       "id": 260,
@@ -8140,7 +8176,16 @@
       ],
       "mnemonic": "湿度高又热的闷感。\n\n🔍 近义区别：むしむし=闷热 | じめじめ=潮闷 | むんむん=闷热气 | ぽかぽか=暖洋洋 | むしろ=反而（非）",
       "collocations": "〜する／〜とした",
-      "examples": []
+      "examples": [
+        {
+          "jp": "その名も南京虫(なんきんむし)",
+          "cn": "",
+          "image": "media/273/0.jpg",
+          "image_source": "Kakegurui_12_0.01.31.270.jpg",
+          "audio": "media/273/0.mp3",
+          "audio_source": "Kakegurui_12_0.01.30.490-0.01.32.100.mp3"
+        }
+      ]
     },
     {
       "id": 274,
