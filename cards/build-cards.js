@@ -61,17 +61,30 @@ function parseEntry(block) {
   let mnemonic = core;
   if (oneLine) mnemonic += '\n\n🔍 近义区别：' + oneLine;
 
-  // 例句 — 解析 > **Title** \n > jp_text \n > → *cn_text*
+  // 例句 — 行ごとに分けて解析（blockquote 形式）
   const examples = [];
-  // 匹配 blockquote group：连续的 > 行
-  const exRegex = /^>\s*\*\*([^*]+)\*\*\s*\n>\s*(.+?)\s*\n>\s*→\s*\*([^*]+)\*/gm;
-  let m;
-  while ((m = exRegex.exec(block)) !== null) {
-    examples.push({
-      source: clean(m[1]),
-      jp: clean(m[2]),
-      cn: clean(m[3])
-    });
+  const lines = block.split('\n');
+  let i = 0;
+  while (i < lines.length) {
+    // > **Title** を探す
+    const titleMatch = lines[i].match(/^>\s*\*\*([^*]+)\*\*\s*$/);
+    if (titleMatch && i + 2 < lines.length) {
+      const jpLine = lines[i + 1];
+      const cnLine = lines[i + 2];
+      const jpMatch = jpLine.match(/^>\s*(.+?)\s*$/);
+      // → *...*  の最後の * まで全部拾う（末尾の * を除去）
+      const cnMatch = cnLine.match(/^>\s*→\s*\*(.+)\*\s*$/);
+      if (jpMatch && cnMatch) {
+        examples.push({
+          source: clean(titleMatch[1]),
+          jp: clean(jpMatch[1]),
+          cn: clean(cnMatch[1])
+        });
+        i += 3;
+        continue;
+      }
+    }
+    i++;
   }
 
   return {

@@ -82,10 +82,24 @@ async function main() {
     capturedSnd = null;
 
     try {
-      const url = `https://www.immersionkit.com/dictionary?keyword=${encodeURIComponent(card.word)}&exact=true`;
-      await page.goto(url, { waitUntil: 'networkidle2', timeout: 25000 });
-      // Wait for images to load (they lazy-load)
-      await new Promise(r => setTimeout(r, 2500));
+      // カナ変換して両方試す（片仮名⇔平仮名）
+      const variants = [card.word];
+      const kanaFlip = (s) => s.split('').map(ch => {
+        const code = ch.charCodeAt(0);
+        if (code >= 0x3041 && code <= 0x3096) return String.fromCharCode(code + 0x60);
+        if (code >= 0x30A1 && code <= 0x30F6) return String.fromCharCode(code - 0x60);
+        return ch;
+      }).join('');
+      const flipped = kanaFlip(card.word);
+      if (flipped !== card.word) variants.push(flipped);
+
+      let found = false;
+      for (const variant of variants) {
+        const url = `https://www.immersionkit.com/dictionary?keyword=${encodeURIComponent(variant)}&exact=true`;
+        await page.goto(url, { waitUntil: 'networkidle2', timeout: 25000 });
+        await new Promise(r => setTimeout(r, 3000));
+        if (capturedImg) { found = true; break; }
+      }
 
       // Trigger click on first result's sound button to fetch MP3 (optional)
       try {
@@ -117,11 +131,10 @@ async function main() {
             // image filename にマッチする例を見つける
             const match = apiData.examples.find(e => e.image === capturedImg.fname);
             if (match && match.sound) {
-              // image URL の最後のファイル名を sound に置換
-              const imgUrlEncoded = encodeURIComponent(capturedImg.fname);
-              const sndUrlEncoded = encodeURIComponent(match.sound);
-              const sndUrl = capturedImg.url.replace(imgUrlEncoded, sndUrlEncoded)
-                                              .replace(capturedImg.fname, match.sound);
+              // image URL の最後のファイル名を sound に置換（URL エンコード考慮）
+              const urlLast = capturedImg.url.split('/').pop();
+              const sndEncoded = encodeURIComponent(match.sound);
+              const sndUrl = capturedImg.url.replace(urlLast, sndEncoded);
 
               // Chrome 内で fetch → base64 で戻す
               const b64 = await page.evaluate(async (u) => {
