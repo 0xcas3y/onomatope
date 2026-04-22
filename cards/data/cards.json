@@ -129,12 +129,12 @@
       "examples": [
         {
           "source": "Cardcaptor Sakura",
-          "jp": "さくらちゃんが朝からウキウキしてらっしゃるということは…",
+          "jp": "さくらちゃんが　朝からウキウキ　してらっしゃるということは…",
           "cn": "小樱酱一大早就这么雀跃，意思是……",
           "image": "media/5/0.jpg",
-          "image_source": "Kimetsu_no_Yaiba_14_0.20.23.800.jpg",
+          "image_source": "A_CardCaptorSakura24_27_0.06.29.688.jpg",
           "audio": "media/5/0.mp3",
-          "audio_source": "Kimetsu_no_Yaiba_14_0.20.20.670-0.20.26.780.mp3"
+          "audio_source": "A_CardCaptorSakura24_27_0.06.27.519-0.06.31.857.mp3"
         },
         {
           "source": "とらドラ！",
@@ -330,9 +330,9 @@
           "jp": "すみません　ついウトウトしちゃって",
           "cn": "抱歉，一不留神打起盹来了。",
           "image": "media/11/0.jpg",
-          "image_source": "A_Kanon_E06_1_0.18.27.410.jpg",
+          "image_source": "A_Shirokuma_Cafe_12_0.21.24.170.jpg",
           "audio": "media/11/0.mp3",
-          "audio_source": "A_Kanon_E06_1_0.18.25.330-0.18.29.490.mp3"
+          "audio_source": "A_Shirokuma_Cafe_12_0.21.22.780-0.21.25.560.mp3"
         },
         {
           "source": "新世界より",
@@ -396,9 +396,9 @@
           "jp": "まだウロウロしてやがったのか 虫ケラが",
           "cn": "还在这晃荡吗，虫豸。",
           "image": "media/13/0.jpg",
-          "image_source": "border_ep3_0.12.40.403-0.12.44.033.jpg",
+          "image_source": "Fairy_Tail_040_0.06.32.847.jpg",
           "audio": "media/13/0.mp3",
-          "audio_source": "border_ep3_0.12.40.403-0.12.44.033.mp3"
+          "audio_source": "Fairy_Tail_040_0.06.30.678-0.06.35.016.mp3"
         },
         {
           "source": "ハウルの動く城",
@@ -467,9 +467,9 @@
           "jp": "これからはうんといい子にします",
           "cn": "以后我会好好做个乖孩子。",
           "image": "media/15/0.jpg",
-          "image_source": "A_Shirokuma_Cafe_06_0.13.25.575.jpg",
+          "image_source": "A_ClannadS01_E13_1_0.07.30.445.jpg",
           "audio": "media/15/0.mp3",
-          "audio_source": "A_Shirokuma_Cafe_06_0.13.24.820-0.13.26.330.mp3"
+          "audio_source": "A_ClannadS01_E13_1_0.07.29.180-0.07.31.710.mp3"
         },
         {
           "source": "鋼の錬金術師 Brotherhood",
@@ -502,8 +502,12 @@
       "examples": [
         {
           "source": "Cardcaptor Sakura",
-          "jp": "ふえーん 恥ずかしいよ",
-          "cn": "呜呜~太难为情了。"
+          "jp": "ふえーん　恥ずかしいよ",
+          "cn": "呜呜~太难为情了。",
+          "image": "media/16/0.jpg",
+          "image_source": "A_CardCaptorSakura02_1_0.15.22.721.jpg",
+          "audio": "media/16/0.mp3",
+          "audio_source": "A_CardCaptorSakura02_1_0.15.21.407-0.15.24.035.mp3"
         },
         {
           "source": "四月は君の嘘",
@@ -533,7 +537,11 @@
         {
           "source": "涼宮ハルヒの憂鬱",
           "jp": "我々は同じ時間を延々と…",
-          "cn": "我们在同一段时间里没完没了地……"
+          "cn": "我们在同一段时间里没完没了地……",
+          "image": "media/17/0.jpg",
+          "image_source": "Z.SUZUMIYA_05_0.13.46.494.jpg",
+          "audio": "media/17/0.mp3",
+          "audio_source": "Z.SUZUMIYA_05_0.13.45.463-0.13.47.645.mp3"
         },
         {
           "source": "Steins;Gate",
@@ -561,12 +569,12 @@
       "examples": [
         {
           "source": "CLANNAD",
-          "jp": "おいおい…",
+          "jp": "おい",
           "cn": "哎呀呀……",
           "image": "media/18/0.jpg",
-          "image_source": "A-LittleWitchAcademia25_1_0.01.51.612.jpg",
+          "image_source": "Chobits_02_0.03.14.840-0.03.15.400.jpg",
           "audio": "media/18/0.mp3",
-          "audio_source": "A-LittleWitchAcademia25_1_0.01.50.694-0.01.52.529.mp3"
+          "audio_source": "Chobits_02_0.03.14.840-0.03.15.400.mp3"
         },
         {
           "source": "ソードアート・オンライン",
@@ -597,9 +605,9 @@
           "jp": "いつもオドオドしてるし　弱気なんだよね",
           "cn": "总是畏畏缩缩的，又胆小呢。",
           "image": "media/19/0.jpg",
-          "image_source": "A_Anohana_E02_1_0.05.59.965.jpg",
+          "image_source": "A-LittleWitchAcademia21_1_0.07.49.991.jpg",
           "audio": "media/19/0.mp3",
-          "audio_source": "A_Anohana_E02_1_0.05.58.850-0.06.01.080.mp3"
+          "audio_source": "A-LittleWitchAcademia21_1_0.07.48.552-0.07.51.430.mp3"
         },
         {
           "source": "一週間フレンズ。",
@@ -635,9 +643,9 @@
           "jp": "そんな感じだ オロオロしとけばいい",
           "cn": "就这样慌神就行了。",
           "image": "media/20/0.jpg",
-          "image_source": "girls_band_cry_001_0.15.32.645.jpg",
+          "image_source": "The_World_God_Only_Knows_S3_02_0.09.31.132.jpg",
           "audio": "media/20/0.mp3",
-          "audio_source": "girls_band_cry_001_0.15.31.150-0.15.34.140.mp3"
+          "audio_source": "The_World_God_Only_Knows_S3_02_0.09.29.647-0.09.32.616.mp3"
         },
         {
           "source": "らき☆すた",
@@ -694,12 +702,12 @@
       "examples": [
         {
           "source": "鬼滅の刃",
-          "jp": "お前はガクガク震えながら後ろをついてきな",
+          "jp": "お前は　ガクガク震えながら　後ろをついてきな",
           "cn": "你就瑟瑟发抖地跟在后面吧。",
           "image": "media/22/0.jpg",
-          "image_source": "Legal_High_03_0.13.09.790.jpg",
+          "image_source": "Kimetsu_no_Yaiba_15_0.09.13.565.jpg",
           "audio": "media/22/0.mp3",
-          "audio_source": "Legal_High_03_0.13.08.540-0.13.11.040.mp3"
+          "audio_source": "Kimetsu_no_Yaiba_15_0.09.11.830-0.09.15.150.mp3"
         },
         {
           "source": "リーガル・ハイ",
@@ -728,7 +736,7 @@
       "examples": [
         {
           "source": "鬼滅の刃",
-          "jp": "蜘蛛がカサカサする音　すごい気持ち悪いし！",
+          "jp": "蜘蛛(くも)がカサカサする音　すごい気持ち悪いし！",
           "cn": "蜘蛛窸窸窣窣的声音，恶心死了！",
           "image": "media/23/0.jpg",
           "image_source": "Kimetsu_no_Yaiba_17_0.01.53.750.jpg",
@@ -753,12 +761,12 @@
       "examples": [
         {
           "source": "鬼滅の刃",
-          "jp": "そのあとすぐ　動きがガタガタになったからな",
+          "jp": "そのあとすぐ　動きがガタガタになったからな　フフフフ！",
           "cn": "紧接着动作就乱七八糟了。",
           "image": "media/24/0.jpg",
-          "image_source": "A_Assassination_classroom_E12_1_0.15.39.435.jpg",
+          "image_source": "Kimetsu_no_Yaiba_04_0.17.53.190.jpg",
           "audio": "media/24/0.mp3",
-          "audio_source": "A_Assassination_classroom_E12_1_0.15.38.130-0.15.40.740.mp3"
+          "audio_source": "Kimetsu_no_Yaiba_04_0.17.50.350-0.17.55.880.mp3"
         },
         {
           "source": "響け！ユーフォニアム",
@@ -831,10 +839,12 @@
       "examples": [
         {
           "source": "化物語",
-          "jp": "（ガチャン）（阿良々木のうめき声）",
+          "jp": "（ガチャン）　（阿良々木のうめき声）　（阿良々木）ぐ…　ぐぐ…　悲鳴を上げないのね　立派だわ",
           "cn": "哐——（阿良良木的呻吟）",
           "image": "media/26/0.jpg",
-          "image_source": "SwordArtOnlineS01E_25_0.05.12.646.jpg"
+          "image_source": "A_Bakemonogatari_E01_1_0.11.48.731.jpg",
+          "audio": "media/26/0.mp3",
+          "audio_source": "A_Bakemonogatari_E01_1_0.11.44.873-0.11.52.589.mp3"
         },
         {
           "source": "僕のヒーローアカデミア",
@@ -866,9 +876,9 @@
           "jp": "ガツガツしやがって",
           "cn": "猴急成那样。",
           "image": "media/27/0.jpg",
-          "image_source": "A_UsagiDrop_08_0.04.44.515.jpg",
+          "image_source": "A_DailyLivesofHighSchoolBoys_S01E03_1_0.22.28.990.jpg",
           "audio": "media/27/0.mp3",
-          "audio_source": "A_UsagiDrop_08_0.04.40.510-0.04.48.520.mp3"
+          "audio_source": "A_DailyLivesofHighSchoolBoys_S01E03_1_0.22.28.450-0.22.29.530.mp3"
         },
         {
           "source": "賭ケグルイ",
@@ -1052,8 +1062,12 @@
       "examples": [
         {
           "source": "HUNTER×HUNTER",
-          "jp": "休まずビールをガブガブ飲み→ どんどんオシッコをすること！",
-          "cn": "不停地咕嘟咕嘟灌啤酒→ 然后拼命上厕所！"
+          "jp": "よって　これから明日の今頃まで 休まずビールをガブガブ飲み→ どんどんオシッコをすること！",
+          "cn": "不停地咕嘟咕嘟灌啤酒→ 然后拼命上厕所！",
+          "image": "media/32/0.jpg",
+          "image_source": "HUNTER×HUNTER_44_0.17.26.750.jpg",
+          "audio": "media/32/0.mp3",
+          "audio_source": "HUNTER×HUNTER_44_0.17.23.004-0.17.30.495.mp3"
         },
         {
           "source": "Re:ゼロ",
@@ -1084,9 +1098,9 @@
           "jp": "さっきから　あの女の子に　ガミガミ怒られるし",
           "cn": "刚才起就被那女孩没完没了地骂。",
           "image": "media/33/0.jpg",
-          "image_source": "A_UsagiDrop_09_0.16.41.870.jpg",
+          "image_source": "Kimetsu_no_Yaiba_23_0.13.26.045.jpg",
           "audio": "media/33/0.mp3",
-          "audio_source": "A_UsagiDrop_09_0.16.39.370-0.16.44.370.mp3"
+          "audio_source": "Kimetsu_no_Yaiba_23_0.13.24.080-0.13.27.860.mp3"
         },
         {
           "source": "家政婦のミタ",
@@ -1121,12 +1135,12 @@
       "examples": [
         {
           "source": "葬送のフリーレン",
-          "jp": "すでに　喉カラカラなんだけど",
+          "jp": "すでに喉 カラカラなんだけど",
           "cn": "我喉咙已经干透了。",
           "image": "media/34/0.jpg",
-          "image_source": "1_Litre_of_Tears_ep01_720p_x265-ER_0.46.13.533-0.46.17.261.jpg",
+          "image_source": "frieren_19_0.10.01.413.jpg",
           "audio": "media/34/0.mp3",
-          "audio_source": "1_Litre_of_Tears_ep01_720p_x265-ER_0.46.13.533-0.46.17.261.mp3"
+          "audio_source": "frieren_19_0.10.00.204-0.10.02.623.mp3"
         },
         {
           "source": "FAIRY TAIL",
@@ -1162,8 +1176,12 @@
       "examples": [
         {
           "source": "とらドラ！",
-          "jp": "あーもう　のどガラガラ",
-          "cn": "啊——嗓子都沙哑了。"
+          "jp": "あー もう のどガラガラ",
+          "cn": "啊——嗓子都沙哑了。",
+          "image": "media/35/0.jpg",
+          "image_source": "Toradora_03_0.18.16.632.jpg",
+          "audio": "media/35/0.mp3",
+          "audio_source": "Toradora_03_0.18.15.439-0.18.17.824.mp3"
         },
         {
           "source": "けいおん！",
@@ -1200,7 +1218,9 @@
           "jp": "…どこから？",
           "cn": "",
           "image": "media/36/0.jpg",
-          "image_source": "Hyouka_12_0.01.07.500-0.01.11.600.jpg"
+          "image_source": "A_DeathNote_11_0.08.28.415.jpg",
+          "audio": "media/36/0.mp3",
+          "audio_source": "A_DeathNote_11_0.08.27.660-0.08.29.170.mp3"
         },
         {
           "jp": "あなたは どこから来たの？",
@@ -1229,8 +1249,12 @@
       "examples": [
         {
           "source": "フルーツバスケット",
-          "jp": "早くカラリと晴れた夏が来てくださるともっと助かります",
-          "cn": "希望艳阳高照的夏天快点到来，那就更好了。"
+          "jp": "早くカラリと晴れた夏が 来てくださると もっと助かります",
+          "cn": "希望艳阳高照的夏天快点到来，那就更好了。",
+          "image": "media/37/0.jpg",
+          "image_source": "A_FruitsBasket_S01E23_1_0.13.13.359.jpg",
+          "audio": "media/37/0.mp3",
+          "audio_source": "A_FruitsBasket_S01E23_1_0.13.11.440-0.13.15.277.mp3"
         }
       ]
     },
@@ -1250,12 +1274,12 @@
       "examples": [
         {
           "source": "鬼滅の刃",
-          "jp": "あの箱　カリカリ　音がして…",
+          "jp": "おっ　おにいちゃん　あの箱　カリカリ　音がして…",
           "cn": "那箱子有沙沙窸窣的声音……",
           "image": "media/38/0.jpg",
-          "image_source": "Sakurasou_no_Pet_na_Kanojo_18_0.23.35.380.jpg",
+          "image_source": "Kimetsu_no_Yaiba_11_0.15.22.955.jpg",
           "audio": "media/38/0.mp3",
-          "audio_source": "Sakurasou_no_Pet_na_Kanojo_18_0.23.34.560-0.23.36.200.mp3"
+          "audio_source": "Kimetsu_no_Yaiba_11_0.15.20.780-0.15.24.980.mp3"
         },
         {
           "source": "FAIRY TAIL",
@@ -1287,10 +1311,12 @@
       "collocations": "〜食べる／〜噛む／〜削る",
       "examples": [
         {
-          "jp": "《自己主張し 名前などというものを欲しがり→ 種のために競うように 功を成そうとする反面→ かたくなに 個を重んじる》",
+          "jp": "《自己主張し 名前などというものを欲しがり→ 種のために競うように 功を成そうとする反面→ かたくなに　個を重んじる》",
           "cn": "",
           "image": "media/39/0.jpg",
-          "image_source": "Toradora_03_0.04.15.229.jpg"
+          "image_source": "HUNTER×HUNTER_78_0.18.49.740.jpg",
+          "audio": "media/39/0.mp3",
+          "audio_source": "HUNTER×HUNTER_78_0.18.44.019-0.18.55.460.mp3"
         },
         {
           "jp": "あの男はどこだ 私に撃たせろ 召使いは存外 恥ずかしがり屋だったようです",
@@ -1316,7 +1342,11 @@
       "examples": [
         {
           "jp": "父がリゼさんのお父さんに よろしくと言ってました",
-          "cn": ""
+          "cn": "",
+          "image": "media/40/0.jpg",
+          "image_source": "Is_The_Order_a_Rabbit_S02_-_02_0.13.43.052-0.13.46.431.jpg",
+          "audio": "media/40/0.mp3",
+          "audio_source": "Is_The_Order_a_Rabbit_S02_-_02_0.13.43.052-0.13.46.431.mp3"
         },
         {
           "jp": "どちらがリゼさんにふさわしい服を コーディネートできるか",
@@ -1344,8 +1374,12 @@
       "examples": [
         {
           "source": "千と千尋の神隠し",
-          "jp": "湯バーバがカンカンになってお前のこと捜してるぞ。",
-          "cn": "汤婆婆火冒三丈地找你呢。"
+          "jp": "(湯バーバ)がカンカンになって お前のこと捜してるぞ。",
+          "cn": "汤婆婆火冒三丈地找你呢。",
+          "image": "media/41/0.jpg",
+          "image_source": "Anime-SpiritedAway_1_1.30.07.542.jpg",
+          "audio": "media/41/0.mp3",
+          "audio_source": "Anime-SpiritedAway_1_1.30.05.960-1.30.09.123.mp3"
         },
         {
           "source": "FAIRY TAIL",
@@ -1383,9 +1417,9 @@
           "jp": "よし！　ガンガン行こうぜ！",
           "cn": "好！冲起来吧！",
           "image": "media/42/0.jpg",
-          "image_source": "A_DeathNote_19_0.04.18.670.jpg",
+          "image_source": "HUNTER×HUNTER_66_0.17.08.963.jpg",
           "audio": "media/42/0.mp3",
-          "audio_source": "A_DeathNote_19_0.04.14.610-0.04.22.730.mp3"
+          "audio_source": "HUNTER×HUNTER_66_0.17.07.703-0.17.10.222.mp3"
         },
         {
           "source": "ソードアート・オンライン",
@@ -1419,7 +1453,11 @@
         {
           "source": "らき☆すた",
           "jp": "もういいよ　ギザギザかハサミで開けちゃおう",
-          "cn": "算了，沿着锯齿边或用剪刀打开吧。"
+          "cn": "算了，沿着锯齿边或用剪刀打开吧。",
+          "image": "media/43/0.jpg",
+          "image_source": "luckystar-nodup_22_0.10.14.420.jpg",
+          "audio": "media/43/0.mp3",
+          "audio_source": "luckystar-nodup_22_0.10.12.690-0.10.16.150.mp3"
         },
         {
           "source": "ウィッチャー3",
@@ -1531,12 +1569,12 @@
       "examples": [
         {
           "source": "フルーツバスケット",
-          "jp": "その代わり きっぱり 断言させていただこう",
+          "jp": "その代わり キッパリ 断言させていただこう",
           "cn": "作为补偿，请允许我斩钉截铁地断言。",
           "image": "media/47/0.jpg",
-          "image_source": "A_Mahou_Shoujo_Madoka_Magica_S01_E01_1_0.08.14.452.jpg",
+          "image_source": "A_FruitsBasket_S01E15_1_0.19.25.708.jpg",
           "audio": "media/47/0.mp3",
-          "audio_source": "A_Mahou_Shoujo_Madoka_Magica_S01_E01_1_0.08.12.116-0.08.16.787.mp3"
+          "audio_source": "A_FruitsBasket_S01E15_1_0.19.24.269-0.19.27.147.mp3"
         },
         {
           "source": "魔法少女まどか☆マギカ",
@@ -1607,8 +1645,12 @@
       "examples": [
         {
           "source": "ド ミ ソ し よ う",
-          "jp": "買ったもん その中に ぎゅうぎゅうに詰め込むんだろう？",
-          "cn": "买的东西都挤挤巴巴塞进去对吧？"
+          "jp": "‪買ったもん その中に‬ ‪ギュウギュウに詰め込むんだろう？‬",
+          "cn": "买的东西都挤挤巴巴塞进去对吧？",
+          "image": "media/49/0.jpg",
+          "image_source": "Kyou_wa_Kaisha_Yasumimasu_EP07_720p_HDTV_x264_AAC-KUY_0.12.25.841-0.12.29.377.jpg",
+          "audio": "media/49/0.mp3",
+          "audio_source": "Kyou_wa_Kaisha_Yasumimasu_EP07_720p_HDTV_x264_AAC-KUY_0.12.25.841-0.12.29.377.mp3"
         },
         {
           "source": "カルテット",
@@ -1641,8 +1683,12 @@
       "examples": [
         {
           "source": "HUNTER×HUNTER",
-          "jp": "（ヂートゥ）うっ！ ぎょっとすると　体　固まるだろ。",
-          "cn": "（奇多）唔！一吓身体不就僵住了嘛。"
+          "jp": "（ヂートゥ）　うっ！ ギョっとすると　体　固まるだろ。",
+          "cn": "（奇多）唔！一吓身体不就僵住了嘛。",
+          "image": "media/50/0.jpg",
+          "image_source": "HUNTER×HUNTER_95_0.04.07.777.jpg",
+          "audio": "media/50/0.mp3",
+          "audio_source": "HUNTER×HUNTER_95_0.04.05.033-0.04.10.521.mp3"
         },
         {
           "source": "ウィッチャー3",
@@ -1665,8 +1711,12 @@
       "examples": [
         {
           "source": "千と千尋の神隠し",
-          "jp": "ついて来る。キョロキョロすんじゃないよ。",
-          "cn": "跟上来。别东张西望的。"
+          "jp": "ついて来る。 キョロキョロすんじゃないよ。",
+          "cn": "跟上来。别东张西望的。",
+          "image": "media/51/0.jpg",
+          "image_source": "Anime-SpiritedAway_1_0.32.10.481.jpg",
+          "audio": "media/51/0.mp3",
+          "audio_source": "Anime-SpiritedAway_1_0.32.09.280-0.32.11.681.mp3"
         },
         {
           "source": "HUNTER×HUNTER",
@@ -1702,9 +1752,9 @@
           "jp": "そのキラキラと輝く汗",
           "cn": "那闪闪发光的汗水。",
           "image": "media/52/0.jpg",
-          "image_source": "Legal_High_01_0.42.46.720.jpg",
+          "image_source": "Toradora_03_0.01.26.018.jpg",
           "audio": "media/52/0.mp3",
-          "audio_source": "Legal_High_01_0.42.44.910-0.42.48.530.mp3"
+          "audio_source": "Toradora_03_0.01.24.596-0.01.27.440.mp3"
         },
         {
           "source": "四月は君の嘘",
@@ -1739,7 +1789,11 @@
         {
           "source": "キルラキル",
           "jp": "あれはギラギラしてただけ",
-          "cn": "那不过是刺眼地闪着罢了。"
+          "cn": "那不过是刺眼地闪着罢了。",
+          "image": "media/53/0.jpg",
+          "image_source": "A_Kill_la_Kill_07_0.20.41.365.jpg",
+          "audio": "media/53/0.mp3",
+          "audio_source": "A_Kill_la_Kill_07_0.20.40.322-0.20.42.407.mp3"
         },
         {
           "source": "キルラキル",
@@ -1812,12 +1866,12 @@
       "examples": [
         {
           "source": "らき☆すた",
-          "jp": "あたしだってもうぎりぎりよ",
+          "jp": "あたしだってもうギリギリよ",
           "cn": "我也已经到极限了。",
           "image": "media/55/0.jpg",
-          "image_source": "Isshuukan_Friends_(Test)_06_0.20.40.765.jpg",
+          "image_source": "luckystar-nodup_09_0.12.06.480.jpg",
           "audio": "media/55/0.mp3",
-          "audio_source": "Isshuukan_Friends_(Test)_06_0.20.39.710-0.20.41.820.mp3"
+          "audio_source": "luckystar-nodup_09_0.12.05.420-0.12.07.540.mp3"
         },
         {
           "source": "君の名は。",
@@ -1866,7 +1920,11 @@
         {
           "source": "らき☆すた",
           "jp": "食べながらこうグイグイと",
-          "cn": "一边吃一边就这么一个劲儿往里塞。"
+          "cn": "一边吃一边就这么一个劲儿往里塞。",
+          "image": "media/57/0.jpg",
+          "image_source": "luckystar-nodup_01_0.03.47.935.jpg",
+          "audio": "media/57/0.mp3",
+          "audio_source": "luckystar-nodup_01_0.03.46.840-0.03.49.030.mp3"
         },
         {
           "source": "ニセコイ",
@@ -1927,7 +1985,11 @@
       "examples": [
         {
           "jp": "ぐいっと上見て 突き進め！",
-          "cn": ""
+          "cn": "",
+          "image": "media/59/0.jpg",
+          "image_source": "A_My_Hero_Academia_S01_E01_1_0.16.13.720.jpg",
+          "audio": "media/59/0.mp3",
+          "audio_source": "A_My_Hero_Academia_S01_E01_1_0.16.12.570-0.16.14.870.mp3"
         },
         {
           "jp": "まぁ ぐいっと！",
@@ -1954,8 +2016,12 @@
       "examples": [
         {
           "source": "涼宮ハルヒの憂鬱",
-          "jp": "団長が起きてんのに 下っ端がグーグー寝てるなんて",
-          "cn": "团长都醒了，手下竟还呼呼大睡。"
+          "jp": "いい？　団長が起きてんのに 下っ端がグーグー寝てるなんて",
+          "cn": "团长都醒了，手下竟还呼呼大睡。",
+          "image": "media/60/0.jpg",
+          "image_source": "Z.SUZUMIYA_01_0.08.57.569.jpg",
+          "audio": "media/60/0.mp3",
+          "audio_source": "Z.SUZUMIYA_01_0.08.55.745-0.08.59.512.mp3"
         },
         {
           "source": "Cardcaptor Sakura",
@@ -2003,7 +2069,11 @@
         {
           "source": "フルーツバスケット",
           "jp": "クスクス笑うんだって…",
-          "cn": "听说她们偷偷地笑她……"
+          "cn": "听说她们偷偷地笑她……",
+          "image": "media/62/0.jpg",
+          "image_source": "A_FruitsBasket_S01E18_1_0.14.37.860.jpg",
+          "audio": "media/62/0.mp3",
+          "audio_source": "A_FruitsBasket_S01E18_1_0.14.36.775-0.14.38.944.mp3"
         },
         {
           "source": "この素晴らしい世界に祝福を！2",
@@ -2041,9 +2111,9 @@
           "jp": "なにをグズグズしてるんだ！さっさと蹴やぶらないか！",
           "cn": "还在磨蹭什么！赶紧踹破啊！",
           "image": "media/63/0.jpg",
-          "image_source": "Fate_Zero_22_0.14.41.500.jpg",
+          "image_source": "A_CastleInTheSky_1_0.3.05.100.jpg",
           "audio": "media/63/0.mp3",
-          "audio_source": "Fate_Zero_22_0.14.39.810-0.14.43.190.mp3"
+          "audio_source": "A_CastleInTheSky_1_0.3.03.440-0.3.06.760.mp3"
         },
         {
           "source": "千と千尋の神隠し",
@@ -2119,9 +2189,9 @@
           "jp": "≪うわぁ　顔ぐっちゃぐちゃだぜ≫",
           "cn": "哇，脸稀巴烂了。",
           "image": "media/65/0.jpg",
-          "image_source": "A_Code_GeassS01_14_0.18.49.315.jpg",
+          "image_source": "HUNTER×HUNTER_66_0.18.29.433.jpg",
           "audio": "media/65/0.mp3",
-          "audio_source": "A_Code_GeassS01_14_0.18.47.650-0.18.50.980.mp3"
+          "audio_source": "HUNTER×HUNTER_66_0.18.27.683-0.18.31.183.mp3"
         },
         {
           "source": "Angel Beats!",
@@ -2225,8 +2295,12 @@
       "examples": [
         {
           "source": "Steins;Gate",
-          "jp": "急に見ている物が ぐにゃぐにゃしてきて―立っていられなくてフラフラして",
-          "cn": "突然看到的东西扭曲变形——站不住，晃晃悠悠……"
+          "jp": "急に見ている物が グニャグニャしてきて― 立っていられなくて フラフラして― 体がビクッとなったって…",
+          "cn": "突然看到的东西扭曲变形——站不住，晃晃悠悠……",
+          "image": "media/68/0.jpg",
+          "image_source": "A_SteinsGateS01_E10_1_0.13.25.565.jpg",
+          "audio": "media/68/0.mp3",
+          "audio_source": "A_SteinsGateS01_E10_1_0.13.21.498-0.13.29.631.mp3"
         }
       ]
     },
@@ -2302,9 +2376,9 @@
           "jp": "ロングスカートで クルクルしてみたり！",
           "cn": "穿着长裙转啊转！",
           "image": "media/71/0.jpg",
-          "image_source": "A_Code_GeassS01_14_0.17.07.545.jpg",
+          "image_source": "Is_The_Order_a_Rabbit_S02_-_02_0.16.17.749-0.16.20.251.jpg",
           "audio": "media/71/0.mp3",
-          "audio_source": "A_Code_GeassS01_14_0.17.05.040-0.17.10.050.mp3"
+          "audio_source": "Is_The_Order_a_Rabbit_S02_-_02_0.16.17.749-0.16.20.251.mp3"
         },
         {
           "source": "FAIRY TAIL",
@@ -2379,9 +2453,9 @@
           "jp": "すごいなぁ　グングン夢に向かって　進んで行くって…。",
           "cn": "好厉害啊，一路朝着梦想前进……",
           "image": "media/73/0.jpg",
-          "image_source": "Kakegurui_S2_09_0.04.27.030.jpg",
+          "image_source": "A_WhisperOfTheHeart_1_1.06.48.570.jpg",
           "audio": "media/73/0.mp3",
-          "audio_source": "Kakegurui_S2_09_0.04.25.250-0.04.28.860.mp3"
+          "audio_source": "A_WhisperOfTheHeart_1_1.06.46.465-1.06.50.675.mp3"
         },
         {
           "source": "賭ケグルイ",
@@ -2456,12 +2530,12 @@
       "examples": [
         {
           "source": "フルーツバスケット",
-          "jp": "透くんと一緒に帰ってきたときはもうケロっとしてたよ",
+          "jp": "でも 透くんと 一緒に帰ってきたときは もう ケロっとしてたよ",
           "cn": "和透君一起回来时已经完全恢复了。",
           "image": "media/76/0.jpg",
-          "image_source": "Nisekoi_-_18_0.23.09.760-0.23.12.960.jpg",
+          "image_source": "A_FruitsBasket_S01E10_1_0.16.07.113.jpg",
           "audio": "media/76/0.mp3",
-          "audio_source": "Nisekoi_-_18_0.23.09.760-0.23.12.960.mp3"
+          "audio_source": "A_FruitsBasket_S01E10_1_0.16.04.631-0.16.09.594.mp3"
         },
         {
           "source": "俺の妹がこんなに可愛いわけがない",
@@ -2536,8 +2610,12 @@
       "examples": [
         {
           "source": "葬送のフリーレン",
-          "jp": "ゴクリ",
-          "cn": "咕。"
+          "jp": "「ゴクリ くんかくんか」",
+          "cn": "咕。",
+          "image": "media/79/0.jpg",
+          "image_source": "Oreimo_S01E11_0.14.33.250-0.14.35.540.jpg",
+          "audio": "media/79/0.mp3",
+          "audio_source": "Oreimo_S01E11_0.14.33.250-0.14.35.540.mp3"
         },
         {
           "source": "ガールズバンドクライ",
@@ -2626,12 +2704,12 @@
       "examples": [
         {
           "source": "鬼滅の刃",
-          "jp": "大正こそこそ噂話",
+          "jp": "“大正コソコソ噂話(うわさばなし)”",
           "cn": "大正时代的悄悄话。",
           "image": "media/82/0.jpg",
-          "image_source": "Oreimo_S01E11_0.15.05.720-0.15.06.980.jpg",
+          "image_source": "Kimetsu_no_Yaiba_21_0.23.17.640.jpg",
           "audio": "media/82/0.mp3",
-          "audio_source": "Oreimo_S01E11_0.15.05.720-0.15.06.980.mp3"
+          "audio_source": "Kimetsu_no_Yaiba_21_0.23.16.510-0.23.18.620.mp3"
         },
         {
           "source": "キルラキル",
@@ -2669,9 +2747,9 @@
           "jp": "ゴタゴタといえば　リオールの暴動を覚えておいでですか",
           "cn": "说到麻烦事，您还记得利欧尔的暴动吗？",
           "image": "media/83/0.jpg",
-          "image_source": "A_DeathNote_21_0.14.49.640.jpg",
+          "image_source": "A_FullmetalAlchemistBrotherhood_32_0.07.56.135.jpg",
           "audio": "media/83/0.mp3",
-          "audio_source": "A_DeathNote_21_0.14.46.790-0.14.52.490.mp3"
+          "audio_source": "A_FullmetalAlchemistBrotherhood_32_0.07.54.030-0.07.58.240.mp3"
         },
         {
           "source": "HUNTER×HUNTER",
@@ -2705,12 +2783,12 @@
       "examples": [
         {
           "source": "FAIRY TAIL",
-          "jp": "ゴチャゴチャうるさい！",
+          "jp": "ゴチャゴチャうるさいヤツね やるって言ったら やるのよ",
           "cn": "啰里啰嗦吵死了！",
           "image": "media/84/0.jpg",
-          "image_source": "A_Assassination_classroom_E10_1_0.00.28.320.jpg",
+          "image_source": "Z.SUZUMIYA_12_0.14.37.647.jpg",
           "audio": "media/84/0.mp3",
-          "audio_source": "A_Assassination_classroom_E10_1_0.00.26.660-0.00.29.980.mp3"
+          "audio_source": "Z.SUZUMIYA_12_0.14.36.011-0.14.39.403.mp3"
         },
         {
           "source": "鋼の錬金術師 Brotherhood",
@@ -2744,12 +2822,12 @@
       "examples": [
         {
           "source": "鬼滅の刃",
-          "jp": "地道にコツコツやるのが いちばん しんどいです",
+          "jp": "地道にコツコツやるのが　いちばん　しんどいです",
           "cn": "踏实地一点一点做才是最磨人的。",
           "image": "media/85/0.jpg",
-          "image_source": "A_Bakemonogatari_E12_1_0.11.21.286.jpg",
+          "image_source": "Kimetsu_no_Yaiba_25_0.05.23.755.jpg",
           "audio": "media/85/0.mp3",
-          "audio_source": "A_Bakemonogatari_E12_1_0.11.17.594-0.11.24.977.mp3"
+          "audio_source": "Kimetsu_no_Yaiba_25_0.05.22.020-0.05.25.340.mp3"
         },
         {
           "source": "らき☆すた",
@@ -2777,8 +2855,12 @@
       "examples": [
         {
           "source": "ニセコイ",
-          "jp": "男の人の手ってゴツゴツしてて こんなに大きいものなんだ",
-          "cn": "原来男人的手粗粗硬硬，这么大啊。"
+          "jp": "男の人の手ってゴツゴツしてて　こんなに大きいものなんだ",
+          "cn": "原来男人的手粗粗硬硬，这么大啊。",
+          "image": "media/86/0.jpg",
+          "image_source": "Nisekoi_S2_-_08_0.23.35.280-0.23.40.580.jpg",
+          "audio": "media/86/0.mp3",
+          "audio_source": "Nisekoi_S2_-_08_0.23.35.280-0.23.40.580.mp3"
         }
       ]
     },
@@ -2864,8 +2946,12 @@
       "examples": [
         {
           "source": "HUNTER×HUNTER",
-          "jp": "弱火で じっくりコトコト 飽きるまで",
-          "cn": "小火慢慢地咕嘟咕嘟炖到烂。"
+          "jp": "弱火で　じっくりコトコト 飽きるまで。",
+          "cn": "小火慢慢地咕嘟咕嘟炖到烂。",
+          "image": "media/89/0.jpg",
+          "image_source": "HUNTER×HUNTER_03_0.04.55.490.jpg",
+          "audio": "media/89/0.mp3",
+          "audio_source": "HUNTER×HUNTER_03_0.04.53.463-0.04.57.517.mp3"
         },
         {
           "source": "しろくまカフェ",
@@ -2922,8 +3008,12 @@
       "examples": [
         {
           "source": "HUNTER×HUNTER",
-          "jp": "あ～ ゴホン。 ん？",
-          "cn": "啊～ 咳咳。嗯？"
+          "jp": "あ～　ゴホン。 ん？",
+          "cn": "啊～ 咳咳。嗯？",
+          "image": "media/91/0.jpg",
+          "image_source": "HUNTER×HUNTER_65_0.04.32.874.jpg",
+          "audio": "media/91/0.mp3",
+          "audio_source": "HUNTER×HUNTER_65_0.04.31.624-0.04.34.124.mp3"
         },
         {
           "source": "ソードアート・オンライン",
@@ -2954,7 +3044,11 @@
         {
           "source": "鋼の錬金術師 Brotherhood",
           "jp": "痛ぇよ、アル、鎧の角、ゴリゴリって",
-          "cn": "疼啊阿尔，你铠甲的棱角硬邦邦硌着我！"
+          "cn": "疼啊阿尔，你铠甲的棱角硬邦邦硌着我！",
+          "image": "media/92/0.jpg",
+          "image_source": "A_FullmetalAlchemistBrotherhood_28_0.03.15.000.jpg",
+          "audio": "media/92/0.mp3",
+          "audio_source": "A_FullmetalAlchemistBrotherhood_28_0.03.13.640-0.03.16.360.mp3"
         },
         {
           "source": "モブサイコ100",
@@ -3050,12 +3144,12 @@
       "examples": [
         {
           "source": "けいおん！",
-          "jp": "ゴロゴロ… かな",
+          "jp": "ゴロゴロ…　かな",
           "cn": "懒懒地躺着吧。",
           "image": "media/95/0.jpg",
-          "image_source": "A_Durarara_S01_15_0.06.57.333.jpg",
+          "image_source": "A_KOn_S01E01_1_0.17.45.442.jpg",
           "audio": "media/95/0.mp3",
-          "audio_source": "A_Durarara_S01_15_0.06.55.998-0.06.58.668.mp3"
+          "audio_source": "A_KOn_S01E01_1_0.17.44.342-0.17.46.542.mp3"
         },
         {
           "source": "しろくまカフェ",
@@ -3113,7 +3207,11 @@
         {
           "source": "FAIRY TAIL",
           "jp": "なんか この辺がゴワゴワする…",
-          "cn": "怎么这一带硬硬涩涩的……"
+          "cn": "怎么这一带硬硬涩涩的……",
+          "image": "media/97/0.jpg",
+          "image_source": "Fairy_Tail_109_0.03.55.186.jpg",
+          "audio": "media/97/0.mp3",
+          "audio_source": "Fairy_Tail_109_0.03.53.559-0.03.56.812.mp3"
         },
         {
           "source": "FAIRY TAIL",
@@ -3209,9 +3307,9 @@
           "jp": "さっさと　お家に帰んな。",
           "cn": "赶紧回家去。",
           "image": "media/101/0.jpg",
-          "image_source": "A_Noragami_E07_1_0.13.48.690.jpg",
+          "image_source": "HUNTER×HUNTER_85_0.14.21.720.jpg",
           "audio": "media/101/0.mp3",
-          "audio_source": "A_Noragami_E07_1_0.13.47.210-0.13.50.170.mp3"
+          "audio_source": "HUNTER×HUNTER_85_0.14.20.220-0.14.23.220.mp3"
         },
         {
           "source": "CLANNAD",
@@ -3244,7 +3342,9 @@
           "jp": "譜面を一度さっと眺めただけで 完璧に弾いたわよ",
           "cn": "只是匆匆扫了一眼乐谱就完美地弹出来了。",
           "image": "media/102/0.jpg",
-          "image_source": "A-LittleWitchAcademia04_1_0.22.18.786.jpg"
+          "image_source": "Z.SUZUMIYA_18_0.17.50.077.jpg",
+          "audio": "media/102/0.mp3",
+          "audio_source": "Z.SUZUMIYA_18_0.17.48.379-0.17.51.895.mp3"
         },
         {
           "source": "ウィッチャー3",
@@ -3492,12 +3592,12 @@
       "examples": [
         {
           "source": "千と千尋の神隠し",
-          "jp": "（ハク）しっかり！",
+          "jp": "しっかり",
           "cn": "（白龙）振作！",
           "image": "media/111/0.jpg",
-          "image_source": "A_FruitsBasket_S01E22_1_0.09.00.335.jpg",
+          "image_source": "A_PrincessMononoke_1_0.5.18.635.jpg",
           "audio": "media/111/0.mp3",
-          "audio_source": "A_FruitsBasket_S01E22_1_0.08.59.396-0.09.01.273.mp3"
+          "audio_source": "A_PrincessMononoke_1_0.5.18.197-0.5.19.073.mp3"
         },
         {
           "source": "鋼の錬金術師 Brotherhood",
@@ -3660,9 +3760,9 @@
           "jp": "じゃあ じゃあ私は お母さんに会うために 生まれてきたのですよ",
           "cn": "",
           "image": "media/116/0.jpg",
-          "image_source": "Nisekoi_-_09_0.09.03.790-0.09.05.610.jpg",
+          "image_source": "A_FruitsBasket_S01E19_1_0.16.11.516.jpg",
           "audio": "media/116/0.mp3",
-          "audio_source": "Nisekoi_-_09_0.09.03.790-0.09.05.610.mp3"
+          "audio_source": "A_FruitsBasket_S01E19_1_0.16.09.034-0.16.13.997.mp3"
         },
         {
           "jp": "じゃあじゃあ 今日の下着のい…",
@@ -3828,8 +3928,12 @@
       "examples": [
         {
           "source": "おもひでぽろぽろ",
-          "jp": "♪ 雲をスイスイ スイスイ追い抜いて",
-          "cn": "♪ 轻快地穿越云朵，追了过去。"
+          "jp": "♪　雲をスイスイ　スイスイ追い抜(ぬ)いて",
+          "cn": "♪ 轻快地穿越云朵，追了过去。",
+          "image": "media/121/0.jpg",
+          "image_source": "A_OnlyYesterday_1_1.31.47.069.jpg",
+          "audio": "media/121/0.mp3",
+          "audio_source": "A_OnlyYesterday_1_1.31.45.504-1.31.48.633.mp3"
         },
         {
           "source": "Cardcaptor Sakura",
@@ -3853,7 +3957,11 @@
         {
           "source": "Steins;Gate",
           "jp": "だから… 中身がスカスカになる",
-          "cn": "所以……内容变得空洞。"
+          "cn": "所以……内容变得空洞。",
+          "image": "media/122/0.jpg",
+          "image_source": "A_SteinsGateS01_E05_1_0.20.58.467.jpg",
+          "audio": "media/122/0.mp3",
+          "audio_source": "A_SteinsGateS01_E05_1_0.20.56.694-0.21.00.239.mp3"
         },
         {
           "source": "Re:ゼロ",
@@ -3882,7 +3990,11 @@
         {
           "source": "FAIRY TAIL",
           "jp": "思い出しただけで お尻がズキズキ…",
-          "cn": "光回忆一下屁股就一阵阵作痛……"
+          "cn": "光回忆一下屁股就一阵阵作痛……",
+          "image": "media/123/0.jpg",
+          "image_source": "Fairy_Tail_030_0.05.26.054.jpg",
+          "audio": "media/123/0.mp3",
+          "audio_source": "Fairy_Tail_030_0.05.24.511-0.05.27.597.mp3"
         },
         {
           "source": "ウィッチャー3",
@@ -3925,12 +4037,12 @@
       "examples": [
         {
           "source": "HUNTER×HUNTER",
-          "jp": "すっきりした",
+          "jp": "おかげで大分すっきりしたよ",
           "cn": "啊，痛快多了。",
           "image": "media/125/0.jpg",
-          "image_source": "Nisekoi_S2_-_10_0.22.35.210-0.22.36.210.jpg",
+          "image_source": "Sakurasou_no_Pet_na_Kanojo_22_0.04.01.995.jpg",
           "audio": "media/125/0.mp3",
-          "audio_source": "Nisekoi_S2_-_10_0.22.35.210-0.22.36.210.mp3"
+          "audio_source": "Sakurasou_no_Pet_na_Kanojo_22_0.04.00.940-0.04.03.050.mp3"
         },
         {
           "source": "ニセコイ",
@@ -3965,12 +4077,12 @@
       "examples": [
         {
           "source": "化物語",
-          "jp": "そこから横に すっと それて",
+          "jp": "そこから横に　す〜っと　それて　あの辺りが　へびつかい座よ",
           "cn": "从那里顺滑地横向错开。",
           "image": "media/126/0.jpg",
-          "image_source": "The_World_God_Only_Knows_S1_03_0.14.10.574.jpg",
+          "image_source": "A_Bakemonogatari_E12_1_0.18.23.770.jpg",
           "audio": "media/126/0.mp3",
-          "audio_source": "The_World_God_Only_Knows_S1_03_0.14.08.839-0.14.12.309.mp3"
+          "audio_source": "A_Bakemonogatari_E12_1_0.18.21.810-0.18.25.730.mp3"
         },
         {
           "source": "1リットルの涙",
@@ -4074,8 +4186,12 @@
       "examples": [
         {
           "source": "ご注文はうさぎですか？",
-          "jp": "（千夜）スヤスヤ…",
-          "cn": "（千夜）Zzz……"
+          "jp": "（携帯のバイブ） （千夜）スヤスヤ…",
+          "cn": "（千夜）Zzz……",
+          "image": "media/130/0.jpg",
+          "image_source": "Is_The_Order_a_Rabbit_S02_-_02_0.05.23.470-0.05.24.680.jpg",
+          "audio": "media/130/0.mp3",
+          "audio_source": "Is_The_Order_a_Rabbit_S02_-_02_0.05.23.470-0.05.24.680.mp3"
         },
         {
           "source": "ウィッチャー3",
@@ -4103,12 +4219,12 @@
       "examples": [
         {
           "source": "Angel Beats!",
-          "jp": "なんでこんなにすらすら 解けるんだ",
+          "jp": "なんでこんなにすらすら解けるんだ　オレ",
           "cn": "为什么能这么流畅地解出来？",
           "image": "media/131/0.jpg",
-          "image_source": "A_PsychoPassS01_E15_1_0.09.17.745.jpg",
+          "image_source": "Angel_Beats!_5_0.07.17.290.jpg",
           "audio": "media/131/0.mp3",
-          "audio_source": "A_PsychoPassS01_E15_1_0.09.15.510-0.09.19.980.mp3"
+          "audio_source": "Angel_Beats!_5_0.07.15.880-0.07.18.950.mp3"
         },
         {
           "source": "魔法科高校の劣等生",
@@ -4141,7 +4257,7 @@
       "examples": [
         {
           "source": "俺の妹がこんなに可愛いわけがない",
-          "jp": "ずらっと妹モノのエロゲーが並んでたら",
+          "jp": "ずらっと妹モノのエロゲーが並んでたら見たやつどう思うんだよ",
           "cn": "要是一大排妹系黄油摆在那儿……",
           "image": "media/132/0.jpg",
           "image_source": "Oreimo_S02E15_0.17.02.770-0.17.07.610.jpg",
@@ -4169,12 +4285,12 @@
       "examples": [
         {
           "source": "新世界より",
-          "jp": "例えて言えば ずらりと並んだ卵がふ化するのを待ちながら",
+          "jp": "｢例えて言えば ずらりと並んだ卵が ふ化するのを待ちながら",
           "cn": "比方说，一边等着一排排蛋孵化。",
           "image": "media/133/0.jpg",
-          "image_source": "Legal_High_06_0.22.05.640.jpg",
+          "image_source": "Shinsekai_Yori_16_0.06.21.215.jpg",
           "audio": "media/133/0.mp3",
-          "audio_source": "Legal_High_06_0.22.03.460-0.22.07.820.mp3"
+          "audio_source": "Shinsekai_Yori_16_0.06.18.670-0.06.23.760.mp3"
         },
         {
           "source": "リーガル・ハイ",
@@ -4204,12 +4320,12 @@
       "examples": [
         {
           "source": "ReLIFE",
-          "jp": "このままずるずる ニート生活を続けていくか",
+          "jp": "おじけづいて このままずるずる ニート生活を続けていくか",
           "cn": "就这样拖着继续 NEET 生活吗？",
           "image": "media/134/0.jpg",
-          "image_source": "Shinsekai_Yori_10_0.18.00.655.jpg",
+          "image_source": "Relife_07_0.12.26.470.jpg",
           "audio": "media/134/0.mp3",
-          "audio_source": "Shinsekai_Yori_10_0.17.56.600-0.18.04.710.mp3"
+          "audio_source": "Relife_07_0.12.24.343-0.12.28.597.mp3"
         },
         {
           "source": "魔法科高校の劣等生",
@@ -4242,12 +4358,12 @@
       "examples": [
         {
           "source": "暗殺教室",
-          "jp": "ええ 彼らの主張は すれすれです",
+          "jp": "ええ　彼らの主張は　詭弁すれすれです",
           "cn": "是的，他们的主张擦边（勉强立得住）。",
           "image": "media/135/0.jpg",
-          "image_source": "A_Bakemonogatari_E08_1_0.11.07.467.jpg",
+          "image_source": "A_Assassination_classroom_E16_1_0.16.10.235.jpg",
           "audio": "media/135/0.mp3",
-          "audio_source": "A_Bakemonogatari_E08_1_0.11.04.902-0.11.10.032.mp3"
+          "audio_source": "A_Assassination_classroom_E16_1_0.16.08.280-0.16.12.190.mp3"
         },
         {
           "source": "化物語",
@@ -4275,7 +4391,7 @@
       "examples": [
         {
           "source": "フェルマーの料理",
-          "jp": "その分野の闇に ずんずんと足を踏み入れていく",
+          "jp": "止まらずに その分野の闇に ずんずんと足を踏み入れていく",
           "cn": "阔步踏入这领域的黑暗。",
           "image": "media/136/0.jpg",
           "image_source": "fermat_kitchen_010_0.17.23.601.jpg",
@@ -4299,12 +4415,12 @@
       "examples": [
         {
           "source": "一週間フレンズ。",
-          "jp": "すんなり溶け込むみたいに内容が入ってくる",
+          "jp": "これを読むとね　本当の事かどうか疑う前に すんなり溶け込むみたいに内容が入ってくるというか",
           "cn": "内容就像毫无障碍地融进来一样。",
           "image": "media/137/0.jpg",
-          "image_source": "Nisekoi_-_13_0.08.07.640-0.08.10.330.jpg",
+          "image_source": "Isshuukan_Friends_(Test)_11_0.00.31.120.jpg",
           "audio": "media/137/0.mp3",
-          "audio_source": "Nisekoi_-_13_0.08.07.640-0.08.10.330.mp3"
+          "audio_source": "Isshuukan_Friends_(Test)_11_0.00.27.440-0.00.34.800.mp3"
         },
         {
           "source": "暗殺教室",
@@ -4332,7 +4448,7 @@
       "examples": [
         {
           "source": "HUNTER×HUNTER",
-          "jp": "一日１００体の人間を せっせと運ぶより よっぽどいい",
+          "jp": "一日１００体の人間を せっせと運ぶより　よっぽどいい。",
           "cn": "比起每天勤勤恳恳运 100 个人，这样好多了。",
           "image": "media/138/0.jpg",
           "image_source": "HUNTER×HUNTER_81_0.07.23.014.jpg",
@@ -4369,9 +4485,9 @@
           "jp": "ゾクゾクして来たよ。",
           "cn": "开始兴奋战栗了。",
           "image": "media/139/0.jpg",
-          "image_source": "Kakegurui_S2_09_0.05.06.365.jpg",
+          "image_source": "HUNTER×HUNTER_05_0.16.14.033.jpg",
           "audio": "media/139/0.mp3",
-          "audio_source": "Kakegurui_S2_09_0.05.04.880-0.05.07.900.mp3"
+          "audio_source": "HUNTER×HUNTER_05_0.16.12.533-0.16.15.533.mp3"
         },
         {
           "source": "FAIRY TAIL",
@@ -4419,12 +4535,12 @@
       "examples": [
         {
           "source": "鬼滅の刃",
-          "jp": "いろいろあって… そっとしておいてください",
+          "jp": "いろいろあって…　そっとしておいてください",
           "cn": "他经历了很多……请让他静一静。",
           "image": "media/141/0.jpg",
-          "image_source": "A_ClannadS01_E03_1_0.03.20.885.jpg",
+          "image_source": "Kimetsu_no_Yaiba_24_0.03.38.980.jpg",
           "audio": "media/141/0.mp3",
-          "audio_source": "A_ClannadS01_E03_1_0.03.20.190-0.03.21.580.mp3"
+          "audio_source": "Kimetsu_no_Yaiba_24_0.03.37.080-0.03.40.730.mp3"
         },
         {
           "source": "魔女の旅々",
@@ -4472,12 +4588,12 @@
       "examples": [
         {
           "source": "リトル・ウィッチ・アカデミア",
-          "jp": "そろそろ",
+          "jp": "(役人 )そろそろ",
           "cn": "差不多该走了。",
           "image": "media/143/0.jpg",
-          "image_source": "A_NekonoOngaesh_1_0.51.39.360.jpg",
+          "image_source": "A-LittleWitchAcademia25_1_0.22.03.218.jpg",
           "audio": "media/143/0.mp3",
-          "audio_source": "A_NekonoOngaesh_1_0.51.37.920-0.51.40.800.mp3"
+          "audio_source": "A-LittleWitchAcademia25_1_0.22.02.613-0.22.03.823.mp3"
         },
         {
           "source": "CLANNAD",
@@ -4510,12 +4626,12 @@
       "examples": [
         {
           "source": "ニセコイ",
-          "jp": "そわそわ ドキドキ そわそわ ドキドキ",
+          "jp": "そわそわ　ドキドキ　そわそわ　ドキドキ　そわそわ",
           "cn": "坐立不安 心跳加速 坐立不安 心跳加速……",
           "image": "media/144/0.jpg",
-          "image_source": "luckystar-nodup_16_0.15.11.325.jpg",
+          "image_source": "Nisekoi_-_04_0.06.07.060-0.06.12.640.jpg",
           "audio": "media/144/0.mp3",
-          "audio_source": "luckystar-nodup_16_0.15.10.500-0.15.12.150.mp3"
+          "audio_source": "Nisekoi_-_04_0.06.07.060-0.06.12.640.mp3"
         },
         {
           "source": "らき☆すた",
@@ -4547,12 +4663,12 @@
       "collocations": "〜ある／〜入れる／〜と／〜の時間",
       "examples": [
         {
-          "jp": "(マルクル) お湯をたっぷりね。 うん。",
+          "jp": "(マルクル)　お湯をたっぷりね。　うん。",
           "cn": "",
           "image": "media/145/0.jpg",
-          "image_source": "A_Kill_la_Kill_23_0.21.06.056.jpg",
+          "image_source": "Anime-Howl'sMovingCastle_1_0.48.40.696.jpg",
           "audio": "media/145/0.mp3",
-          "audio_source": "A_Kill_la_Kill_23_0.21.04.554-0.21.07.557.mp3"
+          "audio_source": "Anime-Howl'sMovingCastle_1_0.48.39.194-0.48.42.197.mp3"
         },
         {
           "jp": "お前らには たっぷり縄をくれてやるわい",
@@ -4592,12 +4708,12 @@
       "examples": [
         {
           "source": "FAIRY TAIL",
-          "jp": "フラれたのか 未練タラタラだね　リリー",
+          "jp": "フラれたのか 未練タラタラだね リリー",
           "cn": "被甩了吗，念念不忘呢，莉莉。",
           "image": "media/147/0.jpg",
-          "image_source": "Toradora_23_0.13.59.126.jpg",
+          "image_source": "Fairy_Tail_144_0.07.28.732.jpg",
           "audio": "media/147/0.mp3",
-          "audio_source": "Toradora_23_0.13.57.495-0.14.00.756.mp3"
+          "audio_source": "Fairy_Tail_144_0.07.27.043-0.07.30.421.mp3"
         },
         {
           "source": "とらドラ！",
@@ -4630,7 +4746,9 @@
           "jp": "だらだらと生きてきただけだよ",
           "cn": "只是浑浑噩噩地活着而已。",
           "image": "media/148/0.jpg",
-          "image_source": "A_Shirokuma_Cafe_44_0.18.36.220.jpg"
+          "image_source": "frieren_11_0.21.02.890.jpg",
+          "audio": "media/148/0.mp3",
+          "audio_source": "frieren_11_0.21.01.556-0.21.04.225.mp3"
         },
         {
           "source": "けいおん！",
@@ -4663,12 +4781,12 @@
       "examples": [
         {
           "source": "HUNTER×HUNTER",
-          "jp": "ヤベェな だんだんと 俺も 何かが起こる気がして来たぜ",
+          "jp": "《ヤベェな　だんだんと　俺も 何かが起こる気がして来たぜ》",
           "cn": "糟了，我也渐渐觉得要出事了。",
           "image": "media/149/0.jpg",
-          "image_source": "Clannad_after_story_19_0.11.27.305.jpg",
+          "image_source": "HUNTER×HUNTER_109_0.07.19.399.jpg",
           "audio": "media/149/0.mp3",
-          "audio_source": "Clannad_after_story_19_0.11.25.990-0.11.28.620.mp3"
+          "audio_source": "HUNTER×HUNTER_109_0.07.16.899-0.07.21.899.mp3"
         },
         {
           "source": "CLANNAD AFTER STORY",
@@ -4702,12 +4820,12 @@
       "examples": [
         {
           "source": "しろくまカフェ",
-          "jp": "う～ん ちょっとちくちくしますね",
+          "jp": "う～ん　ちょっとチクチクしますね",
           "cn": "嗯——有点扎扎的。",
           "image": "media/150/0.jpg",
-          "image_source": "Z.SUZUMIYA_19_0.15.16.666.jpg",
+          "image_source": "A_Shirokuma_Cafe_25_0.07.44.445.jpg",
           "audio": "media/150/0.mp3",
-          "audio_source": "Z.SUZUMIYA_19_0.15.15.968-0.15.17.483.mp3"
+          "audio_source": "A_Shirokuma_Cafe_25_0.07.43.170-0.07.45.720.mp3"
         },
         {
           "source": "Re:ゼロ",
@@ -4735,8 +4853,12 @@
       "examples": [
         {
           "source": "この素晴らしい世界に祝福を！",
-          "jp": "お風呂から上がったら ゆっくり チビチビ大事に飲もう",
-          "cn": "洗完澡后慢慢一小口一小口珍惜地喝。"
+          "jp": "お風呂から上がったら　ゆっくり　チビチビ大事に飲もうと―　楽しみにしてたのに",
+          "cn": "洗完澡后慢慢一小口一小口珍惜地喝。",
+          "image": "media/151/0.jpg",
+          "image_source": "A_Konosuba_S01_E08_1_0.13.46.578.jpg",
+          "audio": "media/151/0.mp3",
+          "audio_source": "A_Konosuba_S01_E08_1_0.13.44.347-0.13.48.809.mp3"
         },
         {
           "source": "鋼の錬金術師 Brotherhood",
@@ -4807,12 +4929,12 @@
       "examples": [
         {
           "source": "君の名は。",
-          "jp": "今日は ちゃんと髪ちゃんとしとるね",
+          "jp": "(三葉)　今日は髪ちゃんとしとるね",
           "cn": "今天头发好好打理过了呢。",
           "image": "media/154/0.jpg",
-          "image_source": "A_WhisperOfTheHeart_1_0.02.53.865.jpg",
+          "image_source": "Anime_-_YourName_1_0.07.27.255.jpg",
           "audio": "media/154/0.mp3",
-          "audio_source": "A_WhisperOfTheHeart_1_0.02.52.350-0.02.55.380.mp3"
+          "audio_source": "Anime_-_YourName_1_0.07.25.920-0.07.28.590.mp3"
         },
         {
           "source": "魔女の宅急便",
@@ -4880,7 +5002,11 @@
         {
           "source": "FAIRY TAIL",
           "jp": "エルザさま 何なりとお申しつけくださいませ チョキチョキ",
-          "cn": "艾露莎大人，请尽管吩咐，咔嚓咔嚓！"
+          "cn": "艾露莎大人，请尽管吩咐，咔嚓咔嚓！",
+          "image": "media/156/0.jpg",
+          "image_source": "Fairy_Tail_016_0.12.54.474.jpg",
+          "audio": "media/156/0.mp3",
+          "audio_source": "Fairy_Tail_016_0.12.52.180-0.12.56.768.mp3"
         },
         {
           "source": "僕だけがいない街",
@@ -4909,7 +5035,11 @@
         {
           "source": "FAIRY TAIL",
           "jp": "チョッキン チョキン… チョキンな",
-          "cn": "咔嚓 咔嚓……咔嚓哦。"
+          "cn": "咔嚓 咔嚓……咔嚓哦。",
+          "image": "media/157/0.jpg",
+          "image_source": "Fairy_Tail_049_0.08.32.537.jpg",
+          "audio": "media/157/0.mp3",
+          "audio_source": "Fairy_Tail_049_0.08.30.097-0.08.34.976.mp3"
         }
       ]
     },
@@ -4929,12 +5059,12 @@
       "examples": [
         {
           "source": "鋼の錬金術師 Brotherhood",
-          "jp": "この ちょろちょろと",
+          "jp": "この　ちょろちょろと",
           "cn": "这样窜来窜去地（像蟑螂一样）！",
           "image": "media/158/0.jpg",
-          "image_source": "A_FullmetalAlchemistBrotherhood_38_0.04.27.455.jpg",
+          "image_source": "A_FullmetalAlchemistBrotherhood_53_0.10.12.410.jpg",
           "audio": "media/158/0.mp3",
-          "audio_source": "A_FullmetalAlchemistBrotherhood_38_0.04.26.480-0.04.28.430.mp3"
+          "audio_source": "A_FullmetalAlchemistBrotherhood_53_0.10.11.520-0.10.13.300.mp3"
         },
         {
           "source": "魔法科高校の劣等生",
@@ -4968,12 +5098,12 @@
       "examples": [
         {
           "source": "FAIRY TAIL",
-          "jp": "そういえば なんか チラッと 見えたかも",
+          "jp": "あっ そういえば なんか チラッと見えたかも",
           "cn": "这么说来，好像瞟到了什么。",
           "image": "media/159/0.jpg",
-          "image_source": "A_Durarara_S01_12_0.04.34.670.jpg",
+          "image_source": "Fairy_Tail_031_0.24.10.085.jpg",
           "audio": "media/159/0.mp3",
-          "audio_source": "A_Durarara_S01_12_0.04.33.690-0.04.35.650.mp3"
+          "audio_source": "Fairy_Tail_031_0.24.09.021-0.24.11.148.mp3"
         },
         {
           "source": "デュラララ！！",
@@ -5006,12 +5136,12 @@
       "examples": [
         {
           "source": "ソードアート・オンライン",
-          "jp": "木の陰に ちらりと白いものが",
+          "jp": "すると　ちょっと離れた木の陰に　ちらりと白いものが…",
           "cn": "树荫处隐隐约约有白色的东西。",
           "image": "media/160/0.jpg",
-          "image_source": "Hyouka_21_0.13.58.890-0.13.59.960.jpg",
+          "image_source": "SwordArtOnlineS01E_11_0.07.41.169.jpg",
           "audio": "media/160/0.mp3",
-          "audio_source": "Hyouka_21_0.13.58.890-0.13.59.960.mp3"
+          "audio_source": "SwordArtOnlineS01E_11_0.07.38.791-0.07.43.546.mp3"
         },
         {
           "source": "氷菓",
@@ -5040,10 +5170,12 @@
       "examples": [
         {
           "source": "Kanon",
-          "jp": "冷蔵庫の中のものをチンして食べてください",
+          "jp": "おなかがすいてたら　冷蔵庫の中のものをチンして食べてください",
           "cn": "冰箱里的东西叮一下（微波加热）吃吧。",
           "image": "media/161/0.jpg",
-          "image_source": "A_OnlyYesterday_1_1.26.16.343.jpg"
+          "image_source": "A_Kanon_E23_1_0.08.38.380.jpg",
+          "audio": "media/161/0.mp3",
+          "audio_source": "A_Kanon_E23_1_0.08.36.210-0.08.40.550.mp3"
         },
         {
           "source": "あの日見た花の名前を僕達はまだ知らない",
@@ -5070,12 +5202,12 @@
       "collocations": "〜の肌／〜の髪／〜した顔",
       "examples": [
         {
-          "jp": "こいつの唇 ツヤツヤしてて柔らかそうで なんだか",
+          "jp": "こいつの唇　ツヤツヤしてて柔らかそうで　なんだか",
           "cn": "",
           "image": "media/162/0.jpg",
-          "image_source": "Toradora_04_0.00.33.646.jpg",
+          "image_source": "Nisekoi_-_04_0.15.55.700-0.16.01.060.jpg",
           "audio": "media/162/0.mp3",
-          "audio_source": "Toradora_04_0.00.32.057-0.00.35.235.mp3"
+          "audio_source": "Nisekoi_-_04_0.15.55.700-0.16.01.060.mp3"
         },
         {
           "jp": "身がツヤツヤして 名前のとおり 甘みが強くて…",
@@ -5104,9 +5236,9 @@
           "jp": "ツルツル",
           "cn": "",
           "image": "media/163/0.jpg",
-          "image_source": "luckystar-nodup_06_0.10.58.710.jpg",
+          "image_source": "A_Shirokuma_Cafe_45_0.07.46.590.jpg",
           "audio": "media/163/0.mp3",
-          "audio_source": "luckystar-nodup_06_0.10.56.980-0.11.00.440.mp3"
+          "audio_source": "A_Shirokuma_Cafe_45_0.07.46.010-0.07.47.170.mp3"
         },
         {
           "jp": "ツルツル",
@@ -5144,8 +5276,12 @@
       "collocations": "〜と片付ける／〜した人",
       "examples": [
         {
-          "jp": "なんか すごいテキパキ後始末してんだけど",
-          "cn": ""
+          "jp": "なんか　すごいテキパキ後始末してんだけど",
+          "cn": "",
+          "image": "media/165/0.jpg",
+          "image_source": "Kimetsu_no_Yaiba_21_0.19.35.645.jpg",
+          "audio": "media/165/0.mp3",
+          "audio_source": "Kimetsu_no_Yaiba_21_0.19.33.910-0.19.37.230.mp3"
         },
         {
           "jp": "みなみちゃんは何でもテキパキ完璧で…っ ぷぷぷ…",
@@ -5200,7 +5336,7 @@
       "collocations": "〜〜と思った／〜〜だと",
       "examples": [
         {
-          "jp": "10日も休暇(きゅうか)とるって 言うから― てっきり海外旅行だと 思っていたんだがね",
+          "jp": "10日も休暇(きゅうか)とるって　言うから―　てっきり海外旅行だと　思っていたんだがね",
           "cn": "",
           "image": "media/167/0.jpg",
           "image_source": "A_OnlyYesterday_1_0.02.10.802.jpg",
@@ -5231,7 +5367,11 @@
       "examples": [
         {
           "jp": "あんな女にデレデレして！",
-          "cn": ""
+          "cn": "",
+          "image": "media/168/0.jpg",
+          "image_source": "Toradora_05_0.09.31.298.jpg",
+          "audio": "media/168/0.mp3",
+          "audio_source": "Toradora_05_0.09.30.335-0.09.32.261.mp3"
         },
         {
           "jp": "いや 普通にデレデレじゃねえか",
@@ -5256,12 +5396,12 @@
       "collocations": "胸が〜／〜する／〜した",
       "examples": [
         {
-          "jp": "あの… ドキドキして とても…。",
+          "jp": "あの…　ドキドキして　とても…。",
           "cn": "",
           "image": "media/169/0.jpg",
-          "image_source": "Anime_Your_lie_in_april_E08_1_0.14.22.320.jpg",
+          "image_source": "A_WhisperOfTheHeart_1_1.32.52.381.jpg",
           "audio": "media/169/0.mp3",
-          "audio_source": "Anime_Your_lie_in_april_E08_1_0.14.20.400-0.14.24.240.mp3"
+          "audio_source": "A_WhisperOfTheHeart_1_1.32.50.276-1.32.54.486.mp3"
         },
         {
           "jp": "あー もう まだドキドキしてる",
@@ -5287,7 +5427,7 @@
       "collocations": "〜の葉／〜した口調",
       "examples": [
         {
-          "jp": "どうだろう 何か 味が とげとげしてんだよね",
+          "jp": "どうだろう　何か　味が　とげとげしてんだよね",
           "cn": "",
           "image": "media/170/0.jpg",
           "image_source": "A_Assassination_classroom_E03_1_0.15.01.740.jpg",
@@ -5333,9 +5473,9 @@
           "jp": "そういうコレクターって まとめてどっさり買っていく人とかもいるんだって？",
           "cn": "",
           "image": "media/172/0.jpg",
-          "image_source": "A_Durarara_S01_06_0.04.52.208.jpg",
+          "image_source": "luckystar-nodup_20_0.01.15.325.jpg",
           "audio": "media/172/0.mp3",
-          "audio_source": "A_Durarara_S01_06_0.04.50.623-0.04.53.793.mp3"
+          "audio_source": "luckystar-nodup_20_0.01.13.150-0.01.17.500.mp3"
         },
         {
           "jp": "（森田）確かに不法滞在者が どっさり住み着いてそうっすね",
@@ -5393,9 +5533,9 @@
           "jp": "けど なんか 疲れがドッと…",
           "cn": "",
           "image": "media/174/0.jpg",
-          "image_source": "A_Noragami_E04_1_0.06.54.710.jpg",
+          "image_source": "A_My_Hero_Academia_S01_E06_1_0.07.38.290.jpg",
           "audio": "media/174/0.mp3",
-          "audio_source": "A_Noragami_E04_1_0.06.53.470-0.06.55.950.mp3"
+          "audio_source": "A_My_Hero_Academia_S01_E06_1_0.07.36.370-0.07.40.210.mp3"
         },
         {
           "jp": "こっちはドット柄",
@@ -5467,9 +5607,9 @@
           "jp": "あいつ さっきの競技で トロトロ走ってたヤツじゃ ねえのかよ？",
           "cn": "",
           "image": "media/177/0.jpg",
-          "image_source": "Anime_Your_lie_in_april_E16_1_0.14.43.215.jpg",
+          "image_source": "Fairy_Tail_162_0.10.08.210.jpg",
           "audio": "media/177/0.mp3",
-          "audio_source": "Anime_Your_lie_in_april_E16_1_0.14.40.170-0.14.46.260.mp3"
+          "audio_source": "Fairy_Tail_162_0.10.06.458-0.10.09.962.mp3"
         },
         {
           "jp": "芋で懐柔されるか！ おいしそうだよ とろとろだよ 紅あずまだよ",
@@ -5495,12 +5635,12 @@
       "collocations": "〜のスープ／〜した関係",
       "examples": [
         {
-          "jp": "《さなぎの中身は ドロドロで→ 生物の体を成していないはず》",
+          "jp": "《さなぎの中身は　ドロドロで→ 生物の体を成していないはず》",
           "cn": "",
           "image": "media/178/0.jpg",
-          "image_source": "A_Kanon_E06_1_0.18.13.155.jpg",
+          "image_source": "HUNTER×HUNTER_119_0.20.51.718.jpg",
           "audio": "media/178/0.mp3",
-          "audio_source": "A_Kanon_E06_1_0.18.11.790-0.18.14.520.mp3"
+          "audio_source": "HUNTER×HUNTER_119_0.20.48.206-0.20.55.230.mp3"
         },
         {
           "jp": "あっ 駆け魂 （駆け魂センサー） ドロドロドロドロ…",
@@ -5572,12 +5712,12 @@
       "collocations": "〜進む／〜増える",
       "examples": [
         {
-          "jp": "“ドンドンガバチョ ドンガバチョ”",
+          "jp": "“ドンドンガバチョ　ドンガバチョ”",
           "cn": "",
           "image": "media/181/0.jpg",
-          "image_source": "A_FruitsBasket_S01E13_1_0.18.06.044.jpg",
+          "image_source": "A_OnlyYesterday_1_1.34.43.745.jpg",
           "audio": "media/181/0.mp3",
-          "audio_source": "A_FruitsBasket_S01E13_1_0.18.04.876-0.18.07.212.mp3"
+          "audio_source": "A_OnlyYesterday_1_1.34.42.473-1.34.45.017.mp3"
         },
         {
           "jp": "“羊は さくをとびこえて どんどんにげていってしまいます”",
@@ -5602,8 +5742,12 @@
       "collocations": "〜と話す／〜と続く",
       "examples": [
         {
-          "jp": "そんなところから 長々と話されても困りますよ",
-          "cn": ""
+          "jp": "そんなところから　長々と話されても困りますよ",
+          "cn": "",
+          "image": "media/182/0.jpg",
+          "image_source": "Kimetsu_no_Yaiba_21_0.17.19.340.jpg",
+          "audio": "media/182/0.mp3",
+          "audio_source": "Kimetsu_no_Yaiba_21_0.17.17.520-0.17.21.010.mp3"
         },
         {
           "jp": "バカげた体勢のまま くだらない話を長々と…",
@@ -5629,7 +5773,11 @@
       "examples": [
         {
           "jp": "いやいや ローンでなくて 一括ニコニコ現金払いじゃった",
-          "cn": ""
+          "cn": "",
+          "image": "media/183/0.jpg",
+          "image_source": "Z.SUZUMIYA_23_0.05.02.521.jpg",
+          "audio": "media/183/0.mp3",
+          "audio_source": "Z.SUZUMIYA_23_0.05.00.009-0.05.05.152.mp3"
         },
         {
           "jp": "でも なんか 今でも ひょっこり 現れそうな気がするんだよな “悪い 悪い”とか言って ニコニコ笑って…",
@@ -5657,9 +5805,9 @@
           "jp": "あんたも ニャーニャー言わないじゃない",
           "cn": "",
           "image": "media/184/0.jpg",
-          "image_source": "Fairy_Tail_007_0.12.50.511.jpg",
+          "image_source": "Fairy_Tail_003_0.07.00.340.jpg",
           "audio": "media/184/0.mp3",
-          "audio_source": "Fairy_Tail_007_0.12.48.738-0.12.52.283.mp3"
+          "audio_source": "Fairy_Tail_003_0.06.59.067-0.07.01.612.mp3"
         },
         {
           "jp": "うるさい！ 猫は 黙ってニャーニャー言ってなさい",
@@ -5687,9 +5835,9 @@
           "jp": "いや… ニヤニヤが止まんない",
           "cn": "",
           "image": "media/185/0.jpg",
-          "image_source": "Legal_High_05_0.18.45.240.jpg",
+          "image_source": "Relife_12_0.18.14.515.jpg",
           "audio": "media/185/0.mp3",
-          "audio_source": "Legal_High_05_0.18.44.060-0.18.46.420.mp3"
+          "audio_source": "Relife_12_0.18.13.514-0.18.15.516.mp3"
         },
         {
           "jp": "え？ 何でニヤニヤしてんだ 小野寺",
@@ -5717,7 +5865,9 @@
           "jp": "ああ シヴィでも 内政は 一気にやりたいタイプなんでな クイズゲーム用に―",
           "cn": "",
           "image": "media/186/0.jpg",
-          "image_source": "A_Erased_07_0.11.02.555.jpg"
+          "image_source": "A_NoGameNoLife__04_0.12.58.144.jpg",
+          "audio": "media/186/0.mp3",
+          "audio_source": "A_NoGameNoLife__04_0.12.55.537-0.13.00.750.mp3"
         },
         {
           "jp": "あれぇ～ どうしたの？ やっぱり一緒にやりたくなったあ？",
@@ -5758,9 +5908,9 @@
           "jp": "「ぬるぬる団長さん」と「いけない艦長さん」ですね",
           "cn": "",
           "image": "media/188/0.jpg",
-          "image_source": "Oreimo_S01E08_0.08.13.860-0.08.17.500.jpg",
+          "image_source": "luckystar-nodup_12_0.04.49.265.jpg",
           "audio": "media/188/0.mp3",
-          "audio_source": "Oreimo_S01E08_0.08.13.860-0.08.17.500.mp3"
+          "audio_source": "luckystar-nodup_12_0.04.47.890-0.04.50.640.mp3"
         },
         {
           "jp": "しかも なんかヌルヌルする",
@@ -5788,9 +5938,9 @@
           "jp": "このネバネバ炎… ウワッ…",
           "cn": "",
           "image": "media/189/0.jpg",
-          "image_source": "A_Assassination_classroom_E03_1_0.19.32.305.jpg",
+          "image_source": "Fairy_Tail_131_0.10.38.085.jpg",
           "audio": "media/189/0.mp3",
-          "audio_source": "A_Assassination_classroom_E03_1_0.19.30.640-0.19.33.970.mp3"
+          "audio_source": "Fairy_Tail_131_0.10.36.396-0.10.39.774.mp3"
         },
         {
           "jp": "この野郎… ネバネバと うぜえんだよ",
@@ -5870,9 +6020,9 @@
           "jp": "あんたが のんびりしている間に 何が起きたのか １から聞かせてやるから そこに直れっていうの！",
           "cn": "",
           "image": "media/193/0.jpg",
-          "image_source": "Shinsekai_Yori_01_0.08.18.645.jpg",
+          "image_source": "Fate_Stay_Night_Unlimited_Blade_Works_S1_09_0.02.20.946.jpg",
           "audio": "media/193/0.mp3",
-          "audio_source": "Shinsekai_Yori_01_0.08.17.090-0.08.20.200.mp3"
+          "audio_source": "Fate_Stay_Night_Unlimited_Blade_Works_S1_09_0.02.18.343-0.02.23.548.mp3"
         },
         {
           "jp": "あんまりのんびり構えてはいられないぞ",
@@ -5897,12 +6047,12 @@
       "collocations": "〜と息を切らす",
       "examples": [
         {
-          "jp": "あははー 昨日ぶつかった人ですね",
+          "jp": "あははー　昨日ぶつかった人ですね",
           "cn": "",
           "image": "media/194/0.jpg",
-          "image_source": "A_Code_GeassS01_12_0.07.48.590.jpg",
+          "image_source": "A_Kanon_E03_1_0.14.55.885.jpg",
           "audio": "media/194/0.mp3",
-          "audio_source": "A_Code_GeassS01_12_0.07.45.590-0.07.51.590.mp3"
+          "audio_source": "A_Kanon_E03_1_0.14.54.320-0.14.57.450.mp3"
         },
         {
           "jp": "いやいや 見つかってよかった ハァ ハァ…",
@@ -6000,9 +6150,9 @@
           "jp": "いえ バタバタしていましたから まだ半ばです",
           "cn": "",
           "image": "media/198/0.jpg",
-          "image_source": "Sakurasou_no_Pet_na_Kanojo_06_0.14.15.425.jpg",
+          "image_source": "Z.SUZUMIYA_10_0.21.11.229.jpg",
           "audio": "media/198/0.mp3",
-          "audio_source": "Sakurasou_no_Pet_na_Kanojo_06_0.14.13.590-0.14.17.260.mp3"
+          "audio_source": "Z.SUZUMIYA_10_0.21.09.780-0.21.12.797.mp3"
         },
         {
           "jp": "ごめん ばたばたして今日だってすっかり忘れてた",
@@ -6029,8 +6179,12 @@
       "collocations": "拍手〜／目を〜／火が〜",
       "examples": [
         {
-          "jp": "やった！ 見事にレシピどおりです パチパチパチパチ！",
-          "cn": ""
+          "jp": "やった！　見事にレシピどおりです パチパチパチパチ！",
+          "cn": "",
+          "image": "media/199/0.jpg",
+          "image_source": "The_World_God_Only_Knows_S1_08_0.08.32.655.jpg",
+          "audio": "media/199/0.mp3",
+          "audio_source": "The_World_God_Only_Knows_S1_08_0.08.29.710-0.08.35.599.mp3"
         },
         {
           "jp": "スバルの判断は大正解だったよ パチパチパチ",
@@ -6088,9 +6242,9 @@
           "jp": "“はっと心が動いたり―”",
           "cn": "",
           "image": "media/201/0.jpg",
-          "image_source": "A_Anohana_E03_1_0.06.24.280.jpg",
+          "image_source": "A_CardCaptorSakura08_1_0.08.28.293.jpg",
           "audio": "media/201/0.mp3",
-          "audio_source": "A_Anohana_E03_1_0.06.22.610-0.06.25.950.mp3"
+          "audio_source": "A_CardCaptorSakura08_1_0.08.27.187-0.08.29.398.mp3"
         },
         {
           "jp": "えーっと こっちのお部屋はっと…",
@@ -6116,12 +6270,12 @@
       "collocations": "〜する／花が〜と",
       "examples": [
         {
-          "jp": "お前につられて眠っちまうんじゃ ないかって ハラハラしたよ",
+          "jp": "お前につられて眠っちまうんじゃ　ないかって　ハラハラしたよ",
           "cn": "",
           "image": "media/202/0.jpg",
-          "image_source": "A_UsagiDrop_10_0.08.01.440.jpg",
+          "image_source": "A_CardCaptorSakura22_1_0.22.04.744.jpg",
           "audio": "media/202/0.mp3",
-          "audio_source": "A_UsagiDrop_10_0.07.59.940-0.08.02.940.mp3"
+          "audio_source": "A_CardCaptorSakura22_1_0.22.03.055-0.22.06.433.mp3"
         },
         {
           "jp": "もう がちがちで こっちが はらはら",
@@ -6146,12 +6300,12 @@
       "collocations": "〜になる／〜の",
       "examples": [
         {
-          "jp": "うおっ！ 鮮血ちゃんが バラバラになってる",
+          "jp": "うおっ！　鮮血ちゃんが　バラバラになってる",
           "cn": "",
           "image": "media/203/0.jpg",
-          "image_source": "A_Shirokuma_Cafe_14_0.13.30.970.jpg",
+          "image_source": "A_Kill_la_Kill_14_0.20.56.818.jpg",
           "audio": "media/203/0.mp3",
-          "audio_source": "A_Shirokuma_Cafe_14_0.13.29.930-0.13.32.010.mp3"
+          "audio_source": "A_Kill_la_Kill_14_0.20.55.295-0.20.58.340.mp3"
         },
         {
           "jp": "お兄さん 心配性だから― ぶっ殺したあと 最後にもう一度― ドカーンってバラバラにして バラバラ！",
@@ -6177,7 +6331,11 @@
       "examples": [
         {
           "jp": "アアッ… 今こそ 俺の見せ場エビ！ パラパ パラパラ パラッパ！ キャンサー",
-          "cn": ""
+          "cn": "",
+          "image": "media/204/0.jpg",
+          "image_source": "Fairy_Tail_142_0.07.09.976.jpg",
+          "audio": "media/204/0.mp3",
+          "audio_source": "Fairy_Tail_142_0.07.06.160-0.07.13.792.mp3"
         },
         {
           "jp": "名前事典をパラパラめくって適当に名付けてしまったのだ",
@@ -6204,7 +6362,11 @@
       "examples": [
         {
           "jp": "あのさ 透くん 温泉だからね？ パリに行こうとか 言ってるんじゃないんだから",
-          "cn": ""
+          "cn": "",
+          "image": "media/205/0.jpg",
+          "image_source": "A_FruitsBasket_S01E11_1_0.05.19.049.jpg",
+          "audio": "media/205/0.mp3",
+          "audio_source": "A_FruitsBasket_S01E11_1_0.05.16.108-0.05.21.989.mp3"
         },
         {
           "jp": "どこで会った？ パリか ロンドンか…",
@@ -6230,8 +6392,12 @@
       "collocations": "〜の煎餅／〜食べる",
       "examples": [
         {
-          "jp": "みんなで パリパリって 音をさせながら食べるのは 楽しかったなあ",
-          "cn": ""
+          "jp": "みんなで　パリパリって　音をさせながら食べるのは　楽しかったなあ",
+          "cn": "",
+          "image": "media/206/0.jpg",
+          "image_source": "Kimetsu_no_Yaiba_19_0.23.25.440.jpg",
+          "audio": "media/206/0.mp3",
+          "audio_source": "Kimetsu_no_Yaiba_19_0.23.23.390-0.23.27.340.mp3"
         },
         {
           "jp": "（愛梨･菜緒）パリパリパリ…",
@@ -6254,7 +6420,11 @@
       "examples": [
         {
           "jp": "“悪いことはダメだ”って 町のいじめっ子を バンバンたたいてたっけ",
-          "cn": ""
+          "cn": "",
+          "image": "media/207/0.jpg",
+          "image_source": "Fate_Stay_Night_Unlimited_Blade_Works_S1_09_0.20.35.392.jpg",
+          "audio": "media/207/0.mp3",
+          "audio_source": "Fate_Stay_Night_Unlimited_Blade_Works_S1_09_0.20.32.727-0.20.38.057.mp3"
         },
         {
           "jp": "あ… あと 占いが すげぇバンバン当たるらしいぜ。",
@@ -6283,9 +6453,9 @@
           "jp": "せっかく のパソコンにパンパンにインストールしてきたのに",
           "cn": "",
           "image": "media/208/0.jpg",
-          "image_source": "A_UsagiDrop_03_0.07.05.500.jpg",
+          "image_source": "Oreimo_S01E15_0.19.17.760-0.19.20.460.jpg",
           "audio": "media/208/0.mp3",
-          "audio_source": "A_UsagiDrop_03_0.07.04.449-0.07.06.551.mp3"
+          "audio_source": "Oreimo_S01E15_0.19.17.760-0.19.20.460.mp3"
         },
         {
           "jp": "だから腿とかパンパンで",
@@ -6310,8 +6480,12 @@
       "collocations": "〜光る",
       "examples": [
         {
-          "jp": "((親戚は みんなピカドンだ 放っておけば 孤児院行きだ))",
-          "cn": ""
+          "jp": "((親戚は　みんなピカドンだ　放っておけば　孤児院行きだ))",
+          "cn": "",
+          "image": "media/209/0.jpg",
+          "image_source": "A_FromUpOnPoppyHill_1_1.15.57.360.jpg",
+          "audio": "media/209/0.mp3",
+          "audio_source": "A_FromUpOnPoppyHill_1_1.15.54.860-1.15.59.860.mp3"
         },
         {
           "jp": "あと え～っと クラピカ！",
@@ -6339,9 +6513,9 @@
           "jp": "♪ ピカピカ きらめいて ♪ みんなで星みあげ",
           "cn": "",
           "image": "media/210/0.jpg",
-          "image_source": "A_Assassination_classroom_E03_1_0.16.56.395.jpg",
+          "image_source": "Toradora_19_0.22.41.083.jpg",
           "audio": "media/210/0.mp3",
-          "audio_source": "A_Assassination_classroom_E03_1_0.16.54.970-0.16.57.820.mp3"
+          "audio_source": "Toradora_19_0.22.35.719-0.22.46.446.mp3"
         },
         {
           "jp": "あれ ピカピカ主義 黄金色の岩 ゴールデンスパイラル",
@@ -6367,7 +6541,11 @@
       "examples": [
         {
           "jp": "けど あれだけの個性 持っておいて どういう生き方すりゃあ あんなビクビクできるんだ？",
-          "cn": ""
+          "cn": "",
+          "image": "media/211/0.jpg",
+          "image_source": "A_My_Hero_Academia_S01_E04_1_0.13.35.675.jpg",
+          "audio": "media/211/0.mp3",
+          "audio_source": "A_My_Hero_Academia_S01_E04_1_0.13.32.440-0.13.38.910.mp3"
         },
         {
           "jp": "どうしたんです？ 森谷さん そんなにビクビクして （電車の近づく音）",
@@ -6393,7 +6571,11 @@
       "examples": [
         {
           "jp": "２、ピクピク",
-          "cn": ""
+          "cn": "",
+          "image": "media/212/0.jpg",
+          "image_source": "A_ClannadS01_E20_1_0.16.32.585.jpg",
+          "audio": "media/212/0.mp3",
+          "audio_source": "A_ClannadS01_E20_1_0.16.32.140-0.16.33.030.mp3"
         },
         {
           "jp": "ブーッ 正解は２番のピクピクでした",
@@ -6448,7 +6630,7 @@
       "collocations": "〜話／〜と",
       "examples": [
         {
-          "jp": "そうすれば神原のことなんて むしろ純真無垢(むく)な女の子に 見えてくるわ （ひそひそ） ハッ うっ えっ",
+          "jp": "そうすれば神原のことなんて　むしろ純真無垢(むく)な女の子に　見えてくるわ　（ひそひそ）　ハッ　うっ　えっ",
           "cn": "",
           "image": "media/214/0.jpg",
           "image_source": "A_Bakemonogatari_E12_1_0.12.45.641.jpg",
@@ -6478,12 +6660,12 @@
       "collocations": "〜止まる／〜合う",
       "examples": [
         {
-          "jp": "ピタリがない場合は 近い月を当てたほうの 勝ちとなります",
+          "jp": "ピタリがない場合は　近い月を当てたほうの　勝ちとなります",
           "cn": "",
           "image": "media/215/0.jpg",
-          "image_source": "A_Assassination_classroom_E12_1_0.09.23.285.jpg",
+          "image_source": "Kakegurui_09_0.09.11.710.jpg",
           "audio": "media/215/0.mp3",
-          "audio_source": "A_Assassination_classroom_E12_1_0.09.22.030-0.09.24.540.mp3"
+          "audio_source": "Kakegurui_09_0.09.09.740-0.09.13.730.mp3"
         },
         {
           "jp": "ピタリと当てられたら お前達は自由だよ。",
@@ -6511,9 +6693,9 @@
           "jp": "“ピッタリ”って どういうこった？",
           "cn": "",
           "image": "media/216/0.jpg",
-          "image_source": "Hyouka_22_0.19.37.980-0.19.40.990.jpg",
+          "image_source": "Z.SUZUMIYA_13_0.06.10.670.jpg",
           "audio": "media/216/0.mp3",
-          "audio_source": "Hyouka_22_0.19.37.980-0.19.40.990.mp3"
+          "audio_source": "Z.SUZUMIYA_13_0.06.09.702-0.06.11.758.mp3"
         },
         {
           "jp": "「冬の旅」か 俺たちぴったりの歌だな",
@@ -6643,12 +6825,12 @@
       "collocations": "〜と舞う／花びらが〜",
       "examples": [
         {
-          "jp": "《あのヒラヒラした服も→ 死角を増やすため ひと役 買ってるわけか》",
+          "jp": "《あのヒラヒラした服も→ 死角を増やすため ひと役　買ってるわけか》",
           "cn": "",
           "image": "media/224/0.jpg",
-          "image_source": "A_NoGameNoLife__02_0.13.06.193.jpg",
+          "image_source": "HUNTER×HUNTER_31_0.20.29.716.jpg",
           "audio": "media/224/0.mp3",
-          "audio_source": "A_NoGameNoLife__02_0.13.04.379-0.13.08.007.mp3"
+          "audio_source": "HUNTER×HUNTER_31_0.20.27.013-0.20.32.418.mp3"
         },
         {
           "jp": "あんな女子のヒラヒラした物を着用していては",
@@ -6675,7 +6857,11 @@
       "examples": [
         {
           "jp": "もう少しピリッとしたらどう？",
-          "cn": ""
+          "cn": "",
+          "image": "media/225/0.jpg",
+          "image_source": "The_World_God_Only_Knows_S2_03_0.02.16.652.jpg",
+          "audio": "media/225/0.mp3",
+          "audio_source": "The_World_God_Only_Knows_S2_03_0.02.15.501-0.02.17.803.mp3"
         },
         {
           "jp": "アルカ また ちょっとピリっと来るぞ。",
@@ -6701,7 +6887,11 @@
       "examples": [
         {
           "jp": "あ゛ヒリヒリする",
-          "cn": ""
+          "cn": "",
+          "image": "media/226/0.jpg",
+          "image_source": "luckystar-nodup_15_0.03.26.465.jpg",
+          "audio": "media/226/0.mp3",
+          "audio_source": "luckystar-nodup_15_0.03.25.640-0.03.27.290.mp3"
         },
         {
           "jp": "もっとヒリヒリさせたら どんな顔すっかな？",
@@ -6726,12 +6916,12 @@
       "collocations": "〜する／〜した",
       "examples": [
         {
-          "jp": "《ピリピリ来るねぇ いい感じだ》",
+          "jp": "《ピリピリ来るねぇ　いい感じだ》",
           "cn": "",
           "image": "media/227/0.jpg",
-          "image_source": "A_UsagiDrop_03_0.08.20.930.jpg",
+          "image_source": "HUNTER×HUNTER_106_0.20.33.040.jpg",
           "audio": "media/227/0.mp3",
-          "audio_source": "A_UsagiDrop_03_0.08.18.315-0.08.23.545.mp3"
+          "audio_source": "HUNTER×HUNTER_106_0.20.31.255-0.20.34.825.mp3"
         },
         {
           "jp": "あっちの世界から来たヤツらに 会ってから― ルーシィ ピリピリしてるもんな",
@@ -6758,7 +6948,11 @@
       "examples": [
         {
           "jp": "バチバチって雷みたいのが― こう ビリビリーって ちょっと怖いんだあ",
-          "cn": ""
+          "cn": "",
+          "image": "media/228/0.jpg",
+          "image_source": "A_SteinsGateS01_E09_1_0.04.43.005.jpg",
+          "audio": "media/228/0.mp3",
+          "audio_source": "A_SteinsGateS01_E09_1_0.04.40.002-0.04.46.008.mp3"
         },
         {
           "jp": "何かビリビリするす！ ちょっ… えっ！",
@@ -6786,9 +6980,9 @@
           "jp": "いや それはいいんだが— こいつ どうして爆裂魔法を 食らってピンピンしてんの？",
           "cn": "",
           "image": "media/229/0.jpg",
-          "image_source": "Angel_Beats!_5_0.22.07.685.jpg",
+          "image_source": "KonoSuba_S2_06_0.03.54.770.jpg",
           "audio": "media/229/0.mp3",
-          "audio_source": "Angel_Beats!_5_0.22.06.000-0.22.09.620.mp3"
+          "audio_source": "KonoSuba_S2_06_0.03.52.484-0.03.57.055.mp3"
         },
         {
           "jp": "いや 餌食つーか 皆ぴんぴんしてけど",
@@ -6813,7 +7007,7 @@
       "collocations": "〜が鳴る／〜正解",
       "examples": [
         {
-          "jp": "じゃあ ピンポン ピンポン ピンポーンですよ！",
+          "jp": "じゃあ　ピンポン　ピンポン　ピンポーンですよ！",
           "cn": "",
           "image": "media/230/0.jpg",
           "image_source": "A_Durarara_S01_18_0.14.07.638.jpg",
@@ -6843,12 +7037,12 @@
       "collocations": "〜と吹く",
       "examples": [
         {
-          "jp": "お姉ちゃん プー太郎って…",
+          "jp": "お姉ちゃん　プー太郎って…",
           "cn": "",
           "image": "media/231/0.jpg",
-          "image_source": "1_Litre_of_Tears_ep06_720p_x265-ER_0.08.13.164-0.08.15.703.jpg",
+          "image_source": "Clannad_after_story_10_0.11.56.295.jpg",
           "audio": "media/231/0.mp3",
-          "audio_source": "1_Litre_of_Tears_ep06_720p_x265-ER_0.08.13.164-0.08.15.703.mp3"
+          "audio_source": "Clannad_after_story_10_0.11.55.270-0.11.57.320.mp3"
         },
         {
           "jp": "あんたは？ まだプー太郎の居候？",
@@ -6873,8 +7067,12 @@
       "collocations": "〜吹く／〜言う",
       "examples": [
         {
-          "jp": "ふう ふう ふう… でも成長期ですし ふう ふう ふう…",
-          "cn": ""
+          "jp": "ふう　ふう　ふう…　でも成長期ですし　　ふう　ふう　ふう…",
+          "cn": "",
+          "image": "media/232/0.jpg",
+          "image_source": "A_CardCaptorSakura24_24_0.04.39.520.jpg",
+          "audio": "media/232/0.mp3",
+          "audio_source": "A_CardCaptorSakura24_24_0.04.38.394-0.04.40.646.mp3"
         },
         {
           "jp": "ふう ふう ふう… 知世ちゃんが作ってくれるの いつもピッタリだよ",
@@ -6901,7 +7099,11 @@
       "examples": [
         {
           "jp": "チェッ… さっきまでブーブー言ってたくせに",
-          "cn": ""
+          "cn": "",
+          "image": "media/233/0.jpg",
+          "image_source": "Alya_S1_004_0.12.03.845.jpg",
+          "audio": "media/233/0.mp3",
+          "audio_source": "Alya_S1_004_0.12.02.156-0.12.05.534.mp3"
         },
         {
           "jp": "ブーブー言うな",
@@ -6929,9 +7131,9 @@
           "jp": "チェッ… さっきまでブーブー言ってたくせに",
           "cn": "",
           "image": "media/234/0.jpg",
-          "image_source": "Fairy_Tail_097_0.12.19.215.jpg",
+          "image_source": "Alya_S1_004_0.12.03.845.jpg",
           "audio": "media/234/0.mp3",
-          "audio_source": "Fairy_Tail_097_0.12.18.401-0.12.20.028.mp3"
+          "audio_source": "Alya_S1_004_0.12.02.156-0.12.05.534.mp3"
         },
         {
           "jp": "ブーブー言うな",
@@ -6956,12 +7158,12 @@
       "collocations": "〜のパン／〜した",
       "examples": [
         {
-          "jp": "ああ フカフカやなあ",
+          "jp": "ああ　フカフカやなあ",
           "cn": "",
           "image": "media/235/0.jpg",
-          "image_source": "Isshuukan_Friends_(Test)_06_0.05.46.955.jpg",
+          "image_source": "A_CardCaptorSakura01_1_0.17.03.558.jpg",
           "audio": "media/235/0.mp3",
-          "audio_source": "Isshuukan_Friends_(Test)_06_0.05.45.990-0.05.47.920.mp3"
+          "audio_source": "A_CardCaptorSakura01_1_0.17.02.411-0.17.04.705.mp3"
         },
         {
           "jp": "あと お布団もふかふかだったでしょう",
@@ -6989,9 +7191,9 @@
           "jp": "ちょっとブカブカです",
           "cn": "",
           "image": "media/236/0.jpg",
-          "image_source": "Toradora_07_0.16.11.346.jpg",
+          "image_source": "Is_The_Order_a_Rabbit_S03_-_12_0.06.55.980-0.06.58.140.jpg",
           "audio": "media/236/0.mp3",
-          "audio_source": "Toradora_07_0.16.08.485-0.16.14.207.mp3"
+          "audio_source": "Is_The_Order_a_Rabbit_S03_-_12_0.06.55.980-0.06.58.140.mp3"
         },
         {
           "jp": "もしかして 水着が ぶかぶかで― みっともなくて 出てこれないのかと思っちゃった",
@@ -7020,9 +7222,9 @@
           "jp": "ブクブクと泡立つくらいに",
           "cn": "",
           "image": "media/237/0.jpg",
-          "image_source": "A_UsagiDrop_05_0.08.26.235.jpg",
+          "image_source": "fermat_kitchen_005_0.03.00.160.jpg",
           "audio": "media/237/0.mp3",
-          "audio_source": "A_UsagiDrop_05_0.08.21.230-0.08.31.240.mp3"
+          "audio_source": "fermat_kitchen_005_0.02.59.222-0.03.01.098.mp3"
         },
         {
           "jp": "子供育てながら できることじゃないし でも 宗一さんは 産むことを勧めるし 仕事してるか 寝込んでるかっていう毎日で ぶくぶく 太るし。",
@@ -7047,12 +7249,12 @@
       "collocations": "〜のご飯／〜した",
       "examples": [
         {
-          "jp": "くちばしが ふっくらしてますから",
+          "jp": "くちばしが　ふっくらしてますから",
           "cn": "",
           "image": "media/238/0.jpg",
-          "image_source": "A_Anohana_E04_1_0.12.51.775.jpg",
+          "image_source": "A_Shirokuma_Cafe_31_0.03.32.720.jpg",
           "audio": "media/238/0.mp3",
-          "audio_source": "A_Anohana_E04_1_0.12.50.070-0.12.53.480.mp3"
+          "audio_source": "A_Shirokuma_Cafe_31_0.03.31.760-0.03.33.680.mp3"
         },
         {
           "jp": "ドライイーストってパンをふっくらさせるんですよね",
@@ -7094,9 +7296,9 @@
           "jp": "なにブツブツ１人でしゃべってるの",
           "cn": "",
           "image": "media/240/0.jpg",
-          "image_source": "A_Kill_la_Kill_06_0.15.15.414.jpg",
+          "image_source": "A_Shirokuma_Cafe_40_0.03.02.550.jpg",
           "audio": "media/240/0.mp3",
-          "audio_source": "A_Kill_la_Kill_06_0.15.13.245-0.15.17.583.mp3"
+          "audio_source": "A_Shirokuma_Cafe_40_0.03.01.090-0.03.04.010.mp3"
         },
         {
           "jp": "はあ？ 何ブツブツ言ってんの？ あっ…",
@@ -7122,7 +7324,11 @@
       "examples": [
         {
           "jp": "いいのか？ １歩間違えれば 鍵までフニャフニャだぞ",
-          "cn": ""
+          "cn": "",
+          "image": "media/241/0.jpg",
+          "image_source": "Fairy_Tail_088_0.17.05.188.jpg",
+          "audio": "media/241/0.mp3",
+          "audio_source": "Fairy_Tail_088_0.17.02.915-0.17.07.461.mp3"
         },
         {
           "jp": "さあ乾杯だ。ニルフガード皇帝のイチモツが茹でた麺みたいにフニャフニャになって、皇位を継ぐクソッタレな子供が永遠にできないように！",
@@ -7143,12 +7349,12 @@
       "collocations": "〜歩く／〜する",
       "examples": [
         {
-          "jp": "『月刊 フラフラウォーカー』のライター 大崎と申します",
+          "jp": "『月刊　フラフラウォーカー』のライター　大崎と申します",
           "cn": "",
           "image": "media/242/0.jpg",
-          "image_source": "A_UsagiDrop_09_0.07.36.390.jpg",
+          "image_source": "A_Shirokuma_Cafe_08_0.02.40.255.jpg",
           "audio": "media/242/0.mp3",
-          "audio_source": "A_UsagiDrop_09_0.07.34.390-0.07.38.390.mp3"
+          "audio_source": "A_Shirokuma_Cafe_08_0.02.38.370-0.02.42.140.mp3"
         },
         {
           "jp": "あの日 会長に声をかけられて フラフラと踏み出した “第一歩”はムダじゃなかったんだ",
@@ -7173,12 +7379,12 @@
       "collocations": "〜と歩く／〜する",
       "examples": [
         {
-          "jp": "お国のために 働いてる人らの弁当と 一日中ブラブラしとる あんたらと 何で 同じや思うの。",
+          "jp": "お国のために　働いてる人らの弁当と　一日中ブラブラしとる　あんたらと　何で　同じや思うの。",
           "cn": "",
           "image": "media/243/0.jpg",
-          "image_source": "Toradora_21_0.08.50.281.jpg",
+          "image_source": "Anime-HotarunoHaka_1_0.39.30.415.jpg",
           "audio": "media/243/0.mp3",
-          "audio_source": "Toradora_21_0.08.49.004-0.08.51.557.mp3"
+          "audio_source": "Anime-HotarunoHaka_1_0.39.26.910-0.39.33.920.mp3"
         },
         {
           "jp": "しかも高須の顔の上で 何ぶらぶらさせて…",
@@ -7217,7 +7423,7 @@
       "collocations": "〜震える／〜する",
       "examples": [
         {
-          "jp": "ぶるぶる震えてるんが まあ いいか",
+          "jp": "ぶるぶる震えてるんが まあ　いいか",
           "cn": "",
           "image": "media/245/0.jpg",
           "image_source": "Angel_Beats!_10_0.09.50.015.jpg",
@@ -7247,12 +7453,12 @@
       "collocations": "〜のパン／〜した気分",
       "examples": [
         {
-          "jp": "(ヤスミンカ ) 食べる？ フワフワ味",
+          "jp": "(ヤスミンカ )　食べる？　フワフワ味",
           "cn": "",
           "image": "media/246/0.jpg",
-          "image_source": "A_KOn_S01E14_1_0.12.18.798.jpg",
+          "image_source": "A-LittleWitchAcademia05_1_0.02.26.999.jpg",
           "audio": "media/246/0.mp3",
-          "audio_source": "A_KOn_S01E14_1_0.12.17.453-0.12.20.143.mp3"
+          "audio_source": "A-LittleWitchAcademia05_1_0.02.26.048-0.02.27.949.mp3"
         },
         {
           "jp": "「ふわふわタイム」",
@@ -7278,8 +7484,12 @@
       "collocations": "羽音が〜／首を〜振る",
       "examples": [
         {
-          "jp": "てめえら 虫みたいにブンブンうるせえな",
-          "cn": ""
+          "jp": "てめえら　虫みたいにブンブンうるせえな",
+          "cn": "",
+          "image": "media/247/0.jpg",
+          "image_source": "A_Assassination_classroom_E14_1_0.06.22.025.jpg",
+          "audio": "media/247/0.mp3",
+          "audio_source": "A_Assassination_classroom_E14_1_0.06.20.550-0.06.23.500.mp3"
         }
       ]
     },
@@ -7297,12 +7507,12 @@
       "collocations": "腹が〜／〜頭を下げる",
       "examples": [
         {
-          "jp": "うれしい おなかペコペコだったの",
+          "jp": "うれしい　おなかペコペコだったの",
           "cn": "",
           "image": "media/248/0.jpg",
-          "image_source": "A_Erased_01_0.12.56.890.jpg",
+          "image_source": "A_CastleInTheSky_1_0.29.18.545.jpg",
           "audio": "media/248/0.mp3",
-          "audio_source": "A_Erased_01_0.12.55.770-0.12.58.010.mp3"
+          "audio_source": "A_CastleInTheSky_1_0.29.16.890-0.29.20.200.mp3"
         },
         {
           "jp": "どうやら腹ペコのようね～。 もう ペコペコだよ。",
@@ -7331,9 +7541,9 @@
           "jp": "いつもベタベタしてさ",
           "cn": "",
           "image": "media/249/0.jpg",
-          "image_source": "A_Kanon_E08_1_0.16.55.445.jpg",
+          "image_source": "Fairy_Tail_079_0.15.00.920.jpg",
           "audio": "media/249/0.mp3",
-          "audio_source": "A_Kanon_E08_1_0.16.54.390-0.16.56.500.mp3"
+          "audio_source": "Fairy_Tail_079_0.15.00.002-0.15.01.837.mp3"
         },
         {
           "jp": "うわ べたべたの少女漫画だな",
@@ -7358,7 +7568,7 @@
       "collocations": "〜と話す",
       "examples": [
         {
-          "jp": "るせーよ！ 何ぺちゃくちゃ話しかけてんだよ！",
+          "jp": "るせーよ！　何ぺちゃくちゃ話しかけてんだよ！",
           "cn": "",
           "image": "media/250/0.jpg",
           "image_source": "luckystar-nodup_14_0.19.22.435.jpg",
@@ -7418,12 +7628,12 @@
       "collocations": "〜と笑う",
       "examples": [
         {
-          "jp": "え？ ヘ… ヘラヘラ？",
+          "jp": "え？　ヘ… ヘラヘラ？",
           "cn": "",
           "image": "media/252/0.jpg",
-          "image_source": "A_Code_GeassS01_09_0.10.52.430.jpg",
+          "image_source": "A_FruitsBasket_S01E23_1_0.09.08.843.jpg",
           "audio": "media/252/0.mp3",
-          "audio_source": "A_Code_GeassS01_09_0.10.49.480-0.10.55.380.mp3"
+          "audio_source": "A_FruitsBasket_S01E23_1_0.09.07.738-0.09.09.948.mp3"
         },
         {
           "jp": "いつも ヘラヘラ 笑ってっからだよ",
@@ -7451,9 +7661,9 @@
           "jp": "どうりで 俺たちのこと ベラベラ話すと思った ん？",
           "cn": "",
           "image": "media/253/0.jpg",
-          "image_source": "Legal_High_02_0.27.29.065.jpg",
+          "image_source": "A_FruitsBasket_S01E02_1_0.05.24.266.jpg",
           "audio": "media/253/0.mp3",
-          "audio_source": "Legal_High_02_0.27.22.310-0.27.35.820.mp3"
+          "audio_source": "A_FruitsBasket_S01E02_1_0.05.22.514-0.05.26.018.mp3"
         },
         {
           "jp": "はぁ？ あんだけ ベラベラ糾弾しといて まだ なんかあんの？",
@@ -7482,9 +7692,9 @@
           "jp": "きっ 貴様 ペラペラと…",
           "cn": "",
           "image": "media/254/0.jpg",
-          "image_source": "A_FullmetalAlchemistBrotherhood_45_0.13.12.045.jpg",
+          "image_source": "WanderingWitch_06_0.17.51.240.jpg",
           "audio": "media/254/0.mp3",
-          "audio_source": "A_FullmetalAlchemistBrotherhood_45_0.13.11.050-0.13.13.040.mp3"
+          "audio_source": "WanderingWitch_06_0.17.49.760-0.17.52.720.mp3"
         },
         {
           "jp": "アホ！ こんな安もんのペラペラが 何で形見やねん。 ええかげんにしとき！",
@@ -7511,7 +7721,11 @@
       "examples": [
         {
           "jp": "（竜児）ごめんな インコちゃん （インコちゃん）ボー ボー",
-          "cn": ""
+          "cn": "",
+          "image": "media/255/0.jpg",
+          "image_source": "Toradora_01_0.16.51.579.jpg",
+          "audio": "media/255/0.mp3",
+          "audio_source": "Toradora_01_0.16.50.824-0.16.52.333.mp3"
         },
         {
           "jp": "草ぼうぼう、手入れがされてないわね",
@@ -7552,9 +7766,9 @@
           "jp": "お日さまがポカポカして",
           "cn": "",
           "image": "media/257/0.jpg",
-          "image_source": "Z.SUZUMIYA_19_0.13.42.947.jpg",
+          "image_source": "Fairy_Tail_152_0.03.26.815.jpg",
           "audio": "media/257/0.mp3",
-          "audio_source": "Z.SUZUMIYA_19_0.13.41.040-0.13.44.973.mp3"
+          "audio_source": "Fairy_Tail_152_0.03.25.522-0.03.28.108.mp3"
         },
         {
           "jp": "ぽかぽかして 気持ちいいね",
@@ -7579,8 +7793,12 @@
       "collocations": "〜と折れる",
       "examples": [
         {
-          "jp": "あとは あんたを 女王様に連れて行けば→ ボキの仕事は終了ってこと。",
-          "cn": ""
+          "jp": "あとは　あんたを 女王様に連れて行けば→ ボキの仕事は終了ってこと。",
+          "cn": "",
+          "image": "media/258/0.jpg",
+          "image_source": "HUNTER×HUNTER_96_0.13.03.623.jpg",
+          "audio": "media/258/0.mp3",
+          "audio_source": "HUNTER×HUNTER_96_0.13.00.854-0.13.06.391.mp3"
         },
         {
           "jp": "てめぇのボキャブラリーは なんだ こら！ 殺すぞ！",
@@ -7649,7 +7867,11 @@
       "examples": [
         {
           "jp": "うわあ やっちまったって思ったら 鼻血がポタポタと落ちた",
-          "cn": ""
+          "cn": "",
+          "image": "media/261/0.jpg",
+          "image_source": "A_DailyLivesofHighSchoolBoys_S01E02_1_0.18.21.640.jpg",
+          "audio": "media/261/0.mp3",
+          "audio_source": "A_DailyLivesofHighSchoolBoys_S01E02_1_0.18.18.910-0.18.24.370.mp3"
         }
       ]
     },
@@ -7688,10 +7910,12 @@
       "collocations": "〜する／〜した",
       "examples": [
         {
-          "jp": "あのとき ホントは 私 ほっとしちゃったんだ",
+          "jp": "あのとき　ホントは　私　ほっとしちゃったんだ",
           "cn": "",
           "image": "media/263/0.jpg",
-          "image_source": "Anime-SpiritedAway_1_0.53.43.704.jpg"
+          "image_source": "A_Anohana_E08_1_0.08.22.455.jpg",
+          "audio": "media/263/0.mp3",
+          "audio_source": "A_Anohana_E08_1_0.08.20.120-0.08.24.790.mp3"
         },
         {
           "jp": "ここは運命だと思って素直に 受け入れようかと思ったりもして でも いざ助けられたら ホッとしちゃったりとかしてる",
@@ -7756,12 +7980,12 @@
       "collocations": "〜の服／〜泣く",
       "examples": [
         {
-          "jp": "(ソフィー)！ お城ボロボロだよ。 いいの！",
+          "jp": "(ソフィー)！　お城ボロボロだよ。　いいの！",
           "cn": "",
           "image": "media/267/0.jpg",
-          "image_source": "Sakurasou_no_Pet_na_Kanojo_04_0.11.05.345.jpg",
+          "image_source": "Anime-Howl'sMovingCastle_1_1.36.30.229.jpg",
           "audio": "media/267/0.mp3",
-          "audio_source": "Sakurasou_no_Pet_na_Kanojo_04_0.11.03.530-0.11.07.160.mp3"
+          "audio_source": "Anime-Howl'sMovingCastle_1_1.36.28.502-1.36.31.956.mp3"
         },
         {
           "jp": "(女性 )何なの？ その格好 ボロボロじゃない (アッコ ) これは シャリオを 見ていた誰かの… (女性 )何なの？ その格好 ボロボロじゃない (シャイニィシャリオ )あっ…",
@@ -7786,12 +8010,12 @@
       "collocations": "〜する／〜と見える",
       "examples": [
         {
-          "jp": "ああ ごめん ぼんやりしてた",
+          "jp": "ああ　ごめん　ぼんやりしてた",
           "cn": "",
           "image": "media/268/0.jpg",
-          "image_source": "A_CardCaptorSakura24_35_0.03.35.688.jpg",
+          "image_source": "SwordArtOnlineS01E_25_0.12.21.991.jpg",
           "audio": "media/268/0.mp3",
-          "audio_source": "A_CardCaptorSakura24_35_0.03.33.436-0.03.37.940.mp3"
+          "audio_source": "SwordArtOnlineS01E_25_0.12.20.656-0.12.23.325.mp3"
         },
         {
           "jp": "あなたは だんだん 意識がぼんやりとしてきます",
@@ -7817,7 +8041,11 @@
       "examples": [
         {
           "jp": "ちょっ！ マジマジと見るのは やめてほしいのですが",
-          "cn": ""
+          "cn": "",
+          "image": "media/269/0.jpg",
+          "image_source": "KonoSuba_S2_02_0.14.24.077.jpg",
+          "audio": "media/269/0.mp3",
+          "audio_source": "KonoSuba_S2_02_0.14.22.408-0.14.25.745.mp3"
         },
         {
           "jp": "マジ マジ",
@@ -7855,12 +8083,12 @@
       "collocations": "〜する／胃が〜",
       "examples": [
         {
-          "jp": "こっちゃ ただでさえ ムカムカ来てんだ。",
+          "jp": "こっちゃ ただでさえ　ムカムカ来てんだ。",
           "cn": "",
           "image": "media/271/0.jpg",
-          "image_source": "Oreimo_S01E08_0.13.47.260-0.13.49.150.jpg",
+          "image_source": "HUNTER×HUNTER_99_0.14.47.735.jpg",
           "audio": "media/271/0.mp3",
-          "audio_source": "Oreimo_S01E08_0.13.47.260-0.13.49.150.mp3"
+          "audio_source": "HUNTER×HUNTER_99_0.14.45.983-0.14.49.487.mp3"
         },
         {
           "jp": "なぜかしら？ どうにも ムカムカしてくるんですけど…",
@@ -7911,12 +8139,12 @@
       "collocations": "〜する／腕が〜",
       "examples": [
         {
-          "jp": "って 顔がむずむずしてる",
+          "jp": "って　顔がむずむずしてる",
           "cn": "",
           "image": "media/274/0.jpg",
-          "image_source": "A_Assassination_classroom_E11_1_0.08.08.975.jpg",
+          "image_source": "Is_The_Order_a_Rabbit_S03_-_10_0.11.10.780-0.11.13.290.jpg",
           "audio": "media/274/0.mp3",
-          "audio_source": "A_Assassination_classroom_E11_1_0.08.08.200-0.08.09.750.mp3"
+          "audio_source": "Is_The_Order_a_Rabbit_S03_-_10_0.11.10.780-0.11.13.290.mp3"
         },
         {
           "jp": "はぁ？ 何だ この― ムズムズする感じは",
@@ -7944,9 +8172,9 @@
           "jp": "…おい、竜崎、無茶苦茶だ",
           "cn": "",
           "image": "media/275/0.jpg",
-          "image_source": "HUNTER×HUNTER_61_0.21.33.218.jpg",
+          "image_source": "A_DeathNote_13_0.19.31.280.jpg",
           "audio": "media/275/0.mp3",
-          "audio_source": "HUNTER×HUNTER_61_0.21.30.968-0.21.35.468.mp3"
+          "audio_source": "A_DeathNote_13_0.19.30.430-0.19.32.130.mp3"
         },
         {
           "jp": "あんな むちゃくちゃな演奏しやがって",
@@ -7997,8 +8225,12 @@
       "collocations": "〜と言う",
       "examples": [
         {
-          "jp": "いいねえ 最高だね ムニャムニャ…",
-          "cn": ""
+          "jp": "いいねえ　最高だね　ムニャムニャ…",
+          "cn": "",
+          "image": "media/278/0.jpg",
+          "image_source": "A-LittleWitchAcademia08_1_0.13.22.763.jpg",
+          "audio": "media/278/0.mp3",
+          "audio_source": "A-LittleWitchAcademia08_1_0.13.20.994-0.13.24.531.mp3"
         },
         {
           "jp": "むにゃむにゃむにゃ…",
@@ -8023,8 +8255,12 @@
       "collocations": "〜と湧く／〜くる",
       "examples": [
         {
-          "jp": "い… いや 別に 抜け駆けとかじゃなくて→ ほら 急にムラムラと戦いたくなって。",
-          "cn": ""
+          "jp": "い…　いや　別に 抜け駆けとかじゃなくて→ ほら 急にムラムラと戦いたくなって。",
+          "cn": "",
+          "image": "media/279/0.jpg",
+          "image_source": "HUNTER×HUNTER_33_0.19.19.255.jpg",
+          "audio": "media/279/0.mp3",
+          "audio_source": "HUNTER×HUNTER_33_0.19.16.001-0.19.22.508.mp3"
         },
         {
           "jp": "いや あまりの手際の悪さに 見てたら ついムラムラと",
@@ -8100,9 +8336,9 @@
           "jp": "いつまで メソメソしているんですか",
           "cn": "",
           "image": "media/283/0.jpg",
-          "image_source": "1_Litre_of_Tears_ep11_end_720p_x265-ER_0.36.47.086-0.36.49.400.jpg",
+          "image_source": "KonoSuba_S2_02_0.21.00.272.jpg",
           "audio": "media/283/0.mp3",
-          "audio_source": "1_Litre_of_Tears_ep11_end_720p_x265-ER_0.36.47.086-0.36.49.400.mp3"
+          "audio_source": "KonoSuba_S2_02_0.20.59.171-0.21.01.373.mp3"
         },
         {
           "jp": "こっちもそんなに暇じゃないわって 言うとメソメソして",
@@ -8130,9 +8366,9 @@
           "jp": "…めちゃくちゃ失礼ね…あんた…",
           "cn": "",
           "image": "media/284/0.jpg",
-          "image_source": "A_Konosuba_S01_E04_1_0.12.33.276.jpg",
+          "image_source": "A_ClannadS01_E11_1_0.08.10.905.jpg",
           "audio": "media/284/0.mp3",
-          "audio_source": "A_Konosuba_S01_E04_1_0.12.31.899-0.12.34.652.mp3"
+          "audio_source": "A_ClannadS01_E11_1_0.08.09.820-0.08.11.990.mp3"
         },
         {
           "jp": "《すげぇ… めちゃくちゃ デートって言葉が飛び交ってる》",
@@ -8160,9 +8396,9 @@
           "jp": "あい メチャメチャ強いよ",
           "cn": "",
           "image": "media/285/0.jpg",
-          "image_source": "A_Kanon_E08_1_0.15.31.280.jpg",
+          "image_source": "Fairy_Tail_042_0.04.12.390.jpg",
           "audio": "media/285/0.mp3",
-          "audio_source": "A_Kanon_E08_1_0.15.29.750-0.15.32.810.mp3"
+          "audio_source": "Fairy_Tail_042_0.04.11.243-0.04.13.537.mp3"
         },
         {
           "jp": "あれのお陰でめちゃめちゃ説明が楽だった",
@@ -8188,7 +8424,11 @@
       "examples": [
         {
           "jp": "スーパーハカー魂がメラメラ バーニングしちゃってるね",
-          "cn": ""
+          "cn": "",
+          "image": "media/286/0.jpg",
+          "image_source": "A_SteinsGateS01_E03_1_0.19.17.582.jpg",
+          "audio": "media/286/0.mp3",
+          "audio_source": "A_SteinsGateS01_E03_1_0.19.15.726-0.19.19.438.mp3"
         },
         {
           "jp": "嫌な目つきだね メラメラと",
@@ -8212,9 +8452,9 @@
           "jp": "え？あいつ、海砂にメロメロだもん",
           "cn": "",
           "image": "media/287/0.jpg",
-          "image_source": "A_NoGameNoLife__11_0.04.11.284.jpg",
+          "image_source": "A_DeathNote_15_0.02.19.125.jpg",
           "audio": "media/287/0.mp3",
-          "audio_source": "A_NoGameNoLife__11_0.04.09.720-0.04.12.848.mp3"
+          "audio_source": "A_DeathNote_15_0.02.17.860-0.02.20.390.mp3"
         },
         {
           "jp": "こりゃあ 彼氏の一条くんもメロメロになっちゃうんじゃない",
@@ -8242,7 +8482,9 @@
           "jp": "あ～もう",
           "cn": "",
           "image": "media/288/0.jpg",
-          "image_source": "Anime_Your_lie_in_april_E21_1_0.11.35.880.jpg"
+          "image_source": "Toradora_05_0.11.21.763.jpg",
+          "audio": "media/288/0.mp3",
+          "audio_source": "Toradora_05_0.11.20.737-0.11.22.788.mp3"
         },
         {
           "jp": "いってらっしゃ～い。",
@@ -8268,7 +8510,11 @@
       "examples": [
         {
           "jp": "大量の参加者の汗が蒸気になってね 空中に出来た雲がこうモクモクと！",
-          "cn": ""
+          "cn": "",
+          "image": "media/289/0.jpg",
+          "image_source": "luckystar-nodup_12_0.08.32.385.jpg",
+          "audio": "media/289/0.mp3",
+          "audio_source": "luckystar-nodup_12_0.08.29.350-0.08.35.420.mp3"
         }
       ]
     },
@@ -8285,8 +8531,12 @@
       "collocations": "〜食べる／〜する",
       "examples": [
         {
-          "jp": "モグラでパニック モグモグたたき",
-          "cn": ""
+          "jp": "モグラでパニック　モグモグたたき",
+          "cn": "",
+          "image": "media/290/0.jpg",
+          "image_source": "A_CardCaptorSakura36_40_0.05.29.510.jpg",
+          "audio": "media/290/0.mp3",
+          "audio_source": "A_CardCaptorSakura36_40_0.05.28.380-0.05.30.640.mp3"
         },
         {
           "jp": "（大河） そんでもって 鮮血のモグ モグ…",
@@ -8327,9 +8577,9 @@
           "jp": "あっ そのもさもさ頭は 地味めの！",
           "cn": "",
           "image": "media/292/0.jpg",
-          "image_source": "A_Anohana_E11_1_0.09.06.915.jpg",
+          "image_source": "A_My_Hero_Academia_S01_E05_1_0.07.13.505.jpg",
           "audio": "media/292/0.mp3",
-          "audio_source": "A_Anohana_E11_1_0.09.04.920-0.09.08.910.mp3"
+          "audio_source": "A_My_Hero_Academia_S01_E05_1_0.07.11.920-0.07.15.090.mp3"
         },
         {
           "jp": "見りゃ分かるでしょ あのモサモサ",
@@ -8357,9 +8607,9 @@
           "jp": "こんなときに もじもじされても！",
           "cn": "",
           "image": "media/293/0.jpg",
-          "image_source": "A_Kanon_E01_1_0.04.31.065.jpg",
+          "image_source": "Toradora_01_0.17.50.575.jpg",
           "audio": "media/293/0.mp3",
-          "audio_source": "A_Kanon_E01_1_0.04.30.000-0.04.32.130.mp3"
+          "audio_source": "Toradora_01_0.17.49.215-0.17.51.934.mp3"
         },
         {
           "jp": "もじもじ時間ないのに",
@@ -8387,9 +8637,9 @@
           "jp": "あいつら何もたもたしてやがる",
           "cn": "",
           "image": "media/294/0.jpg",
-          "image_source": "HUNTER×HUNTER_119_0.17.56.268.jpg",
+          "image_source": "A_FullmetalAlchemistBrotherhood_24_0.07.27.600.jpg",
           "audio": "media/294/0.mp3",
-          "audio_source": "HUNTER×HUNTER_119_0.17.54.233-0.17.58.303.mp3"
+          "audio_source": "A_FullmetalAlchemistBrotherhood_24_0.07.26.600-0.07.28.600.mp3"
         },
         {
           "jp": "あんなところでモタモタしている時間はなかったの",
@@ -8414,12 +8664,12 @@
       "collocations": "〜する／〜した気分",
       "examples": [
         {
-          "jp": "《そこに この気持ち…→ モヤモヤの答えが ある気がする》",
+          "jp": "《そこに　この気持ち…→ モヤモヤの答えが　ある気がする》",
           "cn": "",
           "image": "media/295/0.jpg",
-          "image_source": "A_ClannadS01_E09_1_0.09.57.950.jpg",
+          "image_source": "HUNTER×HUNTER_110_0.19.33.195.jpg",
           "audio": "media/295/0.mp3",
-          "audio_source": "A_ClannadS01_E09_1_0.09.56.220-0.09.59.680.mp3"
+          "audio_source": "HUNTER×HUNTER_110_0.19.30.434-0.19.35.956.mp3"
         },
         {
           "jp": "あいつの顔を見るともやもやして",
@@ -8444,12 +8694,12 @@
       "collocations": "〜食べる／〜する",
       "examples": [
         {
-          "jp": "でもみんな もりもりと食べてくれていたじゃないか",
+          "jp": "でもみんな　もりもりと食べてくれていたじゃないか",
           "cn": "",
           "image": "media/296/0.jpg",
-          "image_source": "A_FullmetalAlchemistBrotherhood_34_0.04.20.335.jpg",
+          "image_source": "Kino_no_Tabi_9_0.13.58.650.jpg",
           "audio": "media/296/0.mp3",
-          "audio_source": "A_FullmetalAlchemistBrotherhood_34_0.04.19.350-0.04.21.320.mp3"
+          "audio_source": "Kino_no_Tabi_9_0.13.56.900-0.14.00.400.mp3"
         },
         {
           "jp": "相変わらず筋肉もりもり",
@@ -8473,9 +8723,9 @@
           "jp": "♪ ユラユラ 揺らめいて ♪ みんなで手をつなぎ",
           "cn": "",
           "image": "media/297/0.jpg",
-          "image_source": "Shinsekai_Yori_01_0.04.36.970.jpg",
+          "image_source": "Toradora_19_0.22.31.532.jpg",
           "audio": "media/297/0.mp3",
-          "audio_source": "Shinsekai_Yori_01_0.04.34.920-0.04.39.020.mp3"
+          "audio_source": "Toradora_19_0.22.27.169-0.22.35.894.mp3"
         },
         {
           "jp": "このユラユラ海に浮かんでいるみたい",
@@ -8500,7 +8750,7 @@
       "collocations": "〜歩く／〜と",
       "examples": [
         {
-          "jp": "オー よちよち～",
+          "jp": "オー　よちよち～",
           "cn": "",
           "image": "media/298/0.jpg",
           "image_source": "A_Shirokuma_Cafe_01_0.22.13.385.jpg",
@@ -8526,12 +8776,12 @@
       "collocations": "〜の服／〜になる",
       "examples": [
         {
-          "jp": "こら ユイ そんなよれよれなリズムで続けるな えぇぇっ",
+          "jp": "こら　ユイ そんなよれよれなリズムで続けるな えぇぇっ",
           "cn": "",
           "image": "media/299/0.jpg",
-          "image_source": "A_UsagiDrop_08_0.04.09.550.jpg",
+          "image_source": "Angel_Beats!_10_0.02.42.155.jpg",
           "audio": "media/299/0.mp3",
-          "audio_source": "A_UsagiDrop_08_0.04.06.550-0.04.12.550.mp3"
+          "audio_source": "Angel_Beats!_10_0.02.39.680-0.02.44.880.mp3"
         },
         {
           "jp": "だって 男の子たち クーラー切ると 汗で原稿 よれよれにしちゃうもん。",
@@ -8581,9 +8831,9 @@
           "jp": "リンリン",
           "cn": "",
           "image": "media/301/0.jpg",
-          "image_source": "A_ReZeroS01_E05_1_0.24.17.345.jpg",
+          "image_source": "A_Shirokuma_Cafe_28_0.12.06.835.jpg",
           "audio": "media/301/0.mp3",
-          "audio_source": "A_ReZeroS01_E05_1_0.24.16.910-0.24.17.780.mp3"
+          "audio_source": "A_Shirokuma_Cafe_28_0.12.06.360-0.12.07.310.mp3"
         },
         {
           "jp": "リンリン",
@@ -8608,12 +8858,12 @@
       "collocations": "〜する／〜した",
       "examples": [
         {
-          "jp": "あ わくわくしてたのか",
+          "jp": "あ　わくわくしてたのか",
           "cn": "",
           "image": "media/302/0.jpg",
-          "image_source": "A_Kill_la_Kill_21_0.02.18.743.jpg",
+          "image_source": "Nisekoi_-_04_0.06.15.990-0.06.17.640.jpg",
           "audio": "media/302/0.mp3",
-          "audio_source": "A_Kill_la_Kill_21_0.02.16.511-0.02.20.974.mp3"
+          "audio_source": "Nisekoi_-_04_0.06.15.990-0.06.17.640.mp3"
         },
         {
           "jp": "いつでも一緒にいたい 一緒にいると ドキドキ ワクワクする…",
@@ -8641,9 +8891,9 @@
           "jp": "♪ 「ジューシーからあげNo.１(ワン)」 ワン！",
           "cn": "",
           "image": "media/303/0.jpg",
-          "image_source": "A_KOn_S01E08_1_0.06.15.116.jpg",
+          "image_source": "A_SteinsGateS01_E03_1_0.06.33.965.jpg",
           "audio": "media/303/0.mp3",
-          "audio_source": "A_KOn_S01E08_1_0.06.13.071-0.06.17.161.mp3"
+          "audio_source": "A_SteinsGateS01_E03_1_0.06.32.005-0.06.35.925.mp3"
         },
         {
           "jp": "あとで見たこともないぐらいわんわん泣いてたもん",

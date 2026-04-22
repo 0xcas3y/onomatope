@@ -41,7 +41,7 @@ async function main() {
     try {
       // API 呼び出し
       const apiData = await page.evaluate(async (word) => {
-        const r = await fetch(`https://apiv2.immersionkit.com/search?q=${encodeURIComponent(word)}&exact=true`);
+        const r = await fetch(`https://apiv2express.immersionkit.com/search?q=${encodeURIComponent(word)}&exact=true`);
         if (!r.ok) return null;
         return await r.json();
       }, card.word);

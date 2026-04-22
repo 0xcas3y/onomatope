@@ -1,0 +1,382 @@
+{
+  "your_lie_in_april": {
+    "title": "Your Lie in April",
+    "category": "anime"
+  },
+  "princess_mononoke": {
+    "title": "Princess Mononoke",
+    "category": "anime"
+  },
+  "girls_band_cry": {
+    "title": "Girls Band Cry",
+    "category": "anime"
+  },
+  "only_yesterday": {
+    "title": "Only Yesterday",
+    "category": "anime"
+  },
+  "chobits": {
+    "title": "Chobits",
+    "category": "anime"
+  },
+  "k_on_": {
+    "title": "K-On!",
+    "category": "anime"
+  },
+  "weathering_with_you": {
+    "title": "Weathering with You",
+    "category": "anime"
+  },
+  "from_the_new_world": {
+    "title": "From the New World",
+    "category": "anime"
+  },
+  "grave_of_the_fireflies": {
+    "title": "Grave of the Fireflies",
+    "category": "anime"
+  },
+  "steins_gate": {
+    "title": "Steins Gate",
+    "category": "anime"
+  },
+  "sword_art_online": {
+    "title": "Sword Art Online",
+    "category": "anime"
+  },
+  "nisekoi": {
+    "title": "Nisekoi",
+    "category": "anime"
+  },
+  "death_note": {
+    "title": "Death Note",
+    "category": "anime"
+  },
+  "wolf_children": {
+    "title": "Wolf Children",
+    "category": "anime"
+  },
+  "demon_slayer___kimetsu_no_yaiba": {
+    "title": "Demon Slayer - Kimetsu no Yaiba",
+    "category": "anime"
+  },
+  "your_name": {
+    "title": "Your Name",
+    "category": "anime"
+  },
+  "alya_sometimes_hides_her_feelings_in_russian": {
+    "title": "Alya Sometimes Hides Her Feelings in Russian",
+    "category": "anime"
+  },
+  "cardcaptor_sakura": {
+    "title": "Cardcaptor Sakura",
+    "category": "anime"
+  },
+  "kill_la_kill": {
+    "title": "Kill la Kill",
+    "category": "anime"
+  },
+  "howl_s_moving_castle": {
+    "title": "Howl's Moving Castle",
+    "category": "anime"
+  },
+  "whisper_of_the_heart": {
+    "title": "Whisper of the Heart",
+    "category": "anime"
+  },
+  "bunny_drop": {
+    "title": "Bunny Drop",
+    "category": "anime"
+  },
+  "fermat_kitchen": {
+    "title": "Fermat Kitchen",
+    "category": "anime"
+  },
+  "haruhi_suzumiya": {
+    "title": "Haruhi Suzumiya",
+    "category": "anime"
+  },
+  "hunter_x_hunter": {
+    "title": "Hunter × Hunter",
+    "category": "anime"
+  },
+  "god_s_blessing_on_this_wonderful_world_": {
+    "title": "God's Blessing on this Wonderful World!",
+    "category": "anime"
+  },
+  "assassination_classroom_season_1": {
+    "title": "Assassination Classroom Season 1",
+    "category": "anime"
+  },
+  "durarara__": {
+    "title": "Durarara!!",
+    "category": "anime"
+  },
+  "bakemonogatari": {
+    "title": "Bakemonogatari",
+    "category": "anime"
+  },
+  "hyouka": {
+    "title": "Hyouka",
+    "category": "anime"
+  },
+  "relife": {
+    "title": "ReLIFE",
+    "category": "anime"
+  },
+  "from_up_on_poppy_hill": {
+    "title": "From Up on Poppy Hill",
+    "category": "anime"
+  },
+  "sound__euphonium": {
+    "title": "Sound! Euphonium",
+    "category": "anime"
+  },
+  "lucky_star": {
+    "title": "Lucky Star",
+    "category": "anime"
+  },
+  "kokoro_connect": {
+    "title": "Kokoro Connect",
+    "category": "anime"
+  },
+  "my_little_sister_can_t_be_this_cute": {
+    "title": "My Little Sister Can't Be This Cute",
+    "category": "anime"
+  },
+  "is_the_order_a_rabbit": {
+    "title": "Is The Order a Rabbit",
+    "category": "anime"
+  },
+  "clannad": {
+    "title": "Clannad",
+    "category": "anime"
+  },
+  "angel_beats_": {
+    "title": "Angel Beats!",
+    "category": "anime"
+  },
+  "daily_lives_of_high_school_boys": {
+    "title": "Daily Lives of High School Boys",
+    "category": "anime"
+  },
+  "new_game_": {
+    "title": "New Game!",
+    "category": "anime"
+  },
+  "the_wind_rises": {
+    "title": "The Wind Rises",
+    "category": "anime"
+  },
+  "fate_zero": {
+    "title": "Fate Zero",
+    "category": "anime"
+  },
+  "toradora_": {
+    "title": "Toradora!",
+    "category": "anime"
+  },
+  "anohana_the_flower_we_saw_that_day": {
+    "title": "Anohana the flower we saw that day",
+    "category": "anime"
+  },
+  "wandering_witch_the_journey_of_elaina": {
+    "title": "Wandering Witch The Journey of Elaina",
+    "category": "anime"
+  },
+  "kino_s_journey": {
+    "title": "Kino's Journey",
+    "category": "anime"
+  },
+  "boku_no_hero_academia_season_1": {
+    "title": "Boku no Hero Academia Season 1",
+    "category": "anime"
+  },
+  "fullmetal_alchemist_brotherhood": {
+    "title": "Fullmetal Alchemist Brotherhood",
+    "category": "anime"
+  },
+  "one_week_friends": {
+    "title": "One Week Friends",
+    "category": "anime"
+  },
+  "erased": {
+    "title": "Erased",
+    "category": "anime"
+  },
+  "mononoke": {
+    "title": "Mononoke",
+    "category": "anime"
+  },
+  "little_witch_academia": {
+    "title": "Little Witch Academia",
+    "category": "anime"
+  },
+  "re_zero___starting_life_in_another_world": {
+    "title": "Re Zero â Starting Life in Another World",
+    "category": "anime"
+  },
+  "fruits_basket_season_1": {
+    "title": "Fruits Basket Season 1",
+    "category": "anime"
+  },
+  "mahou_shoujo_madoka_magica": {
+    "title": "Mahou Shoujo Madoka Magica",
+    "category": "anime"
+  },
+  "the_irregular_at_magic_high_school": {
+    "title": "The Irregular at Magic High School",
+    "category": "anime"
+  },
+  "clannad_after_story": {
+    "title": "Clannad After Story",
+    "category": "anime"
+  },
+  "frieren_beyond_journey_s_end": {
+    "title": "Frieren Beyond Journey's End",
+    "category": "anime"
+  },
+  "kakegurui": {
+    "title": "Kakegurui",
+    "category": "anime"
+  },
+  "the_garden_of_words": {
+    "title": "The Garden of Words",
+    "category": "anime"
+  },
+  "when_marnie_was_there": {
+    "title": "When Marnie Was There",
+    "category": "anime"
+  },
+  "castle_in_the_sky": {
+    "title": "Castle in the sky",
+    "category": "anime"
+  },
+  "shirokuma_cafe": {
+    "title": "Shirokuma Cafe",
+    "category": "anime"
+  },
+  "my_neighbor_totoro": {
+    "title": "My Neighbor Totoro",
+    "category": "anime"
+  },
+  "kiki_s_delivery_service": {
+    "title": "Kiki's Delivery Service",
+    "category": "anime"
+  },
+  "the_girl_who_leapt_through_time": {
+    "title": "The Girl Who Leapt Through Time",
+    "category": "anime"
+  },
+  "fate_stay_night_unlimited_blade_works": {
+    "title": "Fate Stay Night Unlimited Blade Works",
+    "category": "anime"
+  },
+  "code_geass_season_1": {
+    "title": "Code Geass Season 1",
+    "category": "anime"
+  },
+  "the_world_god_only_knows": {
+    "title": "The World God Only Knows",
+    "category": "anime"
+  },
+  "the_pet_girl_of_sakurasou": {
+    "title": "The Pet Girl of Sakurasou",
+    "category": "anime"
+  },
+  "no_game_no_life": {
+    "title": "No Game No Life",
+    "category": "anime"
+  },
+  "kanon__2006_": {
+    "title": "Kanon (2006)",
+    "category": "anime"
+  },
+  "psycho_pass": {
+    "title": "Psycho Pass",
+    "category": "anime"
+  },
+  "the_cat_returns": {
+    "title": "The Cat Returns",
+    "category": "anime"
+  },
+  "the_secret_world_of_arrietty": {
+    "title": "The Secret World of Arrietty",
+    "category": "anime"
+  },
+  "spirited_away": {
+    "title": "Spirited Away",
+    "category": "anime"
+  },
+  "noragami": {
+    "title": "Noragami",
+    "category": "anime"
+  },
+  "fairy_tail": {
+    "title": "Fairy Tail",
+    "category": "anime"
+  },
+  "i_m_taking_the_day_off": {
+    "title": "I'm Taking the Day Off",
+    "category": "drama"
+  },
+  "border": {
+    "title": "Border",
+    "category": "drama"
+  },
+  "weakest_beast": {
+    "title": "Weakest Beast",
+    "category": "drama"
+  },
+  "mob_psycho_100": {
+    "title": "Mob Psycho 100",
+    "category": "drama"
+  },
+  "the_journalist": {
+    "title": "The Journalist",
+    "category": "drama"
+  },
+  "sailor_suit_and_machine_gun__2006_": {
+    "title": "Sailor Suit and Machine Gun (2006)",
+    "category": "drama"
+  },
+  "smoking": {
+    "title": "Smoking",
+    "category": "drama"
+  },
+  "i_am_mita__your_housekeeper": {
+    "title": "I am Mita, Your Housekeeper",
+    "category": "drama"
+  },
+  "good_morning_call": {
+    "title": "Good Morning Call",
+    "category": "drama"
+  },
+  "overprotected_kahoko": {
+    "title": "Overprotected Kahoko",
+    "category": "drama"
+  },
+  "quartet": {
+    "title": "Quartet",
+    "category": "drama"
+  },
+  "million_yen_woman": {
+    "title": "Million Yen Woman",
+    "category": "drama"
+  },
+  "legal_high_season_1": {
+    "title": "Legal High Season 1",
+    "category": "drama"
+  },
+  "witcher_3": {
+    "title": "Witcher 3",
+    "category": "games"
+  },
+  "cyberpunk_2077": {
+    "title": "Cyberpunk 2077",
+    "category": "games"
+  },
+  "skyrim": {
+    "title": "Skyrim",
+    "category": "games"
+  }
+}
