@@ -150,12 +150,16 @@ async function main() {
       }
 
       fs.writeFileSync(CARDS, JSON.stringify(data, null, 2));
-      await new Promise(r => setTimeout(r, 2000));
+      await new Promise(r => setTimeout(r, 3500));
 
     } catch (err) {
       console.log(`  [${card.id}] ${card.word}  ❌ ${err.message}`);
       fail++;
-      await new Promise(r => setTimeout(r, 5000));
+      if (err.message && err.message.includes('Failed to fetch')) {
+        await new Promise(r => setTimeout(r, 15000));  // 長め冷却
+      } else {
+        await new Promise(r => setTimeout(r, 5000));
+      }
     }
   }
 
