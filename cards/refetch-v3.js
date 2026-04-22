@@ -25,8 +25,8 @@ function buildUrl(id, fname) {
   if (!meta) return null;
   const title = meta.title;
   // path = media/<category>/<title>/media/<fname>
-  const path = `media/${category}/${title}/media/${fname}`;
-  return 'https://us-southeast-1.linodeobjects.com/immersionkit/' + encodeURI(path);
+  const p = `media/${category}/${title}/media/${fname}`;
+  return 'https://us-southeast-1.linodeobjects.com/immersionkit/' + encodeURI(p);
 }
 
 async function fetchJSON(url) {
@@ -79,9 +79,13 @@ async function main() {
         continue;
       }
 
+      // 画像ありを優先（games はほぼ音声のみ）
+      const withImg = examples.filter(e => e.image);
+      const candidates = withImg.length ? withImg : examples;
+
       // 対応する例句を探す
       let matched = null, bestScore = 0;
-      for (const ikEx of examples) {
+      for (const ikEx of candidates) {
         const ikJp = normalize(ikEx.sentence);
         if (ikJp.includes(targetJp) || targetJp.includes(ikJp.substring(0, 25))) {
           matched = ikEx;
@@ -95,24 +99,30 @@ async function main() {
         const score = union ? inter / union : 0;
         if (score > bestScore) { bestScore = score; matched = ikEx; }
       }
-      // どうしてもマッチしなければ先頭例に fallback
+      // どうしてもマッチしなければ先頭（画像あり優先）に fallback
       if (!matched || bestScore < 0.35) {
-        matched = examples[0];
+        matched = candidates[0];
         bestScore = 0;
       }
 
       const imgUrl = buildUrl(matched.id, matched.image);
       const sndUrl = buildUrl(matched.id, matched.sound);
 
-      if (!imgUrl) {
+      // 画像なしでも音声だけ取得するパターン
+      if (!imgUrl && !sndUrl) {
         console.log(`  [${card.id}] ${card.word}  ⏭ unknown media: ${matched.id}`);
         skip++;
         continue;
+      }
+      if (!imgUrl && sndUrl) {
+        console.log(`  [${card.id}] ${card.word}  ⚠ audio only (no image from IK)`);
+        // 音声だけ DL
       }
 
       // Chrome で DL
       const dl = await page.evaluate(async (iu, su) => {
         async function grab(url) {
+          if (!url) return null;
           try {
             const r = await fetch(url);
             if (!r.ok) return null;
@@ -123,21 +133,24 @@ async function main() {
             return btoa(s);
           } catch (e) { return null; }
         }
-        return { img: await grab(iu), snd: su ? await grab(su) : null };
+        return { img: await grab(iu), snd: await grab(su) };
       }, imgUrl, sndUrl);
 
-      if (!dl.img) {
-        console.log(`  [${card.id}] ${card.word}  ⚠ img DL fail`);
+      if (!dl.img && !dl.snd) {
+        console.log(`  [${card.id}] ${card.word}  ⚠ all DL fail`);
         fail++;
         continue;
       }
 
       const cardDir = path.join(MEDIA_DIR, String(card.id));
       if (!fs.existsSync(cardDir)) fs.mkdirSync(cardDir, { recursive: true });
-      const imgBuf = Buffer.from(dl.img, 'base64');
-      fs.writeFileSync(path.join(cardDir, '0.jpg'), imgBuf);
-      firstEx.image = `media/${card.id}/0.jpg`;
-      firstEx.image_source = matched.image;
+      let imgBuf = null;
+      if (dl.img) {
+        imgBuf = Buffer.from(dl.img, 'base64');
+        fs.writeFileSync(path.join(cardDir, '0.jpg'), imgBuf);
+        firstEx.image = `media/${card.id}/0.jpg`;
+        firstEx.image_source = matched.image;
+      }
 
       let sndSize = 0;
       if (dl.snd) {
@@ -154,7 +167,7 @@ async function main() {
       firstEx.jp = matched.sentence;
       // MD の CN を保持
 
-      console.log(`  [${card.id}] ${card.word}  ✅ score=${bestScore.toFixed(2)} img=${imgBuf.length}B snd=${sndSize||'—'}`);
+      console.log(`  [${card.id}] ${card.word}  ✅ score=${bestScore.toFixed(2)} img=${imgBuf ? imgBuf.length+'B' : '—'} snd=${sndSize||'—'}`);
       ok++;
 
       fs.writeFileSync(CARDS, JSON.stringify(data, null, 2));

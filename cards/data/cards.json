@@ -569,12 +569,12 @@
       "examples": [
         {
           "source": "CLANNAD",
-          "jp": "おい",
+          "jp": "(男性１ )おい！",
           "cn": "哎呀呀……",
           "image": "media/18/0.jpg",
-          "image_source": "Chobits_02_0.03.14.840-0.03.15.400.jpg",
+          "image_source": "A-LittleWitchAcademia22_1_0.12.25.662.jpg",
           "audio": "media/18/0.mp3",
-          "audio_source": "Chobits_02_0.03.14.840-0.03.15.400.mp3"
+          "audio_source": "A-LittleWitchAcademia22_1_0.12.25.203-0.12.26.121.mp3"
         },
         {
           "source": "ソードアート・オンライン",
@@ -911,12 +911,12 @@
       "examples": [
         {
           "source": "Steins;Gate",
-          "jp": "まゆしぃはがっかりなのです",
+          "jp": "まゆしぃはガッカリなのです",
           "cn": "小真由失望了呢。",
           "image": "media/28/0.jpg",
-          "image_source": "A_Bakemonogatari_E12_1_0.09.32.093.jpg",
+          "image_source": "A_SteinsGateS01_E04_1_0.16.03.684.jpg",
           "audio": "media/28/0.mp3",
-          "audio_source": "A_Bakemonogatari_E12_1_0.09.28.819-0.09.35.367.mp3"
+          "audio_source": "A_SteinsGateS01_E04_1_0.16.02.537-0.16.04.831.mp3"
         },
         {
           "source": "化物語",
@@ -1828,12 +1828,12 @@
       "examples": [
         {
           "source": "Cyberpunk 2077",
-          "jp": "左に動けばキリキリ痛むし、右に動くと何かが噴き出そう",
+          "jp": "い… 胃がキリキリしますわ",
           "cn": "往左动就钻心地痛，往右动像要迸出什么。",
           "image": "media/54/0.jpg",
-          "image_source": "A_ReZeroS01_E02_1_0.30.21.705.jpg",
+          "image_source": "A_NoGameNoLife__10_0.16.18.740.jpg",
           "audio": "media/54/0.mp3",
-          "audio_source": "A_ReZeroS01_E02_1_0.30.20.680-0.30.22.730.mp3"
+          "audio_source": "A_NoGameNoLife__10_0.16.17.238-0.16.20.241.mp3"
         },
         {
           "source": "ノーゲーム・ノーライフ",
@@ -2049,8 +2049,10 @@
       "examples": [
         {
           "source": "ウィッチャー3",
-          "jp": "下水管の柵か…爆発でくしゃくしゃだ。",
-          "cn": "下水道的栅栏……被爆炸揉得稀巴烂。"
+          "jp": "下水管の柵か…爆発でくしゃくしゃだ。モルタルがついてる",
+          "cn": "下水道的栅栏……被爆炸揉得稀巴烂。",
+          "audio": "media/61/0.mp3",
+          "audio_source": "0x0005c260.wav.ogg"
         }
       ]
     },
@@ -3285,8 +3287,10 @@
       "examples": [
         {
           "source": "ウィッチャー3",
-          "jp": "雨がシトシト、ザーザーと",
-          "cn": "雨淅淅沥沥、哗哗地下着。"
+          "jp": "雨がシトシト、ザーザーと、エムヒル皇帝グーグー寝てる、ベッドに入る時に頭をぶつけ、朝にはおしっこ漏らしてる",
+          "cn": "雨淅淅沥沥、哗哗地下着。",
+          "audio": "media/100/0.mp3",
+          "audio_source": "0x000fbe82.wav.ogg"
         }
       ]
     },
@@ -3514,7 +3518,9 @@
         {
           "source": "ウィッチャー3",
           "jp": "厚い革のような葉っぱ…表面はザラザラだ",
-          "cn": "厚厚的像皮革的叶片……表面粗糙。"
+          "cn": "厚厚的像皮革的叶片……表面粗糙。",
+          "audio": "media/108/0.mp3",
+          "audio_source": "0x000fa110.wav.ogg"
         }
       ]
     },
@@ -3592,12 +3598,12 @@
       "examples": [
         {
           "source": "千と千尋の神隠し",
-          "jp": "しっかり",
+          "jp": "(カルシファー)　しっかりしろ！",
           "cn": "（白龙）振作！",
           "image": "media/111/0.jpg",
-          "image_source": "A_PrincessMononoke_1_0.5.18.635.jpg",
+          "image_source": "Anime-Howl'sMovingCastle_1_1.33.06.465.jpg",
           "audio": "media/111/0.mp3",
-          "audio_source": "A_PrincessMononoke_1_0.5.18.197-0.5.19.073.mp3"
+          "audio_source": "Anime-Howl'sMovingCastle_1_1.33.04.465-1.33.08.465.mp3"
         },
         {
           "source": "鋼の錬金術師 Brotherhood",
@@ -3705,8 +3711,10 @@
       "examples": [
         {
           "source": "ウィッチャー3",
-          "jp": "雨がシトシト、ザーザーと…",
-          "cn": "雨淅淅沥沥、哗哗地下……"
+          "jp": "雨がシトシト、ザーザーと、エムヒル皇帝グーグー寝てる、ベッドに入る時に頭をぶつけ、朝にはおしっこ漏らしてる",
+          "cn": "雨淅淅沥沥、哗哗地下……",
+          "audio": "media/114/0.mp3",
+          "audio_source": "0x000fbe82.wav.ogg"
         }
       ]
     },
@@ -4017,8 +4025,10 @@
       "examples": [
         {
           "source": "Skyrim",
-          "jp": "ソリチュードの宮殿にスタスタ入っていって殺した",
-          "cn": "大摇大摆走进索利图德宫殿把他杀了。"
+          "jp": "ウルフリックがトリグを殺害したのさ。ソリチュードの宮殿にスタスタ入っていって殺したんだ。“シャウト”で殺したらしいぜ、信じるかどうかは分からんが",
+          "cn": "大摇大摆走进索利图德宫殿把他杀了。",
+          "audio": "media/124/0.mp3",
+          "audio_source": "malenord_mq102a_mq102aelisiftopic_000d39ac_2.mp3"
         }
       ]
     },
@@ -4110,8 +4120,10 @@
       "examples": [
         {
           "source": "Skyrim",
-          "jp": "あのじいさんの背中にはずっしりと重い責任がのしかかっている",
-          "cn": "那老爷子的背上压着沉甸甸的重担。"
+          "jp": "だが、事務処理はすべて鼻利きネポスに任せているんだ。あのじいさんの背中にはずっしりと重い責任がのしかかっている",
+          "cn": "那老爷子的背上压着沉甸甸的重担。",
+          "audio": "media/127/0.mp3",
+          "audio_source": "maleorc_ms01_ms01mulushmarkettopic_000d6699_2.mp3"
         },
         {
           "source": "Skyrim",
@@ -6721,7 +6733,9 @@
       "examples": [
         {
           "jp": "ヒヒン、ブルルルル！",
-          "cn": ""
+          "cn": "",
+          "audio": "media/217/0.mp3",
+          "audio_source": "0x00113320.wav.ogg"
         },
         {
           "jp": "うう…うまくいかないわね。まだまだ教えてあげたい事があったのに。それに…ヒヒンブルルルル…",
@@ -6756,7 +6770,9 @@
       "examples": [
         {
           "jp": "ピューピューピュー！ピーピーピー！",
-          "cn": ""
+          "cn": "",
+          "audio": "media/219/0.mp3",
+          "audio_source": "0x00121905.wav.ogg"
         }
       ]
     },
@@ -8299,7 +8315,9 @@
       "examples": [
         {
           "jp": "メエメエ黒ヒツジ、毛糸を少し分けとくれ！",
-          "cn": ""
+          "cn": "",
+          "audio": "media/281/0.mp3",
+          "audio_source": "0x0012144f.wav.ogg"
         },
         {
           "jp": "メエメエ黒羊、毛はどこだい？あるなら刈るよ、安くしとくよ！",
@@ -8807,7 +8825,9 @@
       "examples": [
         {
           "jp": "男爵に噛みついたら、きっとよろよろしながら穴蔵に帰ってくだろうな",
-          "cn": ""
+          "cn": "",
+          "audio": "media/300/0.mp3",
+          "audio_source": "0x0007db6c.wav.ogg"
         },
         {
           "jp": "這うようにして、引き出しの中に隠れたよ。すぐに妖婆たちがよろよろと入って来た。ウィーヴィスがばあさんの髪を一房切り取った。子供たちを逃がした罰だと言って。それから、あいつらは扉を開けた。そして下へ、どんどん下へ…どうせなら地獄まで落ちればよかったのに",
